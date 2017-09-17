@@ -1,3 +1,19 @@
+[Adblock Plus 2.0]
+!-------------------------------------------------------------------------------
+! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
+! Title: NoCoin
+! Expires: 2 days
+! Version: 1
+! Last modified: 17 Sep 2017
+! Description: This filter disables browser based miners such as coin-hive
+!
+! You can report unblocked content and direct general queries by raising a
+! ticket on the github repository in the link
+!
+! License: We give everyone permission to modify, copy and distribute this list.
+!          While not mandatory, we would appreciate credit if you use this list. 
+!
+!-------------------------------------------------------------------------------
 https://coin-hive.com/lib*
 https://coin-hive.com/captcha*
 wss://*.coin-hive.com/proxy*
