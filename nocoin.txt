@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Title: NoCoin
 ! Expires: 2 days
-! Version: 1
+! Version: 2
 ! Last modified: 20 Sep 2017
 ! Description: This filter disables browser based miners such as coin-hive
 !
