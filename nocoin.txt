@@ -4,7 +4,7 @@
 ! Title: NoCoin
 ! Expires: 2 days
 ! Version: 1
-! Last modified: 17 Sep 2017
+! Last modified: 20 Sep 2017
 ! Description: This filter disables browser based miners such as coin-hive
 !
 ! You can report unblocked content and direct general queries by raising a
@@ -14,7 +14,5 @@
 !          While not mandatory, we would appreciate credit if you use this list. 
 !
 !-------------------------------------------------------------------------------
-https://coin-hive.com/lib*
-https://coin-hive.com/captcha*
-wss://*.coin-hive.com/proxy*
-https://load.jsecoin.com/*
+||coin-hive.com^$third-party
+||jsecoin.com^$third-party
