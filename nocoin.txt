@@ -14,8 +14,8 @@
 !          While not mandatory, we would appreciate credit if you use this list. 
 !
 !-------------------------------------------------------------------------------
+||cnhv.co^$third-party
 ||coin-hive.com^$third-party
+||gus.host/coins.js
 ||jsecoin.com^$third-party
-||miner.pr0gramm.com^
-||gus.host/coins.js$script
-||cnhv.co^
+||miner.pr0gramm.com^$third-party
