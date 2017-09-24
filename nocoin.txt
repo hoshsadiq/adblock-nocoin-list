@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 !-------------------------------------------------------------------------------
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
-! Title: NoCoin
+! Title: NoCoin Filter List
 ! Expires: 2 days
 ! Version: 2
 ! Last modified: 20 Sep 2017
@@ -11,7 +11,7 @@
 ! ticket on the github repository in the link
 !
 ! License: We give everyone permission to modify, copy and distribute this list.
-!          While not mandatory, we would appreciate credit if you use this list. 
+!          While not mandatory, we would appreciate credit if you use this list.
 !
 !-------------------------------------------------------------------------------
 ||cnhv.co^$third-party
