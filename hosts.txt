@@ -1,4 +1,4 @@
-# NoCoin 
+# NoCoin Filter List
 # Blocking Web Browser Bitcoin Mining
 #
 # Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
