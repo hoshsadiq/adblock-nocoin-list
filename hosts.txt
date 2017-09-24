@@ -1,0 +1,19 @@
+# NoCoin 
+# Blocking Web Browser Bitcoin Mining
+#
+# Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
+# Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
+# Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
+# License: http://creativecommons.org/licenses/by-nc-sa/3.0/
+#
+# Last modified: 24 Sep 2017
+# 
+
+127.0.0.1 localhost
+::1 localhost
+
+0.0.0.0 cnhv.co
+0.0.0.0 coin-hive.com
+0.0.0.0 gus.host
+0.0.0.0 load.jsecoin.com
+0.0.0.0 miner.pr0gramm.com
