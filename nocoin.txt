@@ -21,3 +21,4 @@
 ||miner.pr0gramm.com^$third-party
 ||miner.pr0gramm.com^$websocket
 ||miner.pr0gramm.com/cryptonight-worker.js
+||minemytraffic.com^$third-party
