@@ -17,3 +17,4 @@
 0.0.0.0 gus.host
 0.0.0.0 load.jsecoin.com
 0.0.0.0 miner.pr0gramm.com
+0.0.0.0 minemytraffic.com
