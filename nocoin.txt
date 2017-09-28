@@ -11,6 +11,7 @@
 !-------------------------------------------------------------------------------
 ||cnhv.co^$third-party
 ||coin-hive.com^$third-party
+||coinhive.com^$third-party
 ||gus.host/coins.js
 ||jsecoin.com^$third-party
 ||miner.pr0gramm.com^$third-party
