@@ -1,6 +1,6 @@
 # NoCoin adblock list
-This is an adblock list to block "browser-based crypto mining".
-Currently there are a few websites added into the lists. If you see other websites supporting these deeds, then feel free to raise an Issue or Pull request for it to be taken care of.
+This is an adblock list to block "browser-based crypto mining."
+Currently there are a few websites added into the lists. If you see other websites supporting these deeds, then feel free to raise an **Issue** or **Pull request** for it to be taken care of.
 
 ## Installation
 Make sure you have an adblocker installed in your desktop browsers that uses [Adblock Plus](https://adblockplus.org/)' filter list:
