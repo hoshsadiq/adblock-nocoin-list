@@ -18,3 +18,4 @@
 ||miner.pr0gramm.com^$websocket
 ||miner.pr0gramm.com/cryptonight-worker.js
 ||minemytraffic.com^$third-party
+||goodolddownloads.com/js/dolladollabillz.js
