@@ -3,26 +3,27 @@
 ! Title: NoCoin Filter List
 ! Expires: 2 days (update frequency)
 ! Version: 2
-! Last modified: 01 Oct 2017
+! Last modified: 02 Oct 2017
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
 ! License: https://mit-license.org/
 ! Description: This filter disables browser based miners such as coin-hive
 !-------------------------------------------------------------------------------
-||cnhv.co^$third-party
-||coin-hive.com^$third-party
-||coinhive.com^$third-party
-||gus.host/coins.js
-||jsecoin.com^$third-party
-||miner.pr0gramm.com^$third-party
-||miner.pr0gramm.com^$websocket
-||miner.pr0gramm.com/cryptonight-worker.js
-||minemytraffic.com^$third-party
-||goodolddownloads.com/js/dolladollabillz.js
-||xbasfbno.info^$third-party
 ||azvjudwr.info^$third-party
+||cnhv.co^$third-party
+||coinhive.com^$third-party
+||coin-hive.com^$third-party
+||goodolddownloads.com/js/dolladollabillz.js
+||gus.host/coins.js
 ||jroqvbvw.info^$third-party
+||jsecoin.com^$third-party
 ||jyhfuqoh.info^$third-party
 ||kdowqlpt.info^$third-party
+||minemytraffic.com^$third-party
+||miner.pr0gramm.com/cryptonight-worker.js
+||miner.pr0gramm.com^$third-party
+||miner.pr0gramm.com^$websocket
+||podrltid.info/main.js
+||xbasfbno.info^$third-party
 ! specific block
 .info^$script,domain=oload.tv|openload.co|streamango.com|streamcherry.com
