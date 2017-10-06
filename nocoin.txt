@@ -18,6 +18,8 @@
 ||miner.pr0gramm.com^$websocket
 ||miner.pr0gramm.com/cryptonight-worker.js
 ||minemytraffic.com^$third-party
+||ppoi.org^$third-party
+||projectpoi.com^$third-party
 ||goodolddownloads.com/js/dolladollabillz.js
 ||xbasfbno.info^$third-party
 ||azvjudwr.info^$third-party
