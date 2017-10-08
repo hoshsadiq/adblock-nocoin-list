@@ -20,7 +20,6 @@
 ||minemytraffic.com^$third-party
 ||ppoi.org^$third-party
 ||projectpoi.com^$third-party
-||goodolddownloads.com/js/dolladollabillz.js
 ||kisshentai.net/Content/js/c-hive.js
 ||xbasfbno.info^$third-party
 ||azvjudwr.info^$third-party
