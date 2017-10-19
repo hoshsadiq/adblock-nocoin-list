@@ -6,7 +6,7 @@ Currently there are a few websites added into the lists. If you see other websit
 Make sure you have an adblocker installed in your desktop or mobile browsers that uses [Adblock Plus](https://adblockplus.org/)' filter list:
 * ![AdB](https://i.imgur.com/3KbyifF.png) [AdBlock](https://getadblock.com)
 * ![ABP](https://i.imgur.com/kPRCfhu.png) [Adblock Plus](https://adblockplus.org/)
-* ![uBo](https://i.imgur.com/PSFuzKb.png) [uBlock](https://github.com/gorhill/uBlock)
+* ![uBo](https://i.imgur.com/PSFuzKb.png) [uBlock Origin](https://github.com/gorhill/uBlock)
 * ![Adb Browser](https://i.imgur.com/6pkmjA0.png) [Adblock Browser](https://adblockbrowser.org/) for **Android** and **iOS** devices
 
 Then import below link into your adblocker:
