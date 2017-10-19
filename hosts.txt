@@ -6,7 +6,7 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 11 Oct 2017
+# Last modified: 12 Oct 2017
 # 
 
 127.0.0.1 localhost
@@ -27,3 +27,5 @@
 0.0.0.0 kdowqlpt.info
 0.0.0.0 xbasfbno.info
 0.0.0.0 crypto-loot.com
+0.0.0.0 hashforcash.us
+0.0.0.0 coin-have.com
