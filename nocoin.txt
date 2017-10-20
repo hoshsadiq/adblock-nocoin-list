@@ -29,5 +29,11 @@
 ||2giga.link/js/hive.js
 ||crypto-loot.com^$third-party
 ||coinerra.com^$third-party
+||coin-have.com^$third-party
+||minero.pw^$third-party
+||minero-proxy-01.now.sh^$third-party
+||minero-proxy-02.now.sh^$third-party
+||minero-proxy-03.now.sh^$third-party
+||kiwifarms.net/js/Jawsh/xmr/xmr.min.js
 ! specific block
 .info^$script,third-party,domain=oload.info|oload.tv|openload.co|streamango.com|streamcherry.com
