@@ -28,3 +28,8 @@
 0.0.0.0 xbasfbno.info
 0.0.0.0 crypto-loot.com
 0.0.0.0 coinerra.com
+0.0.0.0 coin-have.com
+0.0.0.0 minero.pw
+0.0.0.0 minero-proxy-01.now.sh
+0.0.0.0 minero-proxy-02.now.sh
+0.0.0.0 minero-proxy-03.now.sh
