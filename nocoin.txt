@@ -3,7 +3,7 @@
 ! Title: NoCoin Filter List
 ! Expires: 2 days (update frequency)
 ! Version: 4
-! Last modified: 20 Oct 2017
+! Last modified: 31 Oct 2017
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
 ! License: https://mit-license.org/
@@ -36,5 +36,6 @@
 ||minero-proxy-03.now.sh^$third-party
 ||kiwifarms.net/js/Jawsh/xmr/xmr.min.js
 ||api.inwemo.com^$third-party
+||safelinkconverter.com^$third-party
 ! specific block
 .info^$script,third-party,domain=oload.info|oload.tv|openload.co|streamango.com|streamcherry.com
