@@ -15,3 +15,8 @@ Then import below link into your adblocker:
 
 For the blocking based on the [HOSTS file](https://en.wikipedia.org/wiki/Hosts_(file)) use the below link:
 - [https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt](https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt)
+
+
+You can also use the 1blocker package if you use <img src="https://1blocker.com/img/icon.png" width=16> [1Blocker](https://1blocker.com) on iOS or Mac.
+ Simply open the file in 1Blocker on iOS or MacOS to import it.
+- https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/Criptomining%20Hijack.1blockpkg
