@@ -12,11 +12,25 @@ Make sure you have an adblocker installed in your desktop or mobile browsers tha
 Then import below link into your adblocker:
 - [https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt](https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt)
 
+## 1Blocker
+You can also use the 1blocker package if you use <img src="https://1blocker.com/img/icon.png" width=16> [1Blocker](https://1blocker.com) on iOS or Mac.
+Simply open the file in 1Blocker on iOS or MacOS to import it.
+- https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.1blockpkg
 
+# Hosts based blocking
 For the blocking based on the [HOSTS file](https://en.wikipedia.org/wiki/Hosts_(file)) use the below link:
 - [https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt](https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt)
 
+## hosts
+You can simply copy and paste the contents of above file into your hosts file. The locations of your hosts file depends on your system:
+- Linux: `/etc/hosts`
+- MacOS: `/etc/hosts`
+- Windows: `C:\Windows\System32\drivers\etc\hosts`
 
-You can also use the 1blocker package if you use <img src="https://1blocker.com/img/icon.png" width=16> [1Blocker](https://1blocker.com) on iOS or Mac.
- Simply open the file in 1Blocker on iOS or MacOS to import it.
-- https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/Criptomining%20Hijack.1blockpkg
+Whichever OS you use, you will require escalated privileges to edit the file (either use `sudo` for Linux/MacOS or administrative account on Windows)
+
+## Perimeter blocking
+You may use the hosts file with below applications to block these miners on whole networks. Simply add the link to the above hosts file in each system.
+
+* ![pfSense](https://i.imgur.com/ElyO5Ie.png) [pfSense](https://www.pfsense.org/) with [pfBlockerNG](https://www.tecmint.com/install-configure-pfblockerng-dns-black-listing-in-pfsense/)
+* ![Pi-hole](https://i.imgur.com/0mgKKma.png) [Pi-hole](https://pi-hole.net)
