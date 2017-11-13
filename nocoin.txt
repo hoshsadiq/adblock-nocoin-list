@@ -36,5 +36,6 @@
 ||minero-proxy-03.now.sh^$third-party
 ||kiwifarms.net/js/Jawsh/xmr/xmr.min.js
 ||api.inwemo.com^$third-party
+||rocks.io^$third-party
 ! specific block
 .info^$script,third-party,domain=oload.info|oload.tv|openload.co|streamango.com|streamcherry.com

@@ -342,6 +342,22 @@
         },
         "name": "Block https?://2giga\\.link/js/hive\\.js",
         "id": "DAE83346-62C5-432F-A9FA-65718650E545"
+      },
+      {
+        "content": {
+          "action": {
+            "type": "block"
+          },
+          "trigger": {
+            "url-filter-is-case-sensitive": true,
+            "url-filter": "https?://rocks\\.io",
+            "load-type": [
+              "third-party"
+            ]
+          }
+        },
+        "name": "Block https?://rocks\\.io",
+        "id": "AD693251-CAEB-4B96-A402-83B5085B15D4"
       }
     ]
   }

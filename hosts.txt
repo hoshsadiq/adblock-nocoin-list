@@ -34,3 +34,4 @@
 0.0.0.0 minero-proxy-02.now.sh
 0.0.0.0 minero-proxy-03.now.sh
 0.0.0.0 api.inwemo.com
+0.0.0.0 rocks.io
