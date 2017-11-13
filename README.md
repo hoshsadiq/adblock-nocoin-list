@@ -10,6 +10,8 @@ Make sure you have an adblocker installed in your desktop or mobile browsers tha
 * ![ABP](https://i.imgur.com/kPRCfhu.png) [Adblock Plus](https://adblockplus.org/)
 * ![uBo](https://i.imgur.com/PSFuzKb.png) [uBlock Origin](https://github.com/gorhill/uBlock)
 * ![Adb Browser](https://i.imgur.com/6pkmjA0.png) [Adblock Browser](https://adblockbrowser.org/) for **Android** and **iOS** devices
+* ![Brave Browser](https://user-images.githubusercontent.com/831718/32730079-e80c013c-c853-11e7-83b4-7443bc489581.png) [Brave Browser](https://www.brave.com) (Included by default)
+
 
 Then import below link into your adblocker:
 - [https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt](https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt)
