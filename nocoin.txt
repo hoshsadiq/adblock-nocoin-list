@@ -2,8 +2,8 @@
 !-------------------------------------------------------------------------------
 ! Title: NoCoin Filter List
 ! Expires: 2 days (update frequency)
-! Version: 4
-! Last modified: 20 Oct 2017
+! Version: 5
+! Last modified: 24 Oct 2017
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
 ! License: https://mit-license.org/
@@ -37,5 +37,10 @@
 ||kiwifarms.net/js/Jawsh/xmr/xmr.min.js
 ||api.inwemo.com^$third-party
 ||rocks.io^$third-party
+
+# Adminer references coinhive as well. Also authedmine for some reason.
+||adminer.com^$third-party
+||77.162.125.199^$third-party
+
 ! specific block
 .info^$script,third-party,domain=oload.info|oload.tv|openload.co|streamango.com|streamcherry.com

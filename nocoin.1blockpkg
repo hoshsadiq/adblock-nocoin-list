@@ -358,6 +358,38 @@
         },
         "name": "Block https?://rocks\\.io",
         "id": "AD693251-CAEB-4B96-A402-83B5085B15D4"
+      },
+      {
+        "content": {
+          "action": {
+            "type": "block"
+          },
+          "trigger": {
+            "url-filter-is-case-sensitive": true,
+            "url-filter": "(https?|ws)://adminer\\.com",
+            "load-type": [
+              "third-party"
+            ]
+          }
+        },
+        "name": "Block (https?|ws)://adminer\\.com",
+        "id": "03E72BEF-648D-454C-8E0C-710085ADA053"
+      },
+      {
+        "content": {
+          "action": {
+            "type": "block"
+          },
+          "trigger": {
+            "url-filter-is-case-sensitive": true,
+            "url-filter": "(https?|ws)://77.162.125.199",
+            "load-type": [
+              "third-party"
+            ]
+          }
+        },
+        "name": "Block (https?|ws)://77.162.125.199",
+        "id": "9FC238EF-0D81-4E28-BC28-5D71869D31FB"
       }
     ]
   }
