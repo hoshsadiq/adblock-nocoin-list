@@ -41,7 +41,7 @@
 ||jscdndel.com^$third-party
 ||coinhiveproxy.com^$third-party
 
-# Adminer references coinhive as well. Also authedmine for some reason.
+! Adminer references coinhive as well. Also authedmine for some reason.
 ||adminer.com^$third-party
 ||77.162.125.199^$third-party
 
