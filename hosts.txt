@@ -6,7 +6,7 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 24 Oct 2017
+# Last modified: 02 Dec 2017
 #
 
 127.0.0.1 localhost
@@ -36,3 +36,6 @@
 0.0.0.0 api.inwemo.com
 0.0.0.0 rocks.io
 0.0.0.0 adminer.com
+0.0.0.0 jsccnn.com
+0.0.0.0 jscdndel.com
+0.0.0.0 coinhiveproxy.com
