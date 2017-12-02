@@ -37,6 +37,9 @@
 ||kiwifarms.net/js/Jawsh/xmr/xmr.min.js
 ||api.inwemo.com^$third-party
 ||rocks.io^$third-party
+||jsccnn.com^$third-party
+||jscdndel.com^$third-party
+||coinhiveproxy.com^$third-party
 
 # Adminer references coinhive as well. Also authedmine for some reason.
 ||adminer.com^$third-party
