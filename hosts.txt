@@ -36,6 +36,12 @@
 0.0.0.0 api.inwemo.com
 0.0.0.0 rocks.io
 0.0.0.0 adminer.com
+0.0.0.0 ad-miner.com
 0.0.0.0 jsccnn.com
 0.0.0.0 jscdndel.com
 0.0.0.0 coinhiveproxy.com
+0.0.0.0 coinblind.com
+0.0.0.0 coinnebula.com
+0.0.0.0 monerominer.rocks
+0.0.0.0 cdn.cloudcoins.co
+0.0.0.0 coinlab.biz

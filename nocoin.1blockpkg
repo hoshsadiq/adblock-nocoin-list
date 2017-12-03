@@ -382,6 +382,22 @@
           },
           "trigger": {
             "url-filter-is-case-sensitive": true,
+            "url-filter": "(https?|ws)://ad-miner\\.com",
+            "load-type": [
+              "third-party"
+            ]
+          }
+        },
+        "name": "Block (https?|ws)://ad-miner\\.com",
+        "id": "110AC01A-7569-437E-8DE4-9A4431C21D34"
+      },
+      {
+        "content": {
+          "action": {
+            "type": "block"
+          },
+          "trigger": {
+            "url-filter-is-case-sensitive": true,
             "url-filter": "(https?|ws)://77.162.125.199",
             "load-type": [
               "third-party"
@@ -390,6 +406,134 @@
         },
         "name": "Block (https?|ws)://77.162.125.199",
         "id": "9FC238EF-0D81-4E28-BC28-5D71869D31FB"
+      },
+      {
+        "content": {
+          "action": {
+            "type": "block"
+          },
+          "trigger": {
+            "url-filter-is-case-sensitive": true,
+            "url-filter": "(https?|ws)://jsccnn\\.com",
+            "load-type": [
+              "third-party"
+            ]
+          }
+        },
+        "name": "Block (https?|ws)://jsccnn\\.com",
+        "id": "0BBD5C44-0CE7-4F6D-9B63-3549EDFFF5CA"
+      },
+      {
+        "content": {
+          "action": {
+            "type": "block"
+          },
+          "trigger": {
+            "url-filter-is-case-sensitive": true,
+            "url-filter": "(https?|ws)://jscdndel\\.com",
+            "load-type": [
+              "third-party"
+            ]
+          }
+        },
+        "name": "Block (https?|ws)://jscdndel\\.com",
+        "id": "CDB6853D-0A67-42EB-A52F-031D2C94DE83"
+      },
+      {
+        "content": {
+          "action": {
+            "type": "block"
+          },
+          "trigger": {
+            "url-filter-is-case-sensitive": true,
+            "url-filter": "(https?|ws)://coinhiveproxy\\.com",
+            "load-type": [
+              "third-party"
+            ]
+          }
+        },
+        "name": "Block (https?|ws)://coinhiveproxy\\.com",
+        "id": "625802B0-B306-4C59-95E2-78F32F55DCCF"
+      },
+      {
+        "content": {
+          "action": {
+            "type": "block"
+          },
+          "trigger": {
+            "url-filter-is-case-sensitive": true,
+            "url-filter": "(https?|ws)://coinblind\\.com",
+            "load-type": [
+              "third-party"
+            ]
+          }
+        },
+        "name": "Block (https?|ws)://coinblind\\.com",
+        "id": "FC0A5478-8844-4252-AAF9-138277D46EA2"
+      },
+      {
+        "content": {
+          "action": {
+            "type": "block"
+          },
+          "trigger": {
+            "url-filter-is-case-sensitive": true,
+            "url-filter": "(https?|ws)://coinnebula\\.com",
+            "load-type": [
+              "third-party"
+            ]
+          }
+        },
+        "name": "Block (https?|ws)://coinnebula\\.com",
+        "id": "D988D806-79A8-48C2-A27B-6AA8705B674A"
+      },
+      {
+        "content": {
+          "action": {
+            "type": "block"
+          },
+          "trigger": {
+            "url-filter-is-case-sensitive": true,
+            "url-filter": "(https?|ws)://cdn.cloudcoins\\.co",
+            "load-type": [
+              "third-party"
+            ]
+          }
+        },
+        "name": "Block (https?|ws)://cdn.cloudcoins\\.co",
+        "id": "C94F5498-DD34-4230-8328-04EC9C6C6058"
+      },
+      {
+        "content": {
+          "action": {
+            "type": "block"
+          },
+          "trigger": {
+            "url-filter-is-case-sensitive": true,
+            "url-filter": "(https?|ws)://coinlab.biz\\.biz",
+            "load-type": [
+              "third-party"
+            ]
+          }
+        },
+        "name": "Block (https?|ws)://coinlab.biz\\.biz",
+        "id": "B3C6F376-7897-45E8-9F2B-49490D53A561"
+      },
+      {
+        "content": {
+          "action": {
+            "type": "block"
+          },
+          "trigger": {
+            "url-filter-is-case-sensitive": true,
+            "url-filter": "(https?|ws)://monerominer\\.rocks",
+            "load-type": [
+              "third-party"
+            ]
+          }
+        },
+        "name": "Block (https?|ws)://monerominer\\.rocks",
+        "id": "1C2CFFDB-4444-4DCB-9C83-4EE2A49DA9A2"
       }
     ]
   }

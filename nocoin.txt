@@ -40,9 +40,15 @@
 ||jsccnn.com^$third-party
 ||jscdndel.com^$third-party
 ||coinhiveproxy.com^$third-party
+||coinblind.com^$third-party
+||coinnebula.com^$third-party
+||monerominer.rocks^$third-party
+||cdn.cloudcoins.co^$third-party
+||coinlab.biz^$third-party
 
 ! Adminer references coinhive as well. Also authedmine for some reason.
 ||adminer.com^$third-party
+||ad-miner.com^$third-party
 ||77.162.125.199^$third-party
 
 ! specific block
