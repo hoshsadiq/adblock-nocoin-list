@@ -534,6 +534,22 @@
         },
         "name": "Block (https?|ws)://monerominer\\.rocks",
         "id": "1C2CFFDB-4444-4DCB-9C83-4EE2A49DA9A2"
+      },
+      {
+        "content": {
+          "action": {
+            "type": "block"
+          },
+          "trigger": {
+            "url-filter-is-case-sensitive": true,
+            "url-filter": "(https?|ws)://go\\.megabanners\\.cf",
+            "load-type": [
+              "third-party"
+            ]
+          }
+        },
+        "name": "Block (https?|ws)://go\\.megabanners\\.cf",
+        "id": "D4766E7F-F9CD-4246-B3FC-E87D40AC8238"
       }
     ]
   }

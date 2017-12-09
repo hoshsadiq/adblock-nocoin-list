@@ -2,8 +2,8 @@
 !-------------------------------------------------------------------------------
 ! Title: NoCoin Filter List
 ! Expires: 2 days (update frequency)
-! Version: 5
-! Last modified: 25 Nov 2017
+! Version: 6
+! Last modified: 9 Dec 2017
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
 ! License: https://mit-license.org/
@@ -45,11 +45,18 @@
 ||monerominer.rocks^$third-party
 ||cdn.cloudcoins.co^$third-party
 ||coinlab.biz^$third-party
+||go.megabanners.cf^$third-party
+||go.megabanners.cf^$websocket
 
 ! Adminer references coinhive as well. Also authedmine for some reason.
 ||adminer.com^$third-party
 ||ad-miner.com^$third-party
 ||77.162.125.199^$third-party
+
+! We might as well start blocking offending pools from within in the filter
+! lists only. Pools will be blocked in browsers, and should work fine if
+! someone intends to mine Monero on their machine using native mining software.
+||pool.supportxmr.com^$third-party
 
 ! specific block
 .info^$script,third-party,domain=oload.info|oload.tv|openload.co|streamango.com|streamcherry.com
