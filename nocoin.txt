@@ -21,11 +21,6 @@
 ||ppoi.org^$third-party
 ||projectpoi.com^$third-party
 ||kisshentai.net/Content/js/c-hive.js
-||xbasfbno.info^$third-party
-||azvjudwr.info^$third-party
-||jroqvbvw.info^$third-party
-||jyhfuqoh.info^$third-party
-||kdowqlpt.info^$third-party
 ||2giga.link/js/hive.js
 ||crypto-loot.com^$third-party
 ||coinerra.com^$third-party
@@ -58,6 +53,28 @@
 ! someone intends to mine Monero on their machine using native mining software.
 ||pool.supportxmr.com^$third-party
 
+! Obfuscated and whatnot.
+||rapidvideo.com/J5xj_2.js
+.space^$third-party,websocket
+.space^*.wasm$third-party
+||1beb2a44.space^$third-party
+||300ca0d0.space^$third-party
+||310ca263.space^$third-party
+||320ca3f6.space^$third-party
+||330ca589.space^$third-party
+||340ca71c.space^$third-party
+||360caa42.space^$third-party
+||370cabd5.space^$third-party
+||3c0cb3b4.space^$third-party
+||3d0cb547.space^$third-party
+
 ! specific block
 .info^$script,third-party,domain=oload.info|oload.tv|openload.co|streamango.com|streamcherry.com
 ||openkatalog.com^$subdocument,first-party
+
+! Does not seem to work anymore, but keeping it here just in case it gets revived
+||xbasfbno.info^$third-party
+||azvjudwr.info^$third-party
+||jroqvbvw.info^$third-party
+||jyhfuqoh.info^$third-party
+||kdowqlpt.info^$third-party

@@ -21,11 +21,6 @@
 0.0.0.0 minemytraffic.com
 0.0.0.0 ppoi.org
 0.0.0.0 projectpoi.com
-0.0.0.0 azvjudwr.info
-0.0.0.0 jroqvbvw.info
-0.0.0.0 jyhfuqoh.info
-0.0.0.0 kdowqlpt.info
-0.0.0.0 xbasfbno.info
 0.0.0.0 crypto-loot.com
 0.0.0.0 coinerra.com
 0.0.0.0 coin-have.com
@@ -46,3 +41,22 @@
 0.0.0.0 cdn.cloudcoins.co
 0.0.0.0 coinlab.biz
 0.0.0.0 go.megabanners.cf
+
+# Does not seem to work anymore, but keeping it here just in case it gets revived
+0.0.0.0 azvjudwr.info
+0.0.0.0 jroqvbvw.info
+0.0.0.0 jyhfuqoh.info
+0.0.0.0 kdowqlpt.info
+0.0.0.0 xbasfbno.info
+
+# These were Obfuscated
+1beb2a44.space
+300ca0d0.space
+310ca263.space
+320ca3f6.space
+330ca589.space
+340ca71c.space
+360caa42.space
+370cabd5.space
+3c0cb3b4.space
+3d0cb547.space
