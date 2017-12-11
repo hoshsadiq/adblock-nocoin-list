@@ -41,6 +41,7 @@
 0.0.0.0 cdn.cloudcoins.co
 0.0.0.0 coinlab.biz
 0.0.0.0 go.megabanners.cf
+0.0.0.0 baiduccdn1.com
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info
