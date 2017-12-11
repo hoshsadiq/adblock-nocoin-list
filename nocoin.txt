@@ -2,8 +2,8 @@
 !-------------------------------------------------------------------------------
 ! Title: NoCoin Filter List
 ! Expires: 2 days (update frequency)
-! Version: 7
-! Last modified: 10 Dec 2017
+! Version: 8
+! Last modified: 11 Dec 2017
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
 ! License: https://mit-license.org/
@@ -42,6 +42,7 @@
 ||coinlab.biz^$third-party
 ||go.megabanners.cf^$third-party
 ||go.megabanners.cf^$websocket
+||baiduccdn1.com^$third-party
 
 ! Adminer references coinhive as well. Also authedmine for some reason.
 ||adminer.com^$third-party
