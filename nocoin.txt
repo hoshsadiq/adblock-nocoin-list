@@ -71,7 +71,7 @@
 
 ! specific block
 .info^$script,third-party,domain=oload.info|oload.tv|openload.co|streamango.com|streamcherry.com
-/^((?!(^https?):\/\/(vidfile\.net|(www\.)?youtube\.com|openload\.co|docs\.google\.com|video\.sibnet\.ru|oload\.stream|streamango\.com|vidlox\.tv|(www\.)?rapidvideo\.com|tune\.pk|(www\.)?dailymotion\.com|estream\.to)\/).)*$/$subdocument,domain=a-o.ninja|vidfile.net
+/^((?!(^https?):\/\/(vidfile\.net|(www\.)?youtube\.com|openload\.co|docs\.google\.com|video\.sibnet\.ru|oload\.stream|streamango\.com|vidlox\.tv|(www\.)?rapidvideo\.com|tune\.pk|(www\.)?dailymotion\.com|estream\.to)\/).)*$/$subdocument,domain=a-o.ninja|centrum-dramy.pl|love-drama.pl|vidfile.net
 ||openkatalog.com^$subdocument
 
 ! Does not seem to work anymore, but keeping it here just in case it gets revived
