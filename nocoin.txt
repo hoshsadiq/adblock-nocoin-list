@@ -2,8 +2,8 @@
 !-------------------------------------------------------------------------------
 ! Title: NoCoin Filter List
 ! Expires: 2 days (update frequency)
-! Version: 8
-! Last modified: 11 Dec 2017
+! Version: 9
+! Last modified: 16 Dec 2017
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
 ! License: https://mit-license.org/
@@ -31,6 +31,10 @@
 ||minero-proxy-03.now.sh^$third-party
 ||kiwifarms.net/js/Jawsh/xmr/xmr.min.js
 ||api.inwemo.com^$third-party
+||safelinkconverter.com^$third-party
+||wty46.com^$third-party
+||cryptoloot.pro^$third-party
+||noblock.pro^$third-party
 ||rocks.io^$third-party
 ||jsccnn.com^$third-party
 ||jscdndel.com^$third-party

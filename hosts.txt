@@ -6,7 +6,7 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 9 Dec 2017
+# Last modified: 16 Dec 2017
 #
 
 127.0.0.1 localhost
@@ -29,6 +29,10 @@
 0.0.0.0 minero-proxy-02.now.sh
 0.0.0.0 minero-proxy-03.now.sh
 0.0.0.0 api.inwemo.com
+0.0.0.0 safelinkconverter.com
+0.0.0.0 wty46.com
+0.0.0.0 cryptoloot.pro
+0.0.0.0 noblock.pro
 0.0.0.0 rocks.io
 0.0.0.0 adminer.com
 0.0.0.0 ad-miner.com
