@@ -9,9 +9,6 @@
 # Last modified: 9 Dec 2017
 #
 
-127.0.0.1 localhost
-::1 localhost
-
 0.0.0.0 cnhv.co
 0.0.0.0 coin-hive.com
 0.0.0.0 coinhive.com
@@ -42,6 +39,15 @@
 0.0.0.0 coinlab.biz
 0.0.0.0 go.megabanners.cf
 0.0.0.0 baiduccdn1.com
+
+# https://github.com/hoshsadiq/adblock-nocoin-list/issues/76
+0.0.0.0 cryptoloot.pro
+
+# https://github.com/hoshsadiq/adblock-nocoin-list/issues/74
+0.0.0.0 crypto.csgocpu.com
+
+# https://github.com/hoshsadiq/adblock-nocoin-list/issues/71
+0.0.0.0 noblock.pro
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info

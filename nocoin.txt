@@ -44,6 +44,15 @@
 ||go.megabanners.cf^$websocket
 ||baiduccdn1.com^$third-party
 
+! https://github.com/hoshsadiq/adblock-nocoin-list/issues/76
+||cryptoloot.pro^third-party
+
+! https://github.com/hoshsadiq/adblock-nocoin-list/issues/74
+||crypto.csgocpu.com^third-party
+
+! https://github.com/hoshsadiq/adblock-nocoin-list/issues/71
+||noblock.pro^third-party
+
 ! Adminer references coinhive as well. Also authedmine for some reason.
 ||adminer.com^$third-party
 ||ad-miner.com^$third-party
