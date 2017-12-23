@@ -2,8 +2,8 @@
 !-------------------------------------------------------------------------------
 ! Title: NoCoin Filter List
 ! Expires: 2 days (update frequency)
-! Version: 8
-! Last modified: 11 Dec 2017
+! Version: 9
+! Last modified: 23 Dec 2017
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
 ! License: https://mit-license.org/
