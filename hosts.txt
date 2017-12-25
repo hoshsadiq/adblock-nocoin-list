@@ -6,7 +6,7 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 23 Dec 2017
+# Last modified: 25 Dec 2017
 #
 
 0.0.0.0 cnhv.co
@@ -42,12 +42,16 @@
 
 # https://github.com/hoshsadiq/adblock-nocoin-list/issues/76
 0.0.0.0 cryptoloot.pro
+0.0.0.0 bjorksta.men
 
 # https://github.com/hoshsadiq/adblock-nocoin-list/issues/74
 0.0.0.0 crypto.csgocpu.com
 
 # https://github.com/hoshsadiq/adblock-nocoin-list/issues/71
 0.0.0.0 noblock.pro
+
+# https://github.com/hoshsadiq/adblock-nocoin-list/issues/80
+1q2w3.me
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info
