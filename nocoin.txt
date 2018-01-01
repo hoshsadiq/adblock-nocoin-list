@@ -2,8 +2,8 @@
 !-------------------------------------------------------------------------------
 ! Title: NoCoin Filter List
 ! Expires: 2 days (update frequency)
-! Version: 10
-! Last modified: 25 Dec 2017
+! Version: 11
+! Last modified: 1 Jan 2018
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
 ! License: https://mit-license.org/
@@ -67,6 +67,12 @@ $websocket,domain=vidoza.net
 ! https://github.com/hoshsadiq/adblock-nocoin-list/issues/80
 $websocket,domain=powvideo.net
 ||1q2w3.me^third-party
+
+! cryptobara.com
+! https://github.com/hoshsadiq/adblock-nocoin-list/issues/85
+||cryptobara.com/client/worker.js
+||cryptobara.com^$third-party
+||reservedoffers.club^$csp=child-src 'none';frame-src *;worker-src 'none';
 
 ! Adminer references coinhive as well. Also authedmine for some reason.
 ||adminer.com^$third-party

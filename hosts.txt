@@ -6,7 +6,7 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 28 Dec 2017
+# Last modified: 1 Jan 2018
 #
 
 0.0.0.0 cnhv.co
@@ -52,6 +52,12 @@
 
 # https://github.com/hoshsadiq/adblock-nocoin-list/issues/80
 0.0.0.0 1q2w3.me
+
+# cryptobara.com
+# https://github.com/hoshsadiq/adblock-nocoin-list/issues/85
+0.0.0.0 miner.cryptobara.com
+0.0.0.0 digger.cryptobara.com
+0.0.0.0 dev.cryptobara.com
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info
