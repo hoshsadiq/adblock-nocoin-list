@@ -79,6 +79,11 @@ $websocket,domain=powvideo.net
 ||biberukalap.com^
 ||gridiogrid.com^
 
+! extratorrent.cd
+! https://github.com/hoshsadiq/adblock-nocoin-list/issues/88
+?proxy=wss://mine.
+||mine.torrent.pw^
+
 ! Adminer references coinhive as well. Also authedmine for some reason.
 ||adminer.com^$third-party
 ||ad-miner.com^$third-party

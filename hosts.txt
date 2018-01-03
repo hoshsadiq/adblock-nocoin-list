@@ -65,6 +65,10 @@
 0.0.0.0 biberukalap.com
 0.0.0.0 gridiogrid.com
 
+# extratorrent.cd
+# https://github.com/hoshsadiq/adblock-nocoin-list/issues/88
+0.0.0.0 mine.torrent.pw
+
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info
 0.0.0.0 jroqvbvw.info
