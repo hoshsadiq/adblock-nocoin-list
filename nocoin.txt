@@ -2,8 +2,8 @@
 !-------------------------------------------------------------------------------
 ! Title: NoCoin Filter List
 ! Expires: 2 days (update frequency)
-! Version: 11
-! Last modified: 1 Jan 2018
+! Version: 12
+! Last modified: 3 Jan 2018
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
 ! License: https://mit-license.org/
@@ -57,8 +57,7 @@
 ! vidoza.net
 ! https://github.com/hoshsadiq/adblock-nocoin-list/issues/77
 ! https://github.com/easylist/easylist/commit/1f9bd0652f35ae294b960406214308ddeb2c7186
-.science^$popup,domain=vidoza.net
-@@||vidoza.net/js/pop.js$script,domain=vidoza.net
+.science^$third-party,domain=vidoza.net
 |http://script,third-party,domain=vidoza.net
 |https://script,third-party,domain=vidoza.net
 $websocket,domain=vidoza.net
@@ -72,7 +71,13 @@ $websocket,domain=powvideo.net
 ! https://github.com/hoshsadiq/adblock-nocoin-list/issues/85
 ||cryptobara.com/client/worker.js
 ||cryptobara.com^$third-party
+||reservedoffers.club^$third-party
 ||reservedoffers.club^$csp=child-src 'none';frame-src *;worker-src 'none';
+
+! skyback.ru
+! https://github.com/hoshsadiq/adblock-nocoin-list/issues/87
+||biberukalap.com^
+||gridiogrid.com^
 
 ! Adminer references coinhive as well. Also authedmine for some reason.
 ||adminer.com^$third-party
