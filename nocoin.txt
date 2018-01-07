@@ -43,6 +43,8 @@
 ||go.megabanners.cf^$third-party
 ||go.megabanners.cf^$websocket
 ||baiduccdn1.com^$third-party
+||wsp.marketgid.com^$third-party
+||papoto.com^$third-party
 
 ! https://github.com/hoshsadiq/adblock-nocoin-list/issues/76
 ||cryptoloot.pro^third-party
@@ -81,13 +83,20 @@ $websocket,domain=powvideo.net
 
 ! extratorrent.cd
 ! https://github.com/hoshsadiq/adblock-nocoin-list/issues/88
-?proxy=wss://mine.
 ||mine.torrent.pw^
 
 ! Adminer references coinhive as well. Also authedmine for some reason.
 ||adminer.com^$third-party
 ||ad-miner.com^$third-party
 ||77.162.125.199^$third-party
+
+! https://publicwww.com/websites/%22inject.js%3Fkey%3D%22/
+||host.d-ns.ga^third-party
+||abc.pema.cl^third-party
+
+! https://github.com/keraf/NoCoin/issues/114
+||mine.nahnoji.cz^third-party
+||webmine.cz^third-party
 
 ! We might as well start blocking offending pools from within in the filter
 ! lists only. Pools will be blocked in browsers, and should work fine if
@@ -113,6 +122,34 @@ $websocket,domain=powvideo.net
 .info^$script,third-party,domain=oload.info|oload.tv|openload.co|streamango.com|streamcherry.com
 /^((?!(^https?):\/\/(vidfile\.net|(www\.)?youtube\.com|openload\.co|docs\.google\.com|video\.sibnet\.ru|oload\.stream|streamango\.com|vidlox\.tv|(www\.)?rapidvideo\.com|tune\.pk|(www\.)?dailymotion\.com|estream\.to)\/).)*$/$subdocument,domain=a-o.ninja|centrum-dramy.pl|love-drama.pl|vidfile.net
 ||openkatalog.com^$subdocument
+
+! Adblock filter generics based on easyprivacy
+! https://github.com/easylist/easylist/blob/master/easyprivacy/easyprivacy_general.txt#L3617
+/c-hive.js
+/c.wasm
+/cloudcoins.js
+/cloudcoins.min.js
+/coinblind.js
+/coinblind_beta.
+/coinhive.min.js
+/coinlab.js
+/cryptonight-worker.js
+/cryptonight.wasm
+/deepMiner.js
+/jsecoin.*/?
+/lhnhelpouttab-current.min.js
+/miner-ui.js
+/miner.js
+/miner.min.js
+/miner?key=
+/obfus.min.js
+/projectpoi.min.js
+/wproxy$~third-party,websocket
+/xminer.js
+/xminer.min.js
+/xmr.js
+/xmr.min.js
+?proxy=wss://$script,websocket
 
 ! Does not seem to work anymore, but keeping it here just in case it gets revived
 ||xbasfbno.info^$third-party

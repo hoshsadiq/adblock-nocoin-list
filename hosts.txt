@@ -39,6 +39,8 @@
 0.0.0.0 coinlab.biz
 0.0.0.0 go.megabanners.cf
 0.0.0.0 baiduccdn1.com
+0.0.0.0 wsp.marketgid.com
+0.0.0.0 papoto.com
 
 # https://github.com/hoshsadiq/adblock-nocoin-list/issues/76
 0.0.0.0 cryptoloot.pro
@@ -68,6 +70,14 @@
 # extratorrent.cd
 # https://github.com/hoshsadiq/adblock-nocoin-list/issues/88
 0.0.0.0 mine.torrent.pw
+
+# https://publicwww.com/websites/%22inject.js%3Fkey%3D%22/
+0.0.0.0 host.d-ns.ga
+0.0.0.0 abc.pema.cl
+
+# https://github.com/keraf/NoCoin/issues/114
+0.0.0.0 mine.nahnoji.cz
+0.0.0.0 webmine.cz
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info
