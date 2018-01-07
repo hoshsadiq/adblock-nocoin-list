@@ -98,9 +98,7 @@ $websocket,domain=powvideo.net
 ||mine.nahnoji.cz^third-party
 ||webmine.cz^third-party
 
-! We might as well start blocking offending pools from within in the filter
-! lists only. Pools will be blocked in browsers, and should work fine if
-! someone intends to mine Monero on their machine using native mining software.
+! Pools
 ||pool.supportxmr.com^$third-party
 
 ! Obfuscated and whatnot.
