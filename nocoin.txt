@@ -99,7 +99,7 @@ $websocket,domain=powvideo.net
 ||webmine.cz^third-party
 
 ! https://github.com/hoshsadiq/adblock-nocoin-list/issues/92
-||bablace.com^$thirdparty
+||bablace.com^$third-party
 
 ! Pools
 ||pool.supportxmr.com^$third-party
