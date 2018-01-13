@@ -108,6 +108,9 @@ $websocket,domain=powvideo.net
 ! https://github.com/hoshsadiq/adblock-nocoin-list/issues/92
 ||bablace.com^$third-party
 
+! https://github.com/hoshsadiq/adblock-nocoin-list/pull/93#issuecomment-356587066
+||sparnove.com^
+
 ! Pools
 ||pool.supportxmr.com^
 
