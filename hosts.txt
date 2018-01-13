@@ -79,6 +79,12 @@
 0.0.0.0 mine.nahnoji.cz
 0.0.0.0 webmine.cz
 
+# https://github.com/hoshsadiq/adblock-nocoin-list/issues/95
+0.0.0.0 intactoffers.club
+
+# https://github.com/hoshsadiq/adblock-nocoin-list/issues/94
+0.0.0.0 analytics.blue
+
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info
 0.0.0.0 jroqvbvw.info

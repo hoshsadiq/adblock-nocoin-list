@@ -9,8 +9,8 @@
 ! License: https://mit-license.org/
 ! Description: This filter disables browser based miners such as coin-hive
 !-------------------------------------------------------------------------------
-||cnhv.co^$third-party
-||coin-hive.com^$third-party
+||cnhv.co^
+||coin-hive.com^
 ||coinhive.com^$third-party
 ||gus.host/coins.js
 ||jsecoin.com^$third-party
@@ -22,6 +22,7 @@
 ||projectpoi.com^$third-party
 ||kisshentai.net/Content/js/c-hive.js
 ||2giga.link/js/hive.js
+||2giga.link^$websocket
 ||crypto-loot.com^$third-party
 ||coinerra.com^$third-party
 ||coin-have.com^$third-party
@@ -86,7 +87,7 @@ $websocket,domain=powvideo.net
 ||mine.torrent.pw^
 
 ! Adminer references coinhive as well. Also authedmine for some reason.
-||adminer.com^$third-party
+||adminer.com^
 ||ad-miner.com^$third-party
 ||77.162.125.199^$third-party
 
@@ -95,14 +96,20 @@ $websocket,domain=powvideo.net
 ||abc.pema.cl^third-party
 
 ! https://github.com/keraf/NoCoin/issues/114
-||mine.nahnoji.cz^third-party
-||webmine.cz^third-party
+||mine.nahnoji.cz^
+||webmine.cz^
+
+! https://github.com/hoshsadiq/adblock-nocoin-list/issues/95
+||intactoffers.club^$csp=child-src 'none';frame-src *;worker-src 'none';
+
+! https://github.com/hoshsadiq/adblock-nocoin-list/issues/94
+||analytics.blue^
 
 ! https://github.com/hoshsadiq/adblock-nocoin-list/issues/92
 ||bablace.com^$third-party
 
 ! Pools
-||pool.supportxmr.com^$third-party
+||pool.supportxmr.com^
 
 ! Obfuscated and whatnot.
 ||rapidvideo.com/J5xj_2.js
