@@ -2,8 +2,8 @@
 !-------------------------------------------------------------------------------
 ! Title: NoCoin Filter List
 ! Expires: 2 days (update frequency)
-! Version: 13
-! Last modified: 7 Jan 2018
+! Version: 14
+! Last modified: 14 Jan 2018
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
 ! License: https://mit-license.org/
@@ -75,7 +75,7 @@ $websocket,domain=powvideo.net
 ||cryptobara.com/client/worker.js
 ||cryptobara.com^$third-party
 ||reservedoffers.club^$third-party
-||reservedoffers.club^$csp=child-src 'none';frame-src *;worker-src 'none';
+
 
 ! skyback.ru
 ! https://github.com/hoshsadiq/adblock-nocoin-list/issues/87
@@ -98,9 +98,6 @@ $websocket,domain=powvideo.net
 ! https://github.com/keraf/NoCoin/issues/114
 ||mine.nahnoji.cz^
 ||webmine.cz^
-
-! https://github.com/hoshsadiq/adblock-nocoin-list/issues/95
-||intactoffers.club^$csp=child-src 'none';frame-src *;worker-src 'none';
 
 ! https://github.com/hoshsadiq/adblock-nocoin-list/issues/94
 ||analytics.blue^
@@ -168,3 +165,7 @@ $websocket,domain=powvideo.net
 ||jroqvbvw.info^$third-party
 ||jyhfuqoh.info^$third-party
 ||kdowqlpt.info^$third-party
+
+! Filters optimized for uBlock -------------------------------------------------
+!#include nocoin-ublock.txt
+!-------------------------------------------------------------------------------
