@@ -1,0 +1,7 @@
+# NoCoin filter list optimized for uBlock
+
+! https://github.com/hoshsadiq/adblock-nocoin-list/issues/85
+||reservedoffers.club^$csp=child-src 'none';frame-src *;worker-src 'none';
+
+! https://github.com/hoshsadiq/adblock-nocoin-list/issues/95
+||intactoffers.club^$csp=child-src 'none';frame-src *;worker-src 'none';
