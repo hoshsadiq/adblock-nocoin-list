@@ -16,11 +16,9 @@
 ||jsecoin.com^$third-party
 ||miner.pr0gramm.com^$third-party
 ||miner.pr0gramm.com^$websocket
-||miner.pr0gramm.com/cryptonight-worker.js
 ||minemytraffic.com^$third-party
 ||ppoi.org^$third-party
 ||projectpoi.com^$third-party
-||kisshentai.net/Content/js/c-hive.js
 ||2giga.link/js/hive.js
 ||2giga.link^$websocket
 ||crypto-loot.com^$third-party
@@ -30,7 +28,6 @@
 ||minero-proxy-01.now.sh^$third-party
 ||minero-proxy-02.now.sh^$third-party
 ||minero-proxy-03.now.sh^$third-party
-||kiwifarms.net/js/Jawsh/xmr/xmr.min.js
 ||api.inwemo.com^$third-party
 ||rocks.io^$third-party
 ||jsccnn.com^$third-party
