@@ -144,6 +144,11 @@ $websocket,xmlhttprequest,domain=lewd.ninja|love-drama.pl
 .pro^$third-party,websocket
 ||webmine.pro^$third-party
 
+! https://github.com/uBlockOrigin/uAssets/issues/1318
+||hodlers.party^
+||hodling.faith^
+||chainblock.science^
+
 ! Pools
 ||pool.supportxmr.com^
 

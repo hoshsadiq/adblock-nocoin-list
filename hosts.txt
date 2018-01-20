@@ -113,6 +113,11 @@
 # https://github.com/easylist/easylist/commit/cddd48146de74f29bd28379738d5312c206a2260
 0.0.0.0 webmine.pro
 
+# https://github.com/uBlockOrigin/uAssets/issues/1318
+0.0.0.0 hodlers.party
+0.0.0.0 hodling.faith
+0.0.0.0 chainblock.science
+
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info
 0.0.0.0 jroqvbvw.info
