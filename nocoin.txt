@@ -137,7 +137,7 @@ $websocket,domain=powvideo.net
 .ml^$third-party,websocket
 ||okeyletsgo.ml^$third-party
 ! https://github.com/easylist/easylist/commit/dd3cc8581666ec52252a021e9c4a15eb84f5bf28
-$websocket,xmlhttprequest,domain=lewd.ninja
+$websocket,xmlhttprequest,domain=lewd.ninja|love-drama.pl
 .zone^$third-party,websocket
 ||candid.zone^$third-party
 ! https://github.com/easylist/easylist/commit/cddd48146de74f29bd28379738d5312c206a2260
@@ -166,6 +166,10 @@ $websocket,xmlhttprequest,domain=lewd.ninja
 .info^$script,third-party,domain=oload.info|oload.tv|openload.co|streamango.com|streamcherry.com
 /^((?!(^https?):\/\/(vidfile\.net|(www\.)?youtube\.com|openload\.co|docs\.google\.com|video\.sibnet\.ru|oload\.stream|streamango\.com|vidlox\.tv|(www\.)?rapidvideo\.com|tune\.pk|(www\.)?dailymotion\.com|estream\.to)\/).)*$/$subdocument,domain=a-o.ninja|centrum-dramy.pl|love-drama.pl|vidfile.net
 ||openkatalog.com^$subdocument
+
+! https://github.com/hoshsadiq/adblock-nocoin-list/issues/100 // https://github.com/MajkiIT/polish-ads-filter/issues/5612
+! https://a-o.ninja/anime/tailenders/1
+@@||gamedor.usermd.net^$subdocument,domain=a-o.ninja
 
 ! Adblock filter generics based on easyprivacy
 ! https://github.com/easylist/easylist/blob/master/easyprivacy/easyprivacy_general.txt#L3617
