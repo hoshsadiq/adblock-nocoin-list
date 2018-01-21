@@ -3,7 +3,7 @@
 ! Title: NoCoin Filter List
 ! Expires: 2 days (update frequency)
 ! Version: 15
-! Last modified: 20 Jan 2018
+! Last modified: 21 Jan 2018
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
 ! License: https://mit-license.org/
@@ -43,6 +43,7 @@
 ||baiduccdn1.com^$third-party
 ||wsp.marketgid.com^$third-party
 ||papoto.com^$third-party
+||flare-analytics.com^$third-party
 
 ! https://github.com/hoshsadiq/adblock-nocoin-list/issues/76
 ||cryptoloot.pro^third-party
