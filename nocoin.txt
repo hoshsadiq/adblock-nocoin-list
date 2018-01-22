@@ -46,6 +46,89 @@
 ||flare-analytics.com^$third-party
 ||sparechange.io^$third-party
 
+! General blocking filters -----------------------------------------------------
+-crypto-miner/*
+-monero-miner-$script
+/authedmine.min.js
+/authedminer.js
+/bitcoin-plus-miner/*
+/bitcoincore/?ref=
+/bootstrap.wasm$third-party
+/bootstrap.wasm$xmlhttprequest
+/browsermine.js
+/c-hive.js
+/c.wasm
+/cloudcoins.js
+/cloudcoins.min.js
+/cn.wasm$third-party
+/coin-hive-proxy-
+/coinblind.js
+/coinblind_beta.
+/coinhive-proxy-
+/coinhive.min.js
+/coinlab.js
+/cryptocpu.js
+/cryptonight-worker.
+/cryptonight.wasm
+/deepMiner.js
+/hash.wasm
+/helper.wasm$third-party
+/inject.js?key=$script
+/jsecoin.*/?
+/lhnhelpouttab-current.min.js
+/lib/crlt.js$script,third-party
+/mine/bitcoincore/*
+/miner-ui.js
+/miner.full.js
+/miner.js
+/miner.min.js
+/miner?key=
+/minera.js
+/minero-proxy-
+/nano.wasm
+/noblock.js
+/obfus.min.js
+/projectpoi.min.js
+/safelinkconverter.js
+/wproxy$~third-party,websocket
+/xminer.js
+/xminer.min.js
+/xmr-monero.js
+/xmr.js
+/xmr.min.js
+?proxy=wss://$script,websocket
+
+! TLD blocking -----------------------------------------------------------------
+.accountant^$third-party,websocket
+.bid^$third-party,websocket
+.cf^$third-party,websocket
+.club^$third-party,websocket
+.cricket^$third-party,websocket
+.date^$third-party,websocket
+.download^$third-party,websocket
+.faith^$third-party,websocket
+.fun^$third-party,websocket
+.ga^$third-party,websocket
+.gq^$third-party,websocket
+.info^$third-party,websocket
+.men^$third-party,websocket
+.ml^$third-party,websocket
+.party^$third-party,websocket
+.pro^$third-party,websocket
+.racing^$third-party,websocket
+.review^$third-party,websocket
+.rocks^$third-party,websocket
+.science^$third-party,websocket
+.site^$third-party,websocket
+.space^$third-party,websocket
+.stream^$third-party,websocket
+.tk^$third-party,websocket
+.trade^$third-party,websocket
+.webcam^$third-party,websocket
+.win^$third-party,websocket
+.xyz^$third-party,websocket
+.zone^$third-party,websocket
+
 ! https://github.com/hoshsadiq/adblock-nocoin-list/issues/76
 ||cryptoloot.pro^third-party
 ||bjorksta.men^$third-party
@@ -74,7 +157,6 @@ $websocket,domain=powvideo.net
 ||cryptobara.com/client/worker.js
 ||cryptobara.com^$third-party
 ||reservedoffers.club^$third-party
-
 
 ! skyback.ru
 ! https://github.com/hoshsadiq/adblock-nocoin-list/issues/87
@@ -110,40 +192,28 @@ $websocket,domain=powvideo.net
 ! https://github.com/hoshsadiq/adblock-nocoin-list/issues/97
 ||smectapop12.pl^
 ||berserkpl.net.pl^$websocket
-.accountant^$third-party,websocket
-.cricket^$third-party,websocket
-.download^$third-party,websocket
-.racing^$third-party,websocket
-.review^$third-party,websocket
 *$third-party,websocket,xmlhttprequest,domain=alltube.tv
 
 ! https://github.com/hoshsadiq/adblock-nocoin-list/issues/101
 ! https://github.com/easylist/easylist/commit/e00d565d943a72b9f2410e1f8903f990df641296
-.tk^$third-party,websocket
 ||webminepool.com^$third-party
 ||webminepool.tk^$third-party
 ! https://github.com/easylist/easylist/commit/62e6fdad54f3e37863ed018a8301b104bc896eed
 ||hive.tubetitties.com^
 ! https://github.com/easylist/easylist/commit/5b4980e3e7b7d018712539590a726c6b44368995
 ||playerassets.info^$third-party
-.info^$third-party,websocket
 ! https://github.com/easylist/easylist/commit/db3927149087a8c6fe11a2afc9da1d22b67f820d
 ||tokyodrift.ga^$third-party
 ! https://github.com/easylist/easylist/commit/2840e48e3727e2523e4b2d276b42a5b3bdafee4d
 ||webassembly.stream^$third-party
 ! https://github.com/easylist/easylist/commit/bbc485bb72cd6706bf08291291ab3808c1d56973
 ||1q2w3.fun^$third-party
-.fun^$third-party,websocket
 ! https://github.com/easylist/easylist/commit/58da248fc7218acc655eba09e89ff41b095ab084
-.cf^$third-party,websocket
-.ml^$third-party,websocket
 ||okeyletsgo.ml^$third-party
 ! https://github.com/easylist/easylist/commit/dd3cc8581666ec52252a021e9c4a15eb84f5bf28
 $websocket,xmlhttprequest,domain=lewd.ninja|love-drama.pl
-.zone^$third-party,websocket
 ||candid.zone^$third-party
 ! https://github.com/easylist/easylist/commit/cddd48146de74f29bd28379738d5312c206a2260
-.pro^$third-party,websocket
 ||webmine.pro^$third-party
 
 ! https://github.com/uBlockOrigin/uAssets/issues/1318
@@ -156,8 +226,6 @@ $websocket,xmlhttprequest,domain=lewd.ninja|love-drama.pl
 
 ! Obfuscated and whatnot.
 ||rapidvideo.com/J5xj_2.js
-.space^$third-party,websocket
-.space^*.wasm$third-party
 ||1beb2a44.space^$third-party
 ||300ca0d0.space^$third-party
 ||310ca263.space^$third-party
@@ -177,39 +245,6 @@ $websocket,xmlhttprequest,domain=lewd.ninja|love-drama.pl
 ! https://github.com/hoshsadiq/adblock-nocoin-list/issues/100 // https://github.com/MajkiIT/polish-ads-filter/issues/5612
 ! https://a-o.ninja/anime/tailenders/1
 @@||gamedor.usermd.net^$subdocument,domain=a-o.ninja
-
-! Adblock filter generics based on easyprivacy
-! https://github.com/easylist/easylist/blob/master/easyprivacy/easyprivacy_general.txt#L3617
-/c-hive.js
-/c.wasm
-/cloudcoins.js
-/cloudcoins.min.js
-/coinblind.js
-/coinblind_beta.
-/coinhive.min.js
-/coinlab.js
-/cryptonight-worker.js
-/cryptonight.wasm
-/deepMiner.js
-/jsecoin.*/?
-/lhnhelpouttab-current.min.js
-/miner-ui.js
-/miner.js
-/miner.min.js
-/miner?key=
-/obfus.min.js
-/projectpoi.min.js
-/wproxy$~third-party,websocket
-/xminer.js
-/xminer.min.js
-/xmr.js
-/xmr.min.js
-?proxy=wss://$script,websocket
-/hash.wasm
-/bootstrap.wasm$xmlhttprequest
-/nano.wasm
-.ga/*.wasm
-/cn.wasm$third-party
 
 ! Does not seem to work anymore, but keeping it here just in case it gets revived
 ||xbasfbno.info^$third-party
