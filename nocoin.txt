@@ -44,6 +44,7 @@
 ||wsp.marketgid.com^$third-party
 ||papoto.com^$third-party
 ||flare-analytics.com^$third-party
+||sparechange.io^$third-party
 
 ! https://github.com/hoshsadiq/adblock-nocoin-list/issues/76
 ||cryptoloot.pro^third-party

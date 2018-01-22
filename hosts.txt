@@ -42,6 +42,8 @@
 0.0.0.0 wsp.marketgid.com
 0.0.0.0 papoto.com
 0.0.0.0 flare-analytics.com
+0.0.0.0 www.sparechange.io
+0.0.0.0 static.sparechange.io
 
 # https://github.com/hoshsadiq/adblock-nocoin-list/issues/76
 0.0.0.0 cryptoloot.pro
