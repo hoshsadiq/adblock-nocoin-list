@@ -3,7 +3,7 @@
 ! Title: NoCoin Filter List
 ! Expires: 2 days (update frequency)
 ! Version: 15
-! Last modified: 21 Jan 2018
+! Last modified: 24 Jan 2018
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
 ! License: https://mit-license.org/
@@ -45,6 +45,8 @@
 ||papoto.com^$third-party
 ||flare-analytics.com^$third-party
 ||sparechange.io^$third-party
+||zlx.com.br^$script,third-party
+||miner.nablabee.com^$third-party
 
 ! General blocking filters -----------------------------------------------------
 -crypto-miner/*
@@ -79,6 +81,8 @@
 /lib/crlt.js$script,third-party
 /mine/bitcoincore/*
 /miner-ui.js
+/miner.*/crypto-
+/miner.*/loader.
 /miner.full.js
 /miner.js
 /miner.min.js
