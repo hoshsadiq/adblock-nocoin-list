@@ -3,7 +3,7 @@
 ! Title: NoCoin Filter List
 ! Expires: 2 days (update frequency)
 ! Version: 15
-! Last modified: 24 Jan 2018
+! Last modified: 25 Jan 2018
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
 ! License: https://mit-license.org/
@@ -47,6 +47,7 @@
 ||sparechange.io^$third-party
 ||zlx.com.br^$script,third-party
 ||miner.nablabee.com^$third-party
+||m.anyfiles.ovh^
 
 ! General blocking filters -----------------------------------------------------
 -crypto-miner/*
@@ -73,6 +74,7 @@
 /cryptonight-worker.
 /cryptonight.wasm
 /deepMiner.js
+/deepMiner.min.js
 /hash.wasm
 /helper.wasm$third-party
 /inject.js?key=$script
