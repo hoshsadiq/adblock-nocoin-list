@@ -6,7 +6,7 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 24 Jan 2018
+# Last modified: 25 Jan 2018
 #
 
 0.0.0.0 cnhv.co
@@ -45,6 +45,7 @@
 0.0.0.0 www.sparechange.io
 0.0.0.0 static.sparechange.io
 0.0.0.0 miner.nablabee.com
+0.0.0.0 m.anyfiles.ovh
 
 # https://github.com/hoshsadiq/adblock-nocoin-list/issues/76
 0.0.0.0 cryptoloot.pro
