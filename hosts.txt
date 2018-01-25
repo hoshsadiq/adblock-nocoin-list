@@ -46,6 +46,7 @@
 0.0.0.0 static.sparechange.io
 0.0.0.0 miner.nablabee.com
 0.0.0.0 m.anyfiles.ovh
+0.0.0.0 www.freecontent.bid
 
 # https://github.com/hoshsadiq/adblock-nocoin-list/issues/76
 0.0.0.0 cryptoloot.pro

@@ -45,9 +45,10 @@
 ||papoto.com^$third-party
 ||flare-analytics.com^$third-party
 ||sparechange.io^$third-party
-||zlx.com.br^$script,third-party
+||zlx.com.br^$third-party
 ||miner.nablabee.com^$third-party
 ||m.anyfiles.ovh^
+||freecontent.bid^$third-party
 
 ! General blocking filters -----------------------------------------------------
 -crypto-miner/*
@@ -70,6 +71,7 @@
 /coinhive-proxy-
 /coinhive.min.js
 /coinlab.js
+/crn.wasm
 /cryptocpu.js
 /cryptonight-worker.
 /cryptonight.wasm
