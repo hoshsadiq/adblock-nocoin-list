@@ -54,6 +54,7 @@
 ||crypto-webminer.com^$third-party
 ||cryweb.github.io^
 ||crywebber.github.io^
+||adless.io^$third-party
 
 ! General blocking filters -----------------------------------------------------
 -crypto-miner/*
