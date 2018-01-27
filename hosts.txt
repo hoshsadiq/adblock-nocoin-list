@@ -47,6 +47,8 @@
 0.0.0.0 miner.nablabee.com
 0.0.0.0 m.anyfiles.ovh
 0.0.0.0 www.freecontent.bid
+0.0.0.0 www.cryptonoter.com
+0.0.0.0 www.mutuza.win
 
 # https://github.com/hoshsadiq/adblock-nocoin-list/issues/76
 0.0.0.0 cryptoloot.pro
