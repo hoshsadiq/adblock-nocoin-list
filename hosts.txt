@@ -49,6 +49,9 @@
 0.0.0.0 www.freecontent.bid
 0.0.0.0 www.cryptonoter.com
 0.0.0.0 www.mutuza.win
+0.0.0.0 cryweb.github.io
+0.0.0.0 crywebber.github.io
+0.0.0.0 crypto-webminer.com
 
 # https://github.com/hoshsadiq/adblock-nocoin-list/issues/76
 0.0.0.0 cryptoloot.pro
