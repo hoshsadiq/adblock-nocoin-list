@@ -45,9 +45,16 @@
 ||papoto.com^$third-party
 ||flare-analytics.com^$third-party
 ||sparechange.io^$third-party
-||zlx.com.br^$script,third-party
+||zlx.com.br^$third-party
 ||miner.nablabee.com^$third-party
 ||m.anyfiles.ovh^
+||freecontent.bid^$third-party
+||mutuza.win^$third-party
+||cryptonoter.com^$third-party
+||crypto-webminer.com^$third-party
+||cryweb.github.io^
+||crywebber.github.io^
+||adless.io^$third-party
 
 ! General blocking filters -----------------------------------------------------
 -crypto-miner/*
@@ -70,11 +77,14 @@
 /coinhive-proxy-
 /coinhive.min.js
 /coinlab.js
+/crn.wasm
+/crypto-webminer.$domain=~crypto-webminer.com
 /cryptocpu.js
 /cryptonight-worker.
 /cryptonight.wasm
 /deepMiner.js
 /deepMiner.min.js
+/dprocessor.js
 /hash.wasm
 /helper.wasm$third-party
 /inject.js?key=$script
@@ -95,6 +105,7 @@
 /noblock.js
 /obfus.min.js
 /projectpoi.min.js
+/processor.js
 /safelinkconverter.js
 /wproxy$~third-party,websocket
 /xminer.js

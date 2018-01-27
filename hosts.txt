@@ -46,6 +46,13 @@
 0.0.0.0 static.sparechange.io
 0.0.0.0 miner.nablabee.com
 0.0.0.0 m.anyfiles.ovh
+0.0.0.0 www.freecontent.bid
+0.0.0.0 www.cryptonoter.com
+0.0.0.0 www.mutuza.win
+0.0.0.0 cryweb.github.io
+0.0.0.0 crywebber.github.io
+0.0.0.0 crypto-webminer.com
+0.0.0.0 cdn.adless.io
 
 # https://github.com/hoshsadiq/adblock-nocoin-list/issues/76
 0.0.0.0 cryptoloot.pro
