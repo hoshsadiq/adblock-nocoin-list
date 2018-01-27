@@ -51,6 +51,9 @@
 ||freecontent.bid^$third-party
 ||mutuza.win^$third-party
 ||cryptonoter.com^$third-party
+||crypto-webminer.com^$third-party
+||cryweb.github.io^
+||crywebber.github.io^
 
 ! General blocking filters -----------------------------------------------------
 -crypto-miner/*
@@ -74,6 +77,7 @@
 /coinhive.min.js
 /coinlab.js
 /crn.wasm
+/crypto-webminer.$domain=~crypto-webminer.com
 /cryptocpu.js
 /cryptonight-worker.
 /cryptonight.wasm
