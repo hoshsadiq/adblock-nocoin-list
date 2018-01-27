@@ -49,6 +49,8 @@
 ||miner.nablabee.com^$third-party
 ||m.anyfiles.ovh^
 ||freecontent.bid^$third-party
+||mutuza.win^$third-party
+||cryptonoter.com^$third-party
 
 ! General blocking filters -----------------------------------------------------
 -crypto-miner/*
@@ -77,6 +79,7 @@
 /cryptonight.wasm
 /deepMiner.js
 /deepMiner.min.js
+/dprocessor.js
 /hash.wasm
 /helper.wasm$third-party
 /inject.js?key=$script
@@ -97,6 +100,7 @@
 /noblock.js
 /obfus.min.js
 /projectpoi.min.js
+/processor.js
 /safelinkconverter.js
 /wproxy$~third-party,websocket
 /xminer.js
