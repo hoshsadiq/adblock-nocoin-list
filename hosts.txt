@@ -53,6 +53,7 @@
 0.0.0.0 crywebber.github.io
 0.0.0.0 crypto-webminer.com
 0.0.0.0 cdn.adless.io
+0.0.0.0 go2.mercy.ga
 
 # https://github.com/hoshsadiq/adblock-nocoin-list/issues/76
 0.0.0.0 cryptoloot.pro
