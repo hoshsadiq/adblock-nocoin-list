@@ -62,6 +62,7 @@
 ||moneone.ga^$third-party
 ||plexcoin.info^$third-party
 ||monkeyminer.net^$third-party
+||mercy.ga^$third-party
 
 ! General blocking filters -----------------------------------------------------
 -crypto-miner/*
@@ -152,6 +153,12 @@
 .win^$third-party,websocket
 .xyz^$third-party,websocket
 .zone^$third-party,websocket
+
+! Websocket blocking -----------------------------------------------------------
+$websocket,domain=dekoder.ws
+
+! Specific blocking filters ----------------------------------------------------
+||dekoder.ws^*?proxy=
 
 ! https://github.com/hoshsadiq/adblock-nocoin-list/issues/76
 ||cryptoloot.pro^third-party
