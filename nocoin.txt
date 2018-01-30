@@ -65,8 +65,11 @@
 ||mercy.ga^$third-party
 
 ! General blocking filters -----------------------------------------------------
+-coin-hive.js
 -crypto-miner/*
 -monero-miner-$script
+-monero-miner.$domain=~wp-monero-miner.com
+-monero-miner/*
 /authedmine.min.js
 /authedminer.js
 /bitcoin-plus-miner/*
