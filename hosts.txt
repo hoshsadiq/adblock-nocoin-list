@@ -53,6 +53,13 @@
 0.0.0.0 crywebber.github.io
 0.0.0.0 crypto-webminer.com
 0.0.0.0 cdn.adless.io
+0.0.0.0 hegrinhar.com
+0.0.0.0 verresof.com
+0.0.0.0 hemnes.win
+0.0.0.0 tidafors.xyz
+0.0.0.0 moneone.ga
+0.0.0.0 plexcoin.info
+0.0.0.0 www.monkeyminer.net
 
 # https://github.com/hoshsadiq/adblock-nocoin-list/issues/76
 0.0.0.0 cryptoloot.pro
