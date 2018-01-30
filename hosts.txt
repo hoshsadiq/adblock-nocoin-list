@@ -60,6 +60,7 @@
 0.0.0.0 moneone.ga
 0.0.0.0 plexcoin.info
 0.0.0.0 www.monkeyminer.net
+0.0.0.0 go2.mercy.ga
 
 # https://github.com/hoshsadiq/adblock-nocoin-list/issues/76
 0.0.0.0 cryptoloot.pro
