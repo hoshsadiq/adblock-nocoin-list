@@ -55,6 +55,13 @@
 ||cryweb.github.io^
 ||crywebber.github.io^
 ||adless.io^$third-party
+||hegrinhar.com^$third-party
+||verresof.com^$third-party
+||hemnes.win^$third-party
+||tidafors.xyz^$third-party
+||moneone.ga^$third-party
+||plexcoin.info^$third-party
+||monkeyminer.net^$third-party
 ||mercy.ga^$third-party
 
 ! General blocking filters -----------------------------------------------------
