@@ -138,9 +138,9 @@
 .fun^$third-party,websocket
 .ga^$third-party,websocket
 .gq^$third-party,websocket
-.info^$third-party,websocket,domain=~sourceforge.net
 .men^$third-party,websocket
 .ml^$third-party,websocket
+.ovh^$third-party,websocket
 .party^$third-party,websocket
 .pro^$third-party,websocket
 .racing^$third-party,websocket
@@ -158,7 +158,7 @@
 .zone^$third-party,websocket
 
 ! Websocket blocking -----------------------------------------------------------
-$websocket,domain=dekoder.ws
+$websocket,domain=300mbfilms.co|a-o.ninja|ajplugins.com|dekoder.ws|fileone.tv|jkanime.net|lewd.ninja|love-drama.pl|movie4k.is|oload.info|oload.tv|openload.co|powvideo.net|streamango.com|streamcherry.com|vidfile.net
 
 ! Specific blocking filters ----------------------------------------------------
 ||dekoder.ws^*?proxy=
