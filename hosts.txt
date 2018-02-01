@@ -6,7 +6,7 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 25 Jan 2018
+# Last modified: 25 Feb 2018
 #
 
 0.0.0.0 cnhv.co
@@ -61,6 +61,14 @@
 0.0.0.0 plexcoin.info
 0.0.0.0 www.monkeyminer.net
 0.0.0.0 go2.mercy.ga
+0.0.0.0 coinpirate.cf
+0.0.0.0 d.cpufan.club
+0.0.0.0 krb.devphp.org.ua
+0.0.0.0 nfwebminer.com
+0.0.0.0 node.cfcdist.gdn
+0.0.0.0 webxmr.com
+0.0.0.0 www.sparechange.io
+0.0.0.0 xmr.mining.best
 
 # https://github.com/hoshsadiq/adblock-nocoin-list/issues/76
 0.0.0.0 cryptoloot.pro

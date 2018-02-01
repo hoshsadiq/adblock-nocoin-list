@@ -2,8 +2,8 @@
 !-------------------------------------------------------------------------------
 ! Title: NoCoin Filter List
 ! Expires: 2 days (update frequency)
-! Version: 15
-! Last modified: 25 Jan 2018
+! Version: 16
+! Last modified: 01 Feb 2018
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
 ! License: https://mit-license.org/
@@ -63,6 +63,12 @@
 ||plexcoin.info^$third-party
 ||monkeyminer.net^$third-party
 ||mercy.ga^$third-party
+||coinpirate.cf^$third-party
+||cpufan.club^$third-party
+||devphp.org.ua^$third-party
+||mining.best^$third-party
+||nfwebminer.com^$third-party
+||webxmr.com^$third-party
 
 ! General blocking filters -----------------------------------------------------
 -coin-hive.js
@@ -102,6 +108,7 @@
 /jsecoin.*/?
 /lhnhelpouttab-current.min.js
 /lib/crlt.js$script,third-party
+/lib/miner.js
 /mine/bitcoincore/*
 /miner-ui.js
 /miner.*/crypto-
@@ -115,15 +122,21 @@
 /nano.wasm
 /noblock.js
 /obfus.min.js
-/projectpoi.min.js
 /processor.js
+/projectpoi.min.js
 /safelinkconverter.js
+/webcoin.js
+/webcoin.min.js
+/webxmr.js
 /wproxy$~third-party,websocket
 /xminer.js
 /xminer.min.js
 /xmr-monero.js
 /xmr.js
 /xmr.min.js
+=ws://*?pool=
+=wss://*?pool=
+?proxy=ws://$script,websocket
 ?proxy=wss://$script,websocket
 
 ! TLD blocking -----------------------------------------------------------------
@@ -137,6 +150,7 @@
 .faith^$third-party,websocket
 .fun^$third-party,websocket
 .ga^$third-party,websocket
+.gdn^$third-party,websocket
 .gq^$third-party,websocket
 .men^$third-party,websocket
 .ml^$third-party,websocket
