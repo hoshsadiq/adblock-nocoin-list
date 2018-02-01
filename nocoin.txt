@@ -2,32 +2,30 @@
 !-------------------------------------------------------------------------------
 ! Title: NoCoin Filter List
 ! Expires: 2 days (update frequency)
-! Version: 16
+! Version: 17
 ! Last modified: 01 Feb 2018
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
 ! License: https://mit-license.org/
 ! Description: This filter disables browser based miners such as coin-hive
 !-------------------------------------------------------------------------------
-||cnhv.co^
-||coin-hive.com^
+
+! Third Party blocking ---------------------------------------------------------
+||cnhv.co^$third-party
+||coin-hive.com^$third-party
 ||coinhive.com^$third-party
-||gus.host/coins.js
 ||jsecoin.com^$third-party
 ||miner.pr0gramm.com^$third-party
 ||miner.pr0gramm.com^$websocket
 ||minemytraffic.com^$third-party
 ||ppoi.org^$third-party
 ||projectpoi.com^$third-party
-||2giga.link/js/hive.js
 ||2giga.link^$websocket
 ||crypto-loot.com^$third-party
 ||coinerra.com^$third-party
 ||coin-have.com^$third-party
 ||minero.pw^$third-party
-||minero-proxy-01.now.sh^$third-party
-||minero-proxy-02.now.sh^$third-party
-||minero-proxy-03.now.sh^$third-party
+||minero-proxy-*.now.sh^$third-party
 ||api.inwemo.com^$third-party
 ||rocks.io^$third-party
 ||jsccnn.com^$third-party
@@ -55,8 +53,6 @@
 ||cryweb.github.io^
 ||crywebber.github.io^
 ||adless.io^$third-party
-||hegrinhar.com^$third-party
-||verresof.com^$third-party
 ||hemnes.win^$third-party
 ||tidafors.xyz^$third-party
 ||moneone.ga^$third-party
@@ -69,8 +65,54 @@
 ||mining.best^$third-party
 ||nfwebminer.com^$third-party
 ||webxmr.com^$third-party
+||cryptoloot.pro^third-party
+||bjorksta.men^$third-party
+||crypto.csgocpu.com^third-party
+||noblock.pro^third-party
+||cryptobara.com^$third-party
+||reservedoffers.club^$third-party
+||adminer.com^$third-party
+||ad-miner.com^$third-party
+||77.162.125.199^$third-party
+||host.d-ns.ga^third-party
+||abc.pema.cl^$third-party
+||webmine.cz^$third-party
+||analytics.blue^$third-party
+||smectapop12.pl^$third-party
+||berserkpl.net.pl^$websocket
+||webminepool.com^$third-party
+||webminepool.tk^$third-party
+||playerassets.info^$third-party
+||tokyodrift.ga^$third-party
+||webassembly.stream^$third-party
+||okeyletsgo.ml^$third-party
+||hodlers.party^$third-party
+||hodling.faith^$third-party
+||chainblock.science^$third-party
+||candid.zone^$third-party
+||webmine.pro^$third-party
+||1q2w3.fun^$third-party
+||1q2w3.me^$third-party
+||andlache.com^$third-party
+||bablace.com^$third-party
+||bewaslac.com^$third-party
+||biberukalap.com^$third-party
+||bowithow.com^$third-party
+||butcalve.com^$third-party
+||evengparme.com^$third-party
+||gridiogrid.com^$third-party
+||hatcalter.com^$third-party
+||hegrinhar.com^$third-party
+||kedtise.com^$third-party
+||ledinund.com^$third-party
+||nathetsof.com^$third-party
+||renhertfo.com^$third-party
+||rintindown.com^$third-party
+||sparnove.com^$third-party
+||verresof.com^$third-party
+||witthethim.com^$third-party
 
-! General blocking filters -----------------------------------------------------
+! General blocking -------------------------------------------------------------
 -coin-hive.js
 -crypto-miner/*
 -monero-miner-$script
@@ -171,103 +213,31 @@
 .xyz^$third-party,websocket
 .zone^$third-party,websocket
 
+! Regex blocking ---------------------------------------------------------------
+/^((?!(^https?):\/\/(vidfile\.net|(www\.)?youtube\.com|openload\.co|docs\.google\.com|video\.sibnet\.ru|oload\.stream|streamango\.com|vidlox\.tv|(www\.)?rapidvideo\.com|tune\.pk|(www\.)?dailymotion\.com|estream\.to|ebd\.cda\.pl|gamedor\.usermd\.net)\/).)*$/$subdocument,domain=a-o.ninja|centrum-dramy.pl|love-drama.pl|vidfile.net
+
 ! Websocket blocking -----------------------------------------------------------
-$websocket,domain=300mbfilms.co|a-o.ninja|ajplugins.com|dekoder.ws|fileone.tv|jkanime.net|lewd.ninja|love-drama.pl|movie4k.is|oload.info|oload.tv|openload.co|powvideo.net|streamango.com|streamcherry.com|vidfile.net
+$websocket,domain=300mbfilms.co|a-o.ninja|ajplugins.com|dekoder.ws|fileone.tv|jkanime.net|kinokrad.co|lewd.ninja|love-drama.pl|movie4k.is|oload.info|oload.tv|openload.co|powvideo.net|skyback.ru|streamango.com|streamcherry.com|vidfile.net|oload.info|oload.tv|openload.co|streamango.com|streamcherry.com|vidoza.net|lewd.ninja|love-drama.pl|alltube.tv
 
-! Specific blocking filters ----------------------------------------------------
+! Generic blocking -------------------------------------------------------------
+|http://$script,third-party,domain=kinokrad.co|kinokong.cc|skyback.ru|oload.info|oload.tv|openload.co|streamango.com|streamcherry.com|vidoza.net|powvideo.net
+|https://$script,third-party,domain=kinokrad.co|kinokong.cc|skyback.ru|oload.info|oload.tv|openload.co|streamango.com|streamcherry.com|vidoza.net|powvideo.net
+@@||ajax.googleapis.com/ajax/libs/$script,domain=kinokrad.co|kinokong.cc|skyback.ru|oload.info|oload.tv|openload.co|streamango.com|streamcherry.com|vidoza.net|powvideo.net
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=kinokrad.co|kinokong.cc|skyback.ru|oload.info|oload.tv|openload.co|streamango.com|streamcherry.com|vidoza.net|powvideo.net
+@@||code.jquery.com^$script,domain=kinokrad.co|kinokong.cc|skyback.ru|oload.info|oload.tv|openload.co|streamango.com|streamcherry.com|vidoza.net|powvideo.net
+@@||codeorigin.jquery.com^$domain=kinokrad.co|kinokong.cc|skyback.ru|oload.info|oload.tv|openload.co|streamango.com|streamcherry.com|vidoza.net|powvideo.net
+@@||p.jwpcdn.com^$script,domain=kinokrad.co|kinokong.cc|skyback.ru|oload.info|oload.tv|openload.co|streamango.com|streamcherry.com|vidoza.net|powvideo.net
+@@||zencdn.net^$script,domain=kinokrad.co|kinokong.cc|skyback.ru|oload.info|oload.tv|openload.co|streamango.com|streamcherry.com|vidoza.net|powvideo.net
+
+! Specific blocking ------------------------------------------------------------
+||gus.host/coins.js
+||2giga.link/js/hive.js
 ||dekoder.ws^*?proxy=
-
-! https://github.com/hoshsadiq/adblock-nocoin-list/issues/76
-||cryptoloot.pro^third-party
-||bjorksta.men^$third-party
-
-! https://github.com/hoshsadiq/adblock-nocoin-list/issues/74
-||crypto.csgocpu.com^third-party
-
-! https://github.com/hoshsadiq/adblock-nocoin-list/issues/71
-||noblock.pro^third-party
-
-! vidoza.net
-! https://github.com/hoshsadiq/adblock-nocoin-list/issues/77
-! https://github.com/easylist/easylist/commit/1f9bd0652f35ae294b960406214308ddeb2c7186
-.science^$third-party,domain=vidoza.net
-|http://script,third-party,domain=vidoza.net
-|https://script,third-party,domain=vidoza.net
-$websocket,domain=vidoza.net
-
-! powvideo.net
-! https://github.com/hoshsadiq/adblock-nocoin-list/issues/80
-$websocket,domain=powvideo.net
-||1q2w3.me^third-party
-
-! cryptobara.com
-! https://github.com/hoshsadiq/adblock-nocoin-list/issues/85
-||cryptobara.com/client/worker.js
-||cryptobara.com^$third-party
-||reservedoffers.club^$third-party
-
-! skyback.ru
-! https://github.com/hoshsadiq/adblock-nocoin-list/issues/87
-||biberukalap.com^
-||gridiogrid.com^
-
-! extratorrent.cd
-! https://github.com/hoshsadiq/adblock-nocoin-list/issues/88
+||openkatalog.com^$subdocument
 ||mine.torrent.pw^
-
-! Adminer references coinhive as well. Also authedmine for some reason.
-||adminer.com^
-||ad-miner.com^$third-party
-||77.162.125.199^$third-party
-
-! https://publicwww.com/websites/%22inject.js%3Fkey%3D%22/
-||host.d-ns.ga^third-party
-||abc.pema.cl^third-party
-
-! https://github.com/keraf/NoCoin/issues/114
+||cryptobara.com/client/worker.js
 ||mine.nahnoji.cz^
-||webmine.cz^
-
-! https://github.com/hoshsadiq/adblock-nocoin-list/issues/94
-||analytics.blue^
-
-! https://github.com/hoshsadiq/adblock-nocoin-list/issues/92
-||bablace.com^$third-party
-
-! https://github.com/hoshsadiq/adblock-nocoin-list/pull/93#issuecomment-356587066
-||sparnove.com^
-
-! https://github.com/hoshsadiq/adblock-nocoin-list/issues/97
-||smectapop12.pl^
-||berserkpl.net.pl^$websocket
-*$third-party,websocket,xmlhttprequest,domain=alltube.tv
-
-! https://github.com/hoshsadiq/adblock-nocoin-list/issues/101
-! https://github.com/easylist/easylist/commit/e00d565d943a72b9f2410e1f8903f990df641296
-||webminepool.com^$third-party
-||webminepool.tk^$third-party
-! https://github.com/easylist/easylist/commit/62e6fdad54f3e37863ed018a8301b104bc896eed
 ||hive.tubetitties.com^
-! https://github.com/easylist/easylist/commit/5b4980e3e7b7d018712539590a726c6b44368995
-||playerassets.info^$third-party
-! https://github.com/easylist/easylist/commit/db3927149087a8c6fe11a2afc9da1d22b67f820d
-||tokyodrift.ga^$third-party
-! https://github.com/easylist/easylist/commit/2840e48e3727e2523e4b2d276b42a5b3bdafee4d
-||webassembly.stream^$third-party
-! https://github.com/easylist/easylist/commit/bbc485bb72cd6706bf08291291ab3808c1d56973
-||1q2w3.fun^$third-party
-! https://github.com/easylist/easylist/commit/58da248fc7218acc655eba09e89ff41b095ab084
-||okeyletsgo.ml^$third-party
-! https://github.com/easylist/easylist/commit/dd3cc8581666ec52252a021e9c4a15eb84f5bf28
-$websocket,xmlhttprequest,domain=lewd.ninja|love-drama.pl
-||candid.zone^$third-party
-! https://github.com/easylist/easylist/commit/cddd48146de74f29bd28379738d5312c206a2260
-||webmine.pro^$third-party
-
-! https://github.com/uBlockOrigin/uAssets/issues/1318
-||hodlers.party^
-||hodling.faith^
-||chainblock.science^
 
 ! Pools
 ||pool.supportxmr.com^
@@ -284,15 +254,6 @@ $websocket,xmlhttprequest,domain=lewd.ninja|love-drama.pl
 ||370cabd5.space^$third-party
 ||3c0cb3b4.space^$third-party
 ||3d0cb547.space^$third-party
-
-! specific block
-.info^$script,third-party,domain=oload.info|oload.tv|openload.co|streamango.com|streamcherry.com
-/^((?!(^https?):\/\/(vidfile\.net|(www\.)?youtube\.com|openload\.co|docs\.google\.com|video\.sibnet\.ru|oload\.stream|streamango\.com|vidlox\.tv|(www\.)?rapidvideo\.com|tune\.pk|(www\.)?dailymotion\.com|estream\.to|ebd\.cda\.pl)\/).)*$/$subdocument,domain=a-o.ninja|centrum-dramy.pl|love-drama.pl|vidfile.net
-||openkatalog.com^$subdocument
-
-! https://github.com/hoshsadiq/adblock-nocoin-list/issues/100 // https://github.com/MajkiIT/polish-ads-filter/issues/5612
-! https://a-o.ninja/anime/tailenders/1
-@@||gamedor.usermd.net^$subdocument,domain=a-o.ninja
 
 ! Does not seem to work anymore, but keeping it here just in case it gets revived
 ||xbasfbno.info^$third-party
