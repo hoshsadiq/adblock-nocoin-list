@@ -6,7 +6,7 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 25 Feb 2018
+# Last modified: 1 Feb 2018
 #
 
 0.0.0.0 cnhv.co
@@ -67,81 +67,51 @@
 0.0.0.0 nfwebminer.com
 0.0.0.0 node.cfcdist.gdn
 0.0.0.0 webxmr.com
-0.0.0.0 www.sparechange.io
 0.0.0.0 xmr.mining.best
-
-# https://github.com/hoshsadiq/adblock-nocoin-list/issues/76
+0.0.0.0 webminepool.com
+0.0.0.0 webminepool.tk
+0.0.0.0 hive.tubetitties.com
+0.0.0.0 playerassets.info
+0.0.0.0 tokyodrift.ga
+0.0.0.0 webassembly.stream
+0.0.0.0 okeyletsgo.ml
+0.0.0.0 candid.zone
+0.0.0.0 webmine.pro
+0.0.0.0 andlache.com
+0.0.0.0 bablace.com
+0.0.0.0 bewaslac.com
+0.0.0.0 biberukalap.com
+0.0.0.0 bowithow.com
+0.0.0.0 butcalve.com
+0.0.0.0 evengparme.com
+0.0.0.0 gridiogrid.com
+0.0.0.0 hatcalter.com
+0.0.0.0 kedtise.com
+0.0.0.0 ledinund.com
+0.0.0.0 nathetsof.com
+0.0.0.0 renhertfo.com
+0.0.0.0 rintindown.com
+0.0.0.0 sparnove.com
+0.0.0.0 witthethim.com
+0.0.0.0 1q2w3.fun
+0.0.0.0 1q2w3.me
 0.0.0.0 cryptoloot.pro
 0.0.0.0 bjorksta.men
-
-# https://github.com/hoshsadiq/adblock-nocoin-list/issues/74
 0.0.0.0 crypto.csgocpu.com
-
-# https://github.com/hoshsadiq/adblock-nocoin-list/issues/71
 0.0.0.0 noblock.pro
-
-# https://github.com/hoshsadiq/adblock-nocoin-list/issues/80
-0.0.0.0 1q2w3.me
-
-# cryptobara.com
-# https://github.com/hoshsadiq/adblock-nocoin-list/issues/85
 0.0.0.0 miner.cryptobara.com
 0.0.0.0 digger.cryptobara.com
 0.0.0.0 dev.cryptobara.com
 0.0.0.0 reservedoffers.club
-
-# skyback.ru
-# https://github.com/hoshsadiq/adblock-nocoin-list/issues/87
-0.0.0.0 biberukalap.com
-0.0.0.0 gridiogrid.com
-
-# extratorrent.cd
-# https://github.com/hoshsadiq/adblock-nocoin-list/issues/88
 0.0.0.0 mine.torrent.pw
-
-# https://publicwww.com/websites/%22inject.js%3Fkey%3D%22/
 0.0.0.0 host.d-ns.ga
 0.0.0.0 abc.pema.cl
-
-# https://github.com/keraf/NoCoin/issues/114
 0.0.0.0 mine.nahnoji.cz
 0.0.0.0 webmine.cz
-
-# https://github.com/hoshsadiq/adblock-nocoin-list/issues/95
 0.0.0.0 intactoffers.club
-
-# https://github.com/hoshsadiq/adblock-nocoin-list/issues/94
 0.0.0.0 analytics.blue
-
-# https://github.com/hoshsadiq/adblock-nocoin-list/pull/93#issuecomment-356587066
-0.0.0.0 sparnove.com
-
-# https://github.com/hoshsadiq/adblock-nocoin-list/issues/97
 0.0.0.0 smectapop12.pl
 0.0.0.0 berserkpl.net.pl
-
-# https://github.com/hoshsadiq/adblock-nocoin-list/issues/101
-# https://github.com/easylist/easylist/commit/e00d565d943a72b9f2410e1f8903f990df641296
-0.0.0.0 webminepool.com
-0.0.0.0 webminepool.tk
-# https://github.com/easylist/easylist/commit/62e6fdad54f3e37863ed018a8301b104bc896eed
-0.0.0.0 hive.tubetitties.com
-# https://github.com/easylist/easylist/commit/5b4980e3e7b7d018712539590a726c6b44368995
-0.0.0.0 playerassets.info
-# https://github.com/easylist/easylist/commit/db3927149087a8c6fe11a2afc9da1d22b67f820d
-0.0.0.0 tokyodrift.ga
-# https://github.com/easylist/easylist/commit/2840e48e3727e2523e4b2d276b42a5b3bdafee4d
-0.0.0.0 webassembly.stream
-# https://github.com/easylist/easylist/commit/bbc485bb72cd6706bf08291291ab3808c1d56973
-0.0.0.0 1q2w3.fun
-# https://github.com/easylist/easylist/commit/58da248fc7218acc655eba09e89ff41b095ab084
-0.0.0.0 okeyletsgo.ml
-# https://github.com/easylist/easylist/commit/dd3cc8581666ec52252a021e9c4a15eb84f5bf28
-0.0.0.0 candid.zone
-# https://github.com/easylist/easylist/commit/cddd48146de74f29bd28379738d5312c206a2260
-0.0.0.0 webmine.pro
-
-# https://github.com/uBlockOrigin/uAssets/issues/1318
 0.0.0.0 hodlers.party
 0.0.0.0 hodling.faith
 0.0.0.0 chainblock.science
