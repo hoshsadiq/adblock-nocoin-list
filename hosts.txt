@@ -6,7 +6,7 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 1 Feb 2018
+# Last modified: 02 Feb 2018
 #
 
 0.0.0.0 cnhv.co
@@ -115,6 +115,8 @@
 0.0.0.0 hodlers.party
 0.0.0.0 hodling.faith
 0.0.0.0 chainblock.science
+0.0.0.0 minescripts.info
+0.0.0.0 cdn.minescripts.info
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info

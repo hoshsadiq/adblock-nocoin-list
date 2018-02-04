@@ -2,8 +2,8 @@
 !-------------------------------------------------------------------------------
 ! Title: NoCoin Filter List
 ! Expires: 2 days (update frequency)
-! Version: 17
-! Last modified: 01 Feb 2018
+! Version: 18
+! Last modified: 02 Feb 2018
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
 ! License: https://mit-license.org/
@@ -111,6 +111,7 @@
 ||sparnove.com^$third-party
 ||verresof.com^$third-party
 ||witthethim.com^$third-party
+||minescripts.info^$third-party
 
 ! General blocking -------------------------------------------------------------
 -coin-hive.js
@@ -161,6 +162,7 @@
 /miner?key=
 /minera.js
 /minero-proxy-
+/minescripts.js
 /nano.wasm
 /noblock.js
 /obfus.min.js
