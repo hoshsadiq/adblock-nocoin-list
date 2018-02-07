@@ -117,6 +117,8 @@
 0.0.0.0 chainblock.science
 0.0.0.0 minescripts.info
 0.0.0.0 cdn.minescripts.info
+0.0.0.0 miner.nablabee.com
+0.0.0.0 wss.nablabee.com
 0.0.0.0 clickwith.bid
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived

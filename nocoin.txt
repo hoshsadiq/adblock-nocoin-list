@@ -112,6 +112,7 @@
 ||verresof.com^$third-party
 ||witthethim.com^$third-party
 ||minescripts.info^$third-party
+||nablabee.com^$third-party
 
 ! General blocking -------------------------------------------------------------
 -coin-hive.js
@@ -138,6 +139,7 @@
 /coinhive.min.js
 /coinlab.js
 /crn.wasm
+/crypto-js.js
 /crypto-webminer.$domain=~crypto-webminer.com
 /cryptocpu.js
 /cryptonight-worker.
@@ -243,9 +245,11 @@ $websocket,domain=300mbfilms.co|a-o.ninja|ajplugins.com|dekoder.ws|fileone.tv|jk
 ||cryptobara.com/client/worker.js
 ||mine.nahnoji.cz^
 ||hive.tubetitties.com^
+||miner.nablabee.com^
 
 ! Pools
 ||pool.supportxmr.com^
+||grf.easyhash.io^
 
 ! Obfuscated and whatnot.
 ||rapidvideo.com/J5xj_2.js
