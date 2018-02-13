@@ -115,6 +115,7 @@
 ||nablabee.com^$third-party
 ||dronml.ml^$third-party
 ||niematego.tk^$third-party
+||rintinwa.com^$third-party
 
 ! General blocking -------------------------------------------------------------
 -coin-hive.js

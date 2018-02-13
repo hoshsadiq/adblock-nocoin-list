@@ -122,6 +122,7 @@
 0.0.0.0 clickwith.bid
 0.0.0.0 dronml.ml
 0.0.0.0 niematego.tk
+0.0.0.0 rintinwa.com
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info
