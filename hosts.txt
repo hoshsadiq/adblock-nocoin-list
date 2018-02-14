@@ -124,6 +124,15 @@
 0.0.0.0 niematego.tk
 0.0.0.0 tulip18.com
 0.0.0.0 p.estream.to
+0.0.0.0 didnkinrab.com
+0.0.0.0 ledhenone.com
+0.0.0.0 losital.ru
+0.0.0.0 mebablo.com
+0.0.0.0 moonsade.com
+0.0.0.0 nebabrop.com
+0.0.0.0 pearno.com
+0.0.0.0 rintinwa.com
+0.0.0.0 willacrit.com
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info

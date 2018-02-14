@@ -2,7 +2,7 @@
 !-------------------------------------------------------------------------------
 ! Title: NoCoin Filter List
 ! Expires: 2 days (update frequency)
-! Version: 23
+! Version: 24
 ! Last modified: 13 Feb 2018
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
@@ -116,6 +116,15 @@
 ||dronml.ml^$third-party
 ||niematego.tk^$third-party
 ||tulip18.com^$third-party
+||didnkinrab.com^$third-party
+||ledhenone.com^$third-party
+||losital.ru^$third-party
+||mebablo.com^$third-party
+||moonsade.com^$third-party
+||nebabrop.com^$third-party
+||pearno.com^$third-party
+||rintinwa.com^$third-party
+||willacrit.com^$third-party
 
 ! General blocking -------------------------------------------------------------
 -coin-hive.js
@@ -226,6 +235,7 @@
 
 ! Regex blocking ---------------------------------------------------------------
 /^((?!(^https?):\/\/(vidfile\.net|(www\.)?youtube\.com|openload\.co|docs\.google\.com|video\.sibnet\.ru|oload\.stream|streamango\.com|vidlox\.tv|(www\.)?rapidvideo\.com|tune\.pk|(www\.)?dailymotion\.com|estream\.to|ebd\.cda\.pl|gamedor\.usermd\.net)\/).)*$/$subdocument,domain=a-o.ninja|centrum-dramy.pl|love-drama.pl|vidfile.net
+/^((?!(^https?):\/\/(ajax\.googleapis\.com|cdnjs\.cloudflare\.com|vk\.com)\/).)*$/$script,third-party,domain=kinokrad.co
 
 ! Websocket blocking -----------------------------------------------------------
 $websocket,domain=300mbfilms.co|a-o.ninja|ajplugins.com|dekoder.ws|estream.to|fileone.tv|jkanime.net|kinokrad.co|lewd.ninja|love-drama.pl|movie4k.is|oload.info|oload.tv|openload.co|powvideo.net|skyback.ru|streamango.com|streamcherry.com|vidfile.net|oload.info|oload.tv|openload.co|shrink-service.it|streamango.com|streamcherry.com|vidoza.net|lewd.ninja|love-drama.pl|alltube.tv
