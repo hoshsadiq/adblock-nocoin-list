@@ -1,7 +1,7 @@
 # NoCoin filter list optimized for uBlock
 
 $csp=child-src 'none';frame-src 'self' *;worker-src 'none',domain=fileone.tv|theappguruz.com
-$csp=child-src 'none';frame-src *;worker-src 'none',domain=ddmix.net|extratorrent.cd|intactoffers.club|kickass.cd|myfeed4u.net|reservedoffers.club|skyback.ru|thepiratebay.cr
+$csp=child-src 'none';frame-src *;worker-src 'none',domain=adfreetv.ch|ddmix.net|extratorrent.cd|intactoffers.club|kickass.cd|myfeed4u.net|reservedoffers.club|skyback.ru|thepiratebay.cr
 $csp=worker-src 'none',domain=300mbfilms.co|dekoder.ws|estream.to|movie4k.is
 csgoconfigs.com##script:inject(abort-current-inline-script.js, m, CH.Anonymous)
 powvideo.net,tubettajat.net##script:inject(abort-on-property-read.js, miner)
