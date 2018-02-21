@@ -161,8 +161,6 @@
 /coinhive.min.js
 /coinlab.js
 /crn.wasm
-/crypto-js.js
-/crypto-js.min.js
 /crypto-webminer.$domain=~crypto-webminer.com
 /cryptocpu.js
 /cryptonight-worker.
