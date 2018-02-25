@@ -44,7 +44,6 @@
 ||flare-analytics.com^$third-party
 ||sparechange.io^$third-party
 ||zlx.com.br^$third-party
-||miner.nablabee.com^$third-party
 ||m.anyfiles.ovh^
 ||freecontent.bid^$third-party
 ||mutuza.win^$third-party
@@ -178,7 +177,6 @@
 /jsecoin.*/?
 /lhnhelpouttab-current.min.js
 /lib/crlt.js$script,third-party
-/lib/miner.js
 /mine/bitcoincore/*
 /miner-ui.js
 /miner.*/crypto-
