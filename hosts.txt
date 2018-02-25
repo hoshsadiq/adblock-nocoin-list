@@ -148,6 +148,9 @@
 0.0.0.0 p1.interestingz.pw
 0.0.0.0 kippbeak.cf
 0.0.0.0 pasoherb.gq
+0.0.0.0 axoncoho.tk
+0.0.0.0 depttake.ga
+0.0.0.0 flophous.cf
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info
