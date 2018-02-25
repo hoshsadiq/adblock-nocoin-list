@@ -6,7 +6,7 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 22 Feb 2018
+# Last modified: 25 Feb 2018
 #
 
 0.0.0.0 cnhv.co
@@ -146,6 +146,8 @@
 0.0.0.0 cdn.jquery-uim.download
 0.0.0.0 cdn-jquery.host
 0.0.0.0 p1.interestingz.pw
+0.0.0.0 kippbeak.cf
+0.0.0.0 pasoherb.gq
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info
