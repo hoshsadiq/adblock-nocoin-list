@@ -253,7 +253,7 @@
 /^((?!(^https?):\/\/(ajax\.googleapis\.com|cdnjs\.cloudflare\.com|vk\.com)\/).)*$/$script,third-party,domain=kinokrad.co
 
 ! Websocket blocking -----------------------------------------------------------
-$websocket,domain=300mbfilms.co|a-o.ninja|ajplugins.com|adfreetv.ch|akvideo.stream|dekoder.ws|estream.to|fileone.tv|gofile.io|hq-porns.com|jkanime.net|kinokrad.co|lewd.ninja|love-drama.pl|movie4k.is|oload.info|oload.tv|openload.co|powvideo.net|skyback.ru|streamango.com|streamcherry.com|szukajka.tv|thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|vidfile.net|oload.info|oload.tv|openload.co|shrink-service.it|streamango.com|streamcherry.com|vidoza.net|tvad.me|vidup.me|lewd.ninja|love-drama.pl|alltube.tv
+$websocket,domain=300mbfilms.co|a-o.ninja|ajplugins.com|adfreetv.ch|akvideo.stream|bitvid.sx|dekoder.ws|estream.to|fileone.tv|gofile.io|hq-porns.com|jkanime.net|kinokrad.co|lewd.ninja|love-drama.pl|movie4k.is|oload.info|oload.tv|openload.co|powvideo.net|skyback.ru|streamango.com|streamcherry.com|szukajka.tv|thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|vidfile.net|oload.info|oload.tv|openload.co|shrink-service.it|streamango.com|streamcherry.com|vidgg.to|vidoza.net|tvad.me|vidup.me|lewd.ninja|love-drama.pl|alltube.tv
 
 ! XMLHttpRequest blocking ------------------------------------------------------
 $xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
