@@ -2,8 +2,8 @@
 !-------------------------------------------------------------------------------
 ! Title: NoCoin Filter List
 ! Expires: 2 days (update frequency)
-! Version: 32
-! Last modified: 25 Feb 2018
+! Version: 33
+! Last modified: 3 Mar 2018
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
 ! License: https://mit-license.org/
@@ -253,10 +253,10 @@
 /^((?!(^https?):\/\/(ajax\.googleapis\.com|cdnjs\.cloudflare\.com|vk\.com)\/).)*$/$script,third-party,domain=kinokrad.co
 
 ! Websocket blocking -----------------------------------------------------------
-$websocket,domain=300mbfilms.co|a-o.ninja|ajplugins.com|adfreetv.ch|akvideo.stream|bitvid.sx|dekoder.ws|estream.to|fileone.tv|gofile.io|hq-porns.com|jkanime.net|kinokrad.co|lewd.ninja|love-drama.pl|movie4k.is|oload.info|oload.tv|openload.co|powvideo.net|skyback.ru|streamango.com|streamcherry.com|szukajka.tv|thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|vidfile.net|oload.info|oload.tv|openload.co|shrink-service.it|streamango.com|streamcherry.com|vidgg.to|vidoza.net|tvad.me|vidup.me|lewd.ninja|love-drama.pl|alltube.tv
+$websocket,domain=1q2w3.website|300mbfilms.co|a-o.ninja|adfreetv.ch|ajplugins.com|akvideo.stream|alltube.tv|bitvid.sx|ddmix.net|dekoder.ws|estream.to|fileone.tv|fruitstreams.com|gofile.io|hq-porns.com|jkanime.net|kinokrad.co|leitor.net|lewd.ninja|love-drama.pl|movie4k.is|oload.info|oload.tv|openload.co|powvideo.net|shrink-service.it|skyback.ru|streamango.com|streamcherry.com|szukajka.tv|thepiratebay.cr|thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|tvad.me|vidfile.net|vidgg.to|vidoza.net|vidto.me|vidtod.me|vidup.me|vidzi.si|vidzi.tv
 
 ! XMLHttpRequest blocking ------------------------------------------------------
-$xmlhttprequest,domain=alltube.tv|powvideo.net|szukajka.tv|vidfile.net
+$xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|nowvideo.sx|powvideo.net|szukajka.tv|vidfile.net|vidgg.to|wholecloud.net
 
 ! Generic blocking -------------------------------------------------------------
 |http://$script,third-party,domain=kinokrad.co|kinokong.cc|skyback.ru|oload.info|oload.tv|openload.co|streamango.com|streamcherry.com|vidoza.net|powvideo.net
