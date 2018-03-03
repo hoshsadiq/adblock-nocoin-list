@@ -6,3 +6,4 @@ $csp=worker-src 'none',domain=300mbfilms.co|a-o.ninja|alltube.tv|dekoder.ws|estr
 csgoconfigs.com##script:inject(abort-current-inline-script.js, m, CH.Anonymous)
 powvideo.net,tubettajat.net##script:inject(abort-on-property-read.js, miner)
 tasma.ru,vidzi.tv##script:inject(abort-on-property-write.js, decodeURIComponent)
+cloudtime.to,nowvideo.sx,wholecloud.net##script:inject(abort-on-property-read.js, WebAssembly)
