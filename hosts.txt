@@ -155,6 +155,7 @@
 0.0.0.0 flophous.cf
 0.0.0.0 pr0gram.org
 0.0.0.0 authedmine.eu
+0.0.0.0 www.monero-miner.com
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info
