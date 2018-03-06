@@ -241,6 +241,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|ddmix.net|dekoder.ws|now
 @@||codeorigin.jquery.com^$domain=kinokrad.co|kinokong.cc|skyback.ru|oload.info|oload.tv|openload.co|streamango.com|streamcherry.com|vidoza.net|powvideo.net
 @@||p.jwpcdn.com^$script,domain=kinokrad.co|kinokong.cc|skyback.ru|oload.info|oload.tv|openload.co|streamango.com|streamcherry.com|vidoza.net|powvideo.net
 @@||zencdn.net^$script,domain=kinokrad.co|kinokong.cc|skyback.ru|oload.info|oload.tv|openload.co|streamango.com|streamcherry.com|vidoza.net|powvideo.net
+@@||szukajka.tv/jsverify.php?op=tag|$xmlhttprequest,~third-party
 
 ! Specific blocking ------------------------------------------------------------
 ||gus.host/coins.js
