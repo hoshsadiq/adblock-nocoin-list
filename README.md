@@ -45,4 +45,5 @@ Whichever OS you use, you will require escalated privileges to edit the file (ei
 You may use the hosts file with below applications to block these miners on whole networks. Simply add the link to the above hosts file in each system.
 
 * ![pfSense](https://i.imgur.com/ElyO5Ie.png) [pfSense](https://www.pfsense.org/) with [pfBlockerNG](https://www.tecmint.com/install-configure-pfblockerng-dns-black-listing-in-pfsense/)
+* ![AB-Solution](https://user-images.githubusercontent.com/5884000/37222387-1b0ef588-23cd-11e8-93d5-c336bc2c0ad5.png) [AB-Solution](http://www.ab-solution.info/)
 * ![Pi-hole](https://i.imgur.com/0mgKKma.png) [Pi-hole](https://pi-hole.net)
