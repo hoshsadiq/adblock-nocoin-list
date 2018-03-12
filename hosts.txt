@@ -171,6 +171,7 @@
 0.0.0.0 eu.cfcdist.loan
 0.0.0.0 as.cfcdist.loan
 0.0.0.0 us.cfcdist.loan
+0.0.0.0 gustaver.ddns.net
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info
