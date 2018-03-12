@@ -6,7 +6,7 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 10 Mar 2018
+# Last modified: 12 Mar 2018
 #
 
 0.0.0.0 cnhv.co
@@ -158,6 +158,19 @@
 0.0.0.0 www.monero-miner.com
 0.0.0.0 www.datasecu.download
 0.0.0.0 www.jquery-cdn.download
+0.0.0.0 www.etzbnfuigipwvs.ru
+0.0.0.0 www.terethat.ru
+0.0.0.0 freshrefresher.com
+0.0.0.0 api.pzoifaum.info
+0.0.0.0 api.bhzejltg.info
+0.0.0.0 d.cfcnet.top
+0.0.0.0 vip.cfcnet.top
+0.0.0.0 eu.cfcnet.top
+0.0.0.0 as.cfcnet.top
+0.0.0.0 us.cfcnet.top
+0.0.0.0 eu.cfcdist.loan
+0.0.0.0 as.cfcdist.loan
+0.0.0.0 us.cfcdist.loan
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info
