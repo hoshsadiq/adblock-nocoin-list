@@ -14,6 +14,8 @@
 ||cnhv.co^$third-party
 ||coin-hive.com^$third-party
 ||coinhive.com^$third-party
+||authedmine.eu^$third-party
+||authedmine.com^third-party
 ||jsecoin.com^$third-party
 ||miner.pr0gramm.com^$third-party
 ||miner.pr0gramm.com^$websocket
@@ -142,7 +144,6 @@
 ||depttake.ga^$third-party
 ||flophous.cf^$third-party
 ||pr0gram.org^$third-party
-||authedmine.eu^$third-party
 ||monero-miner.com^$third-party
 ||datasecu.download^$third-party
 ||jquery-cdn.download^$third-party
@@ -154,7 +155,6 @@
 ||freshrefresher.com^$third-party
 ||terethat.ru^$third-party
 ||gustaver.ddns.net^$third-party
-||authedmine.com^third-party
 
 ! General blocking -------------------------------------------------------------
 -coin-hive.js
@@ -237,6 +237,7 @@
 ||clickwith.bid^
 ||intactoffers.club^
 ||cent.spots.im^
+||worker.salon.com^
 
 ! Regex blocking ---------------------------------------------------------------
 /^((?!(^https?):\/\/(vidfile\.net|(www\.)?youtube\.com|openload\.co|docs\.google\.com|video\.sibnet\.ru|oload\.stream|streamango\.com|vidlox\.tv|(www\.)?rapidvideo\.com|tune\.pk|(www\.)?dailymotion\.com|estream\.to|ebd\.cda\.pl|gamedor\.usermd\.net)\/).)*$/$subdocument,domain=123telugu.com|a-o.ninja|centrum-dramy.pl|love-drama.pl|netiap.com|szukajka.tv|tomtop.com|vidfile.net
