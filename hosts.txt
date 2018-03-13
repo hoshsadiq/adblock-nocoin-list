@@ -6,12 +6,13 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 12 Mar 2018
+# Last modified: 13 Mar 2018
 #
 
 0.0.0.0 cnhv.co
 0.0.0.0 coin-hive.com
 0.0.0.0 coinhive.com
+0.0.0.0 authedmine.com
 0.0.0.0 gus.host
 0.0.0.0 load.jsecoin.com
 0.0.0.0 miner.pr0gramm.com
@@ -172,6 +173,7 @@
 0.0.0.0 as.cfcdist.loan
 0.0.0.0 us.cfcdist.loan
 0.0.0.0 gustaver.ddns.net
+0.0.0.0 worker.salon.com
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info
