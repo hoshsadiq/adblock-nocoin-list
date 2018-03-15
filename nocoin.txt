@@ -2,8 +2,8 @@
 !-------------------------------------------------------------------------------
 ! Title: NoCoin Filter List
 ! Expires: 2 days (update frequency)
-! Version: 41
-! Last modified: 13 Mar 2018
+! Version: 42
+! Last modified: 15 Mar 2018
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
 ! License: https://mit-license.org/
@@ -155,6 +155,7 @@
 ||freshrefresher.com^$third-party
 ||terethat.ru^$third-party
 ||gustaver.ddns.net^$third-party
+||appelamule.com^$third-party
 
 ! General blocking -------------------------------------------------------------
 -coin-hive.js
@@ -239,10 +240,10 @@
 
 ! Regex blocking ---------------------------------------------------------------
 /^((?!(^https?):\/\/(vidfile\.net|(www\.)?youtube\.com|openload\.co|docs\.google\.com|video\.sibnet\.ru|oload\.stream|streamango\.com|vidlox\.tv|(www\.)?rapidvideo\.com|tune\.pk|(www\.)?dailymotion\.com|estream\.to|ebd\.cda\.pl|gamedor\.usermd\.net)\/).)*$/$subdocument,domain=123telugu.com|a-o.ninja|centrum-dramy.pl|love-drama.pl|netiap.com|szukajka.tv|tomtop.com|vidfile.net
-/^((?!(^https?):\/\/(ajax\.googleapis\.com|cdnjs\.cloudflare\.com|vk\.com)\/).)*$/$script,third-party,domain=kinokrad.co
+/^((?!(^https?):\/\/(ajax\.googleapis\.com|cdn\.jsdelivr\.net|cdnjs\.cloudflare\.com|code\.jquery\.com|content\.jwplatform\.com|maxcdn\.bootstrapcdn\.com|vjs\.zencdn\.net|vk\.com)\/).)*$/$script,third-party,domain=ifrp.xyz|kinokrad.co|mp3free.pw|protect-iframe.com
 
 ! Websocket blocking -----------------------------------------------------------
-$websocket,domain=123telugu.com|1q2w3.website|300mbfilms.co|a-o.ninja|adfreetv.ch|ajplugins.com|akvideo.stream|alltube.tv|bigspeeds.com|bitvid.sx|cloudtime.to|ddmix.net|dekoder.ws|djs.sk|drama-cool.me|estream.to|extratorrent.cd|fileone.tv|flashx.ws|fruitstreams.com|gofile.io|hdyayinmac1.com|hq-porns.com|intactoffers.club|jkanime.net|kickass.cd|kinohabr.net|kinokrad.co|kinoprofi.org|kinosha.cc|leitor.net|lewd.ninja|logovo.net|love-drama.pl|mladipodnikatelia.sk|monero-miner.com|movie4k.is|myfeed4u.net|netiap.com|nowvideo.sx|oload.info|oload.tv|onlinevideoconverter.com|openload.co|powvideo.net|reservedoffers.club|sherlockonline.ru|shrink-service.it|skyback.ru|streamango.com|streamcherry.com|streamplay.top|szukajka.tv|tainies.online|theappguruz.com|thepiratebay.cr|thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|tokyodrift.ga|tomtop.com|tvad.me|vidfile.net|vidgg.to|vidoza.net|vidto.me|vidtod.me|vidup.me|vidzi.si|vidzi.tv|wholecloud.net|ziurim.eu|zona.plus
+$websocket,domain=123telugu.com|1q2w3.website|300mbfilms.co|a-o.ninja|adfreetv.ch|ajplugins.com|akvideo.stream|alltube.tv|bigspeeds.com|bitvid.sx|cloudtime.to|ddmix.net|dekoder.ws|djs.sk|drama-cool.me|estream.to|extratorrent.cd|fileone.tv|flashx.ws|fruitstreams.com|gofile.io|hdyayinmac1.com|hq-porns.com|ifrp.xyz|intactoffers.club|jkanime.net|kickass.cd|kinohabr.net|kinokrad.co|kinoprofi.org|kinosha.cc|leitor.net|lewd.ninja|logovo.net|love-drama.pl|mladipodnikatelia.sk|monero-miner.com|movie4k.is|mp3free.pw|myfeed4u.net|netiap.com|nowvideo.sx|oload.info|oload.tv|onlinevideoconverter.com|openload.co|powvideo.net|protect-iframe.com|reservedoffers.club|sherlockonline.ru|shrink-service.it|skyback.ru|streamango.com|streamcherry.com|streamplay.top|szukajka.tv|tainies.online|theappguruz.com|thepiratebay.cr|thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|tokyodrift.ga|tomtop.com|tvad.me|vidfile.net|vidgg.to|vidoza.net|vidto.me|vidtod.me|vidup.me|vidzi.si|vidzi.tv|wholecloud.net|ziurim.eu|zona.plus
 
 ! XMLHttpRequest blocking ------------------------------------------------------
 $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.tv|auroravid.to|ddmix.net|dekoder.ws|freecontent.stream|nowvideo.sx|onlinevideoconverter.com|powvideo.net|streamplay.top|szukajka.tv|tainies.online|tomtop.com|vidfile.net|vidgg.to|wholecloud.net
