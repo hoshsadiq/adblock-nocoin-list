@@ -176,6 +176,7 @@
 0.0.0.0 worker.salon.com
 0.0.0.0 s2.appelamule.com
 0.0.0.0 mepirtedic.com
+0.0.0.0 cdn.streambeam.io
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info
