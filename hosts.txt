@@ -6,7 +6,7 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 16 Mar 2018
+# Last modified: 19 Mar 2018
 #
 
 0.0.0.0 cnhv.co
@@ -68,6 +68,7 @@
 0.0.0.0 d.cpufan.club
 0.0.0.0 krb.devphp.org.ua
 0.0.0.0 nfwebminer.com
+0.0.0.0 cfcdist.gdn
 0.0.0.0 node.cfcdist.gdn
 0.0.0.0 webxmr.com
 0.0.0.0 xmr.mining.best
@@ -181,6 +182,9 @@
 0.0.0.0 ffinwwfpqi.gq
 0.0.0.0 ininmacerad.pro
 0.0.0.0 mhiobjnirs.gq
+0.0.0.0 open-hive-server-1.pp.ua
+0.0.0.0 pool.hws.ru
+0.0.0.0 pool.etn.spacepools.org
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info
