@@ -289,7 +289,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 ||ddns.net^*=ws://$third-party
 ||ddns.net^*=wss://$third-party
 ||worker.salon.com^
-||streamplay.to^*.wasm$xmlhttprequest
+||streamplay.*.wasm$xmlhttprequest
 
 ! https://git.io/vxeAt
 ! https://forums.lanik.us/viewtopic.php?f=64&t=40185
