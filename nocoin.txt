@@ -164,6 +164,7 @@
 ||mhiobjnirs.gq^$third-party
 ||cfcdist.gdn^$third-party
 ||open-hive-server-1.pp.ua^$third-party
+||spacepools.org^$third-party
 
 ! General blocking -------------------------------------------------------------
 -coin-hive.js
@@ -233,11 +234,16 @@
 /xmr-monero.js
 /xmr.js
 /xmr.min.js
-.spacepools.
+?*.spacepools.
+.spacepools.*:
+.aspx?poolid=
+.cfm?poolid=
 =ws://*?pool=
 =ws://*?pools=
 =wss://*?pool=
 =wss://*?pools=
+?proxy=*?pool=
+?proxy=*?pools=
 ?proxy=ws://$script,websocket
 ?proxy=wss://$script,websocket
 
