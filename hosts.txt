@@ -6,7 +6,7 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 19 Mar 2018
+# Last modified: 24 Mar 2018
 #
 
 0.0.0.0 cnhv.co
@@ -164,7 +164,9 @@
 0.0.0.0 www.terethat.ru
 0.0.0.0 freshrefresher.com
 0.0.0.0 api.pzoifaum.info
+0.0.0.0 ws.pzoifaum.info
 0.0.0.0 api.bhzejltg.info
+0.0.0.0 ws.bhzejltg.info
 0.0.0.0 d.cfcnet.top
 0.0.0.0 vip.cfcnet.top
 0.0.0.0 eu.cfcnet.top
@@ -185,6 +187,7 @@
 0.0.0.0 open-hive-server-1.pp.ua
 0.0.0.0 pool.hws.ru
 0.0.0.0 pool.etn.spacepools.org
+0.0.0.0 api.aalbbh84.info
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info
