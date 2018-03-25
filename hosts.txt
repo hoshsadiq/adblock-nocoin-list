@@ -189,6 +189,18 @@
 0.0.0.0 pool.etn.spacepools.org
 0.0.0.0 api.aalbbh84.info
 0.0.0.0 www.aymcsx.ru
+0.0.0.0 aeros01.tk
+0.0.0.0 aeros02.tk
+0.0.0.0 aeros03.tk
+0.0.0.0 aeros04.tk
+0.0.0.0 aeros05.tk
+0.0.0.0 aeros06.tk
+0.0.0.0 aeros07.tk
+0.0.0.0 aeros08.tk
+0.0.0.0 aeros09.tk
+0.0.0.0 aeros10.tk
+0.0.0.0 aeros11.tk
+0.0.0.0 aeros12.tk
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info

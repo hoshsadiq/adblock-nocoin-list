@@ -2,7 +2,7 @@
 
 $csp=child-src 'none';frame-src 'self' *;worker-src 'none',domain=fileone.tv|theappguruz.com
 $csp=child-src 'none';frame-src *;worker-src 'none',domain=adfreetv.ch|ddmix.net|extratorrent.cd|gofile.io|hq-porns.com|intactoffers.club|kickass.cd|myfeed4u.net|onlinevideoconverter.com|reservedoffers.club|skyback.ru|szukajka.tv|thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thepiratebay.cr|thevideo.us|tvad.me|vidup.me
-$csp=worker-src 'none',domain=300mbfilms.co|a-o.ninja|alltube.pl|alltube.tv|bigspeeds.com|dekoder.ws|estream.to|kinokongo.cc|lewd.ninja|love-drama.pl|movie4k.is|salon.com|tokyodrift.ga|vidfile.net|ziurim.eu
+$csp=worker-src 'none',domain=300mbfilms.co|a-o.ninja|alltube.pl|alltube.tv|bigspeeds.com|centrum-dramy.pl|dekoder.ws|estream.to|hentai-online.pl|kinokongo.cc|lewd.ninja|love-drama.pl|movie4k.is|salon.com|tokyodrift.ga|vidfile.net|ziurim.eu
 csgoconfigs.com##script:inject(abort-current-inline-script.js, m, CH.Anonymous)
 djs.sk,mladipodnikatelia.sk,powvideo.net,tubettajat.net##script:inject(abort-on-property-read.js, miner)
 tasma.ru,vidzi.tv##script:inject(abort-on-property-write.js, decodeURIComponent)
