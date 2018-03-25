@@ -6,7 +6,7 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 24 Mar 2018
+# Last modified: 25 Mar 2018
 #
 
 0.0.0.0 cnhv.co
@@ -188,6 +188,7 @@
 0.0.0.0 pool.hws.ru
 0.0.0.0 pool.etn.spacepools.org
 0.0.0.0 api.aalbbh84.info
+0.0.0.0 www.aymcsx.ru
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info
