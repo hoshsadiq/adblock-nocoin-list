@@ -2,7 +2,7 @@
 !-------------------------------------------------------------------------------
 ! Title: NoCoin Filter List
 ! Expires: 2 days (update frequency)
-! Version: 46
+! Version: 47
 ! Last modified: 25 Mar 2018
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
@@ -167,6 +167,18 @@
 ||spacepools.org^$third-party
 ||aalbbh84.info^$third-party
 ||aymcsx.ru^$third-party
+||aeros01.tk^$third-party
+||aeros02.tk^$third-party
+||aeros03.tk^$third-party
+||aeros04.tk^$third-party
+||aeros05.tk^$third-party
+||aeros06.tk^$third-party
+||aeros07.tk^$third-party
+||aeros08.tk^$third-party
+||aeros09.tk^$third-party
+||aeros10.tk^$third-party
+||aeros11.tk^$third-party
+||aeros12.tk^$third-party
 
 ! General blocking -------------------------------------------------------------
 -coin-hive.js
@@ -262,12 +274,14 @@
 /^((?!(^https?):\/\/(ajax\.googleapis\.com|cdn\.jsdelivr\.net|cdnjs\.cloudflare\.com|code\.jquery\.com|content\.jwplatform\.com|maxcdn\.bootstrapcdn\.com|player\.twitch\.tv|player\.vimeo\.com|releases\.flowplayer\.org|s\.ytimg\.com|static\.escdn\.co|vjs\.zencdn\.net|vk\.com|www\.gstatic\.com)\/).)*$/$script,third-party,domain=alltube.tv|alltube.tv|estream.to|ifrp.xyz|kinokrad.co|mp3free.pw|protect-iframe.com|sleeptimer.org
 
 ! Websocket blocking -----------------------------------------------------------
-$websocket,domain=123telugu.com|1q2w3.website|300mbfilms.co|a-o.ninja|adfreetv.ch|ajplugins.com|akvideo.stream|alltube.pl|alltube.tv|bigspeeds.com|bitvid.sx|catrumahminimalis.me|cloudtime.to|ddmix.net|dekoder.ws|djs.sk|drama-cool.me|estream.to|extratorrent.cd|fileone.tv|flashx.ws|fruitstreams.com|gofile.io|hdyayinmac1.com|hq-porns.com|ifrp.xyz|intactoffers.club|jkanime.net|kickass.cd|kinohabr.net|kinokongo.cc|kinokrad.co|kinoprofi.org|kinosha.cc|leitor.net|lewd.ninja|logovo.net|love-drama.pl|mladipodnikatelia.sk|monero-miner.com|movie4k.is|mp3free.pw|myfeed4u.net|netiap.com|nowvideo.sx|oload.info|oload.tv|onlinevideoconverter.com|openload.co|powvideo.net|protect-iframe.com|reservedoffers.club|sherlockonline.ru|shrink-service.it|sleeptimer.org|skyback.ru|streamango.com|streambeam.io|streamcherry.com|streamplay.me|streamplay.top|szukajka.tv|tainies.online|theappguruz.com|thepiratebay.cr|thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|tokyodrift.ga|tvad.me|vidfile.net|vidgg.to|vidoza.net|vidto.me|vidtudu.com|vidtod.me|vidup.me|vidzi.si|vidzi.tv|wholecloud.net|ziurim.eu|zona.plus
+$websocket,domain=123telugu.com|1q2w3.website|300mbfilms.co|a-o.ninja|adfreetv.ch|ajplugins.com|akvideo.stream|alltube.pl|alltube.tv|bigspeeds.com|bitvid.sx|catrumahminimalis.me|centrum-dramy.pl|cloudtime.to|ddmix.net|dekoder.ws|djs.sk|drama-cool.me|estream.to|extratorrent.cd|fileone.tv|flashx.ws|fruitstreams.com|gofile.io|hentai-online.pl|hdyayinmac1.com|hq-porns.com|ifrp.xyz|intactoffers.club|jkanime.net|kickass.cd|kinohabr.net|kinokongo.cc|kinokrad.co|kinoprofi.org|kinosha.cc|leitor.net|lewd.ninja|logovo.net|love-drama.pl|mladipodnikatelia.sk|monero-miner.com|movie4k.is|mp3free.pw|myfeed4u.net|netiap.com|nowvideo.sx|oload.info|oload.tv|onlinevideoconverter.com|openload.co|powvideo.net|protect-iframe.com|reservedoffers.club|sherlockonline.ru|shrink-service.it|sleeptimer.org|skyback.ru|streamango.com|streambeam.io|streamcherry.com|streamplay.me|streamplay.top|szukajka.tv|tainies.online|theappguruz.com|thepiratebay.cr|thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|tokyodrift.ga|tvad.me|vidfile.net|vidgg.to|vidoza.net|vidto.me|vidtudu.com|vidtod.me|vidup.me|vidzi.si|vidzi.tv|wholecloud.net|ziurim.eu|zona.plus
 
 ! XMLHttpRequest blocking ------------------------------------------------------
 $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|ddmix.net|dekoder.ws|freecontent.stream|nowvideo.sx|onlinevideoconverter.com|powvideo.net|streambeam.io|streamplay.top|szukajka.tv|tainies.online|vidfile.net|vidgg.to|wholecloud.net
 
 ! Generic blocking -------------------------------------------------------------
+|http://*:$script,domain=centrum-dramy.pl|hentai-online.pl
+|https://*:$script,domain=centrum-dramy.pl|hentai-online.pl
 |http://$script,third-party,domain=kinokrad.co|kinokong.cc|skyback.ru|oload.info|oload.tv|openload.co|streamango.com|streamcherry.com|vidoza.net|powvideo.net
 |https://$script,third-party,domain=kinokrad.co|kinokong.cc|skyback.ru|oload.info|oload.tv|openload.co|streamango.com|streamcherry.com|vidoza.net|powvideo.net
 @@||ajax.googleapis.com/ajax/libs/$script,domain=kinokrad.co|kinokong.cc|skyback.ru|oload.info|oload.tv|openload.co|streamango.com|streamcherry.com|vidoza.net|powvideo.net
