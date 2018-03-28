@@ -6,7 +6,7 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 25 Mar 2018
+# Last modified: 28 Mar 2018
 #
 
 0.0.0.0 cnhv.co
@@ -201,6 +201,18 @@
 0.0.0.0 aeros10.tk
 0.0.0.0 aeros11.tk
 0.0.0.0 aeros12.tk
+0.0.0.0 npcdn1.now.sh
+0.0.0.0 mxcdn2.now.sh
+0.0.0.0 sxcdn6.now.sh
+0.0.0.0 mxcdn1.now.sh
+0.0.0.0 sxcdn02.now.sh
+0.0.0.0 sxcdn4.now.sh
+0.0.0.0 jqcdn2.herokuapp.com
+0.0.0.0 sxcdn1.herokuapp.com
+0.0.0.0 sxcdn5.herokuapp.com
+0.0.0.0 wpcdn1.herokuapp.com
+0.0.0.0 jqcdn01.herokuapp.com
+0.0.0.0 jqcdn03.herokuapp.com
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info

@@ -2,8 +2,8 @@
 !-------------------------------------------------------------------------------
 ! Title: NoCoin Filter List
 ! Expires: 2 days (update frequency)
-! Version: 47
-! Last modified: 25 Mar 2018
+! Version: 48
+! Last modified: 28 Mar 2018
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
 ! License: https://mit-license.org/
@@ -220,6 +220,7 @@
 /jsecoin.*/?
 /lhnhelpouttab-current.min.js
 /lib/crlt.js$script,third-party
+/media/miner.
 /mine/bitcoincore/*
 /miner-ui.js
 /miner.*/crypto-
@@ -323,6 +324,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 ! Pools
 ||pool.supportxmr.com^
 ||grf.easyhash.io^
+||pool.minexmr.com^
 
 ! Obfuscated and whatnot.
 ||rapidvideo.com/J5xj_2.js
