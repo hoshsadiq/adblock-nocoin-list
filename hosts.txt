@@ -6,7 +6,7 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 9 April 2018
+# Last modified: 13 April 2018
 #
 
 0.0.0.0 cnhv.co
@@ -216,6 +216,7 @@
 0.0.0.0 1q2w3.website
 0.0.0.0 video.videos.vidto.me
 0.0.0.0 video.streaming.estream.to
+0.0.0.0 eth-pocket.de
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info
