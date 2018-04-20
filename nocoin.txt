@@ -182,6 +182,11 @@
 ||1q2w3.website^
 ||eth-pocket.de^$third-party
 ||xvideosharing.site^$third-party
+||bestcoinsignals.com^$third-party
+||eucsoft.com^$third-party
+||traviilo.com^$third-party
+||wasm24.ru^$third-party
+||xmr.cool^$third-party
 
 ! General blocking -------------------------------------------------------------
 -coin-hive.js
