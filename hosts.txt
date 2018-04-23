@@ -224,6 +224,8 @@
 0.0.0.0 wasm24.ru
 0.0.0.0 xmr.cool
 0.0.0.0 api.netflare.info
+0.0.0.0 cdnjs.cloudflane.com
+0.0.0.0 www.cloudflane.com
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info
