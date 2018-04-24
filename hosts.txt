@@ -236,6 +236,8 @@
 0.0.0.0 2giga.download
 0.0.0.0 support.2giga.link
 0.0.0.0 webminerpool.com
+0.0.0.0 minercry.pt
+0.0.0.0 adplusplus.fr
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info
