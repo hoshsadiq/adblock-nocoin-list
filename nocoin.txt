@@ -2,7 +2,7 @@
 !-------------------------------------------------------------------------------
 ! Title: NoCoin Filter List
 ! Expires: 2 days (update frequency)
-! Version: 56
+! Version: 57
 ! Last modified: 24 April 2018
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
@@ -196,6 +196,7 @@
 ||nexttime.ovh^
 ||never.ovh^
 ||2giga.download^
+||webminerpool.com^$third-party
 
 ! General blocking -------------------------------------------------------------
 -coin-hive.js
@@ -257,6 +258,7 @@
 /safelinkconverter.js
 /streambeam-jw.js
 /streambeam-video.js
+/web_miner/*
 /webcoin.js
 /webcoin.min.js
 /webxmr.js
