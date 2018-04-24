@@ -6,7 +6,7 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 23 April 2018
+# Last modified: 24 April 2018
 #
 
 0.0.0.0 cnhv.co
@@ -226,6 +226,15 @@
 0.0.0.0 api.netflare.info
 0.0.0.0 cdnjs.cloudflane.com
 0.0.0.0 www.cloudflane.com
+0.0.0.0 hide.ovh
+0.0.0.0 graftpool.ovh
+0.0.0.0 encoding.ovh
+0.0.0.0 altavista.ovh
+0.0.0.0 scaleway.ovh
+0.0.0.0 nexttime.ovh
+0.0.0.0 never.ovh
+0.0.0.0 2giga.download
+0.0.0.0 support.2giga.link
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info
