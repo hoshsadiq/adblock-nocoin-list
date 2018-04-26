@@ -2,8 +2,8 @@
 !-------------------------------------------------------------------------------
 ! Title: NoCoin Filter List
 ! Expires: 2 days (update frequency)
-! Version: 58
-! Last modified: 24 April 2018
+! Version: 59
+! Last modified: 26 April 2018
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
 ! License: https://mit-license.org/
@@ -349,6 +349,9 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 ||pool.supportxmr.com^
 ||grf.easyhash.io^
 ||pool.minexmr.com^
+
+! Whitelists to fix broken sites -----------------------------------------------
+@@||ws.webcaster.pro^$websocket
 
 ! Obfuscated and whatnot.
 ||rapidvideo.com/J5xj_2.js
