@@ -6,7 +6,7 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 5 May 2018
+# Last modified: 7 May 2018
 #
 
 0.0.0.0 cnhv.co
@@ -241,6 +241,18 @@
 0.0.0.0 ethtrader.de
 0.0.0.0 gobba.myeffect.net
 0.0.0.0 bauersagtnein.myeffect.net
+0.0.0.0 besti.ga
+0.0.0.0 jurty.ml
+0.0.0.0 jurtym.cf
+0.0.0.0 mfio.cf
+0.0.0.0 mwor.gq
+0.0.0.0 oei1.gq
+0.0.0.0 wordc.ga
+0.0.0.0 berateveng.ru
+0.0.0.0 ctlrnwbv.ru
+0.0.0.0 ermaseuc.ru
+0.0.0.0 kdmkauchahynhrs.ru
+0.0.0.0 uoldid.ru
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info
