@@ -253,6 +253,8 @@
 0.0.0.0 ermaseuc.ru
 0.0.0.0 kdmkauchahynhrs.ru
 0.0.0.0 uoldid.ru
+0.0.0.0 jqrcdn.download
+0.0.0.0 webminerpool.com
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info
