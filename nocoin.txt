@@ -214,6 +214,8 @@
 ||ermaseuc.ru^
 ||kdmkauchahynhrs.ru^
 ||uoldid.ru^
+||jqrcdn.download^$third-party
+||webminerpool.com^$third-party
 
 ! General blocking -------------------------------------------------------------
 -coin-hive.js
@@ -278,6 +280,7 @@
 /web_miner/*
 /webcoin.js
 /webcoin.min.js
+/webmr.js
 /webxmr.js
 /wproxy$~third-party,websocket
 /xminer.js
@@ -367,6 +370,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 ||pool.supportxmr.com^
 ||grf.easyhash.io^
 ||pool.minexmr.com^
+||minexmr.com^
 
 ! Whitelists to fix broken sites -----------------------------------------------
 @@||ws.webcaster.pro^$websocket
