@@ -2,7 +2,7 @@
 !-------------------------------------------------------------------------------
 ! Title: NoCoin Filter List
 ! Expires: 2 days (update frequency)
-! Version: 63
+! Version: 64
 ! Last modified: 9 May 2018
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
@@ -215,7 +215,11 @@
 ||kdmkauchahynhrs.ru^
 ||uoldid.ru^
 ||jqrcdn.download^$third-party
-||webminerpool.com^$third-party
+||datasecu.download^$third-party
+||jqassets.download^$third-party
+||jqcdn.download^$third-party
+||jquerrycdn.download^$third-party
+||jqwww.download^$third-party
 
 ! General blocking -------------------------------------------------------------
 -coin-hive.js
@@ -370,7 +374,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 ||pool.supportxmr.com^
 ||grf.easyhash.io^
 ||pool.minexmr.com^
-||minexmr.com^
+||minexmr.com^$third-party
 
 ! Whitelists to fix broken sites -----------------------------------------------
 @@||ws.webcaster.pro^$websocket
