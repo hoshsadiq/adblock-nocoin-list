@@ -6,7 +6,7 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 9 May 2018
+# Last modified: 17 May 2018
 #
 
 0.0.0.0 cnhv.co
@@ -77,7 +77,7 @@
 0.0.0.0 hive.tubetitties.com
 0.0.0.0 playerassets.info
 0.0.0.0 tokyodrift.ga
-0.0.0.0 webassembly.stream
+0.0.0.0 webassembly.stream www.webassembly.stream
 0.0.0.0 okeyletsgo.ml
 0.0.0.0 candid.zone
 0.0.0.0 webmine.pro
