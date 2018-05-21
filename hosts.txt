@@ -79,7 +79,8 @@
 0.0.0.0 hive.tubetitties.com
 0.0.0.0 playerassets.info
 0.0.0.0 tokyodrift.ga
-0.0.0.0 webassembly.stream www.webassembly.stream
+0.0.0.0 webassembly.stream
+0.0.0.0 www.webassembly.stream
 0.0.0.0 okeyletsgo.ml
 0.0.0.0 candid.zone
 0.0.0.0 webmine.pro
