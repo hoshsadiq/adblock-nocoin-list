@@ -261,6 +261,15 @@
 0.0.0.0 www.jqcdn.download
 0.0.0.0 www.jquerrycdn.download
 0.0.0.0 www.jqwww.download
+0.0.0.0 lightminer.co
+0.0.0.0 www.lightminer.co
+0.0.0.0 browsermine.com
+0.0.0.0 api.browsermine.com
+0.0.0.0 mlib.browsermine.com
+0.0.0.0 bmst.pw
+0.0.0.0 bmnr.pw
+0.0.0.0 bmcm.pw
+0.0.0.0 bmcm.ml
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info
