@@ -15,8 +15,8 @@ Make sure you have an adblocker installed in your desktop or mobile browsers tha
 * ![Opera Browser](https://i.imgur.com/bP0t9xc.png) [Opera Browser](https://www.opera.com) (Included by default from Opera 50)
 
 
-Then import below link into your adblocker:
-- [https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt](https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt)
+Then click or import below link into your adblocker:
+- [https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt&title=NoCoin%20Filter%20List)
 
 ### 1Blocker
 You can also use the 1blocker package if you use <img src="https://1blocker.com/img/icon.png" width=16> [1Blocker](https://1blocker.com) on iOS or Mac.
