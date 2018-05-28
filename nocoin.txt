@@ -2,8 +2,8 @@
 !-------------------------------------------------------------------------------
 ! Title: NoCoin Filter List
 ! Expires: 2 days (update frequency)
-! Version: 66
-! Last modified: 21 May 2018
+! Version: 67
+! Last modified: 28 May 2018
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
 ! License: https://mit-license.org/
@@ -53,8 +53,6 @@
 ||mutuza.win^$third-party
 ||cryptonoter.com^$third-party
 ||crypto-webminer.com^$third-party
-||cryweb.github.io^
-||crywebber.github.io^
 ||adless.io^$third-party
 ||hemnes.win^$third-party
 ||tidafors.xyz^$third-party
@@ -347,7 +345,6 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 @@||szukajka.tv/szukaj|$xmlhttprequest,~third-party
 
 ! Specific blocking ------------------------------------------------------------
-||gus.host/coins.js
 ||dekoder.ws^*?proxy=
 ||openkatalog.com^$subdocument
 ||mine.torrent.pw^
