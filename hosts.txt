@@ -6,14 +6,13 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 21 May 2018
+# Last modified: 28 May 2018
 #
 
 0.0.0.0 cnhv.co
 0.0.0.0 coin-hive.com
 0.0.0.0 coinhive.com
 0.0.0.0 authedmine.com
-0.0.0.0 gus.host
 0.0.0.0 load.jsecoin.com
 0.0.0.0 miner.pr0gramm.com
 0.0.0.0 minemytraffic.com
@@ -54,8 +53,6 @@
 0.0.0.0 www.freecontent.win
 0.0.0.0 www.cryptonoter.com
 0.0.0.0 www.mutuza.win
-0.0.0.0 cryweb.github.io
-0.0.0.0 crywebber.github.io
 0.0.0.0 crypto-webminer.com
 0.0.0.0 cdn.adless.io
 0.0.0.0 hegrinhar.com
