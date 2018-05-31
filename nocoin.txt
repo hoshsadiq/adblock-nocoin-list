@@ -214,7 +214,6 @@
 ||kdmkauchahynhrs.ru^
 ||uoldid.ru^
 ||jqrcdn.download^$third-party
-||datasecu.download^$third-party
 ||jqassets.download^$third-party
 ||jqcdn.download^$third-party
 ||jquerrycdn.download^$third-party

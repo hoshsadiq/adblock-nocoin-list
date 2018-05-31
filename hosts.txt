@@ -253,7 +253,6 @@
 0.0.0.0 kdmkauchahynhrs.ru
 0.0.0.0 uoldid.ru
 0.0.0.0 www.jqrcdn.download
-0.0.0.0 www.datasecu.download
 0.0.0.0 www.jqassets.download
 0.0.0.0 www.jqcdn.download
 0.0.0.0 www.jquerrycdn.download
