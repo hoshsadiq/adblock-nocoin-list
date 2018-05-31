@@ -2,8 +2,8 @@
 !-------------------------------------------------------------------------------
 ! Title: NoCoin Filter List
 ! Expires: 2 days (update frequency)
-! Version: 70
-! Last modified: 30 May 2018
+! Version: 71
+! Last modified: 31 May 2018
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
 ! License: https://mit-license.org/
@@ -225,6 +225,7 @@
 ||bmcm.pw^
 ||bmcm.ml^
 ||videoplayer2.xyz^
+||0x1f4b0.com^
 
 ! General blocking -------------------------------------------------------------
 -coin-hive.js
