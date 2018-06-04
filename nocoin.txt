@@ -50,6 +50,8 @@
 ||freecontent.bid^$third-party
 ||freecontent.loan^$third-party
 ||freecontent.win^$third-party
+||freecontent.date
+||freecontent.faith
 ||mutuza.win^$third-party
 ||cryptonoter.com^$third-party
 ||crypto-webminer.com^$third-party
