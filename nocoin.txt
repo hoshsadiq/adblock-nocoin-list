@@ -187,6 +187,7 @@
 ||xmr.cool^$third-party
 ||netflare.info^$third-party
 ||cloudflane.com^$third-party
+||clgserv.pro^$third-party
 ||hide.ovh^
 ||graftpool.ovh^
 ||encoding.ovh^
@@ -253,6 +254,7 @@
 /coinhive.min.js
 /coinlab.js
 /crn.wasm
+/crypta.js
 /crypto-webminer.$domain=~crypto-webminer.com
 /cryptocpu.js
 /cryptonight-worker.

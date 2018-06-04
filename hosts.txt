@@ -225,6 +225,7 @@
 0.0.0.0 api.netflare.info
 0.0.0.0 cdnjs.cloudflane.com
 0.0.0.0 www.cloudflane.com
+0.0.0.0 clgserv.pro
 0.0.0.0 hide.ovh
 0.0.0.0 graftpool.ovh
 0.0.0.0 encoding.ovh
