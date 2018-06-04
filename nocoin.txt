@@ -2,8 +2,8 @@
 !-------------------------------------------------------------------------------
 ! Title: NoCoin Filter List
 ! Expires: 2 days (update frequency)
-! Version: 71
-! Last modified: 31 May 2018
+! Version: 72
+! Last modified: 04 June 2018
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
 ! License: https://mit-license.org/
@@ -47,9 +47,18 @@
 ||sparechange.io^$third-party
 ||zlx.com.br^$third-party
 ||m.anyfiles.ovh^
-||freecontent.bid^$third-party
-||freecontent.loan^$third-party
-||freecontent.win^$third-party
+||coinimp.com$third-party
+||coinimp.net$third-party
+||freecontent.bid
+||freecontent.date
+||freecontent.faith
+||freecontent.loan
+||freecontent.racing
+||freecontent.win
+||blockchained.party
+||wasm.stream
+||hostingcloud.download
+||wasm.stream
 ||mutuza.win^$third-party
 ||cryptonoter.com^$third-party
 ||crypto-webminer.com^$third-party
@@ -314,7 +323,8 @@
 ?proxy=wss://$script,websocket
 
 ! TLD blocking -----------------------------------------------------------------
-/^(https?|wss?):\/\/([0-9a-z\-]+\.)?([0-9a-z\-]+\.)(accountant|bid|cf|club|cricket|date|download|faith|fun|ga|gdn|gq|loan|men|ml|ovh|party|pro|pw|racing|review|rocks|science|site|space|stream|tk|top|trade|webcam|win|xyz|zone)(\.)?\/(.*)/$third-party,websocket,domain=~myinterview.com|~webtorrent.io
+/^(https?|wss?):\/\/([0-9a-z\.-_]+)\.(accountant|bid|cf|club|cricket|date|download|faith|fun|ga|gdn|gq|loan|men|ml|ovh|party|pro|pw|racing|review|rocks|science|site|space|stream|tk|top|trade|webcam|win|xyz|zone)(\.)?\/(.*)/$third-party,websocket,domain=~myinterview.com|~webtorrent.io
+/^https?:\/\/([0-9a-z\.-_]+)\.(accountant|bid|cf|club|cricket|date|download|faith|fun|ga|gdn|gq|loan|men|ml|ovh|party|pro|pw|racing|review|rocks|science|site|space|stream|tk|top|trade|webcam|win|xyz|zone)(\.)\/(.*)/$script,third-party
 .info^$domain=hdyayinmac1.com|sleeptimer.org
 .website/lib/*.wasm$xmlhttprequest,third-party
 
