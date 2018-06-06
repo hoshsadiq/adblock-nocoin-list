@@ -284,6 +284,10 @@
 0.0.0.0 006.0x1f4b0.com
 0.0.0.0 007.0x1f4b0.com
 0.0.0.0 008.0x1f4b0.com
+0.0.0.0 webmine.cz
+0.0.0.0 authedwebmine.cz
+0.0.0.0 skencituer.com
+0.0.0.0 site.flashx.cc
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info

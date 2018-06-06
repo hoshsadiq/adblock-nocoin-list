@@ -235,6 +235,10 @@
 ||bmcm.ml^
 ||videoplayer2.xyz^
 ||0x1f4b0.com^
+||webmine.cz^$third-party
+||authedwebmine.cz^$third-party,domain=~webmine.cz
+||skencituer.com^
+||site.flashx.cc^
 
 ! General blocking -------------------------------------------------------------
 -coin-hive.js
@@ -279,6 +283,7 @@
 /lib/crlt.js$script,third-party
 /media/miner.
 /mine/bitcoincore/*
+/miner_proxy
 /miner-ui.js
 /miner.*/crypto-
 /miner.*/loader.
