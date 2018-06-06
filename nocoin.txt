@@ -58,7 +58,6 @@
 ||blockchained.party
 ||wasm.stream
 ||hostingcloud.download
-||wasm.stream
 ||mutuza.win^$third-party
 ||cryptonoter.com^$third-party
 ||crypto-webminer.com^$third-party
