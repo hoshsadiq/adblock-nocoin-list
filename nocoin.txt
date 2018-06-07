@@ -47,8 +47,8 @@
 ||sparechange.io^$third-party
 ||zlx.com.br^$third-party
 ||m.anyfiles.ovh^
-||coinimp.com^$third-party
-||coinimp.net^$third-party
+||coinimp.com$third-party
+||coinimp.net$third-party
 ||freecontent.bid
 ||freecontent.date
 ||freecontent.faith
