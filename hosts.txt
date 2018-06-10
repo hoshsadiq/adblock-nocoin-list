@@ -6,7 +6,7 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 04 June 2018
+# Last modified: 10 June 2018
 #
 
 0.0.0.0 cnhv.co
@@ -116,8 +116,10 @@
 0.0.0.0 mine.torrent.pw
 0.0.0.0 host.d-ns.ga
 0.0.0.0 abc.pema.cl
+0.0.0.0 js.nahnoji.cz
 0.0.0.0 mine.nahnoji.cz
 0.0.0.0 webmine.cz
+0.0.0.0 www.webmine.cz
 0.0.0.0 intactoffers.club
 0.0.0.0 analytics.blue
 0.0.0.0 smectapop12.pl
@@ -285,8 +287,16 @@
 0.0.0.0 007.0x1f4b0.com
 0.0.0.0 008.0x1f4b0.com
 0.0.0.0 authedwebmine.cz
+0.0.0.0 www.authedwebmine.cz
 0.0.0.0 skencituer.com
 0.0.0.0 site.flashx.cc
+0.0.0.0 js.vidoza.net
+0.0.0.0 mm.zubovskaya-banya.ru
+0.0.0.0 mysite.irkdsu.ru
+0.0.0.0 play.estream.nu
+0.0.0.0 play.estream.to
+0.0.0.0 play.tainiesonline.pw
+0.0.0.0 play.vidzi.tv
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info
