@@ -1,6 +1,5 @@
 # NoCoin adblock list
-This is an adblock list to block "browser-based crypto mining."
-Currently there are a few websites added into the lists. If you see other websites supporting these deeds, then feel free to raise an **Issue** or **Pull request** for it to be taken care of.
+This is an adblock list to block "browser-based crypto mining". Currently there are a few websites added into the lists. If you see other websites supporting these deeds, then feel free to raise an **Issue** or **Pull request** for it to be taken care of.
 
 ## Installation
 
@@ -36,8 +35,8 @@ You can simply copy and paste the contents of above file into your hosts file. T
 Whichever OS you use, you will require escalated privileges to edit the file (either use `sudo` for Linux/MacOS or administrative account on Windows)
 
 ### Adblockers
-* [DNS66](https://github.com/julian-klode/dns66) for **Android**
-* ![Blackada](https://i.imgur.com/XB1l9aG.png?1) [Blockada](http://blokada.org/) for **Android**
+* ![DNS66](https://i.imgur.com/XFBuNqj.png) [DNS66](https://github.com/julian-klode/dns66) for **Android**
+* ![Blackada](https://i.imgur.com/XB1l9aG.png) [Blockada](http://blokada.org/) for **Android**
 * ![AdAway](https://i.imgur.com/AdWsIxw.png) [AdAway](https://github.com/AdAway/AdAway) for **Android**
 * ![AdGuard](https://i.imgur.com/zmMHq2j.png) [AdGuard](https://adguard.com) for **All Platforms**
 
@@ -46,3 +45,7 @@ You may use the hosts file with below applications to block these miners on whol
 
 * ![pfSense](https://i.imgur.com/ElyO5Ie.png) [pfSense](https://www.pfsense.org/) with [pfBlockerNG](https://www.tecmint.com/install-configure-pfblockerng-dns-black-listing-in-pfsense/)
 * ![Pi-hole](https://i.imgur.com/0mgKKma.png) [Pi-hole](https://pi-hole.net)
+
+---
+
+_Mining (Opt-in **and** opt-out) will be blocked by default. If you see that mining is important, you would have to [whitelist](https://adblockplus.org/filters#whitelist) the website you actually want to support._
