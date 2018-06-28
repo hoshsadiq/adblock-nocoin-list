@@ -6,7 +6,7 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 16 June 2018
+# Last modified: 28 June 2018
 #
 
 0.0.0.0 cnhv.co
@@ -305,6 +305,7 @@
 0.0.0.0 s3.pampopholf.com
 0.0.0.0 play.malictuiar.com
 0.0.0.0 s3.malictuiar.com
+0.0.0.0 play.play.tainiesonline.stream
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info
