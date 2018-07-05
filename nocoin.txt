@@ -2,8 +2,8 @@
 !-------------------------------------------------------------------------------
 ! Title: NoCoin Filter List
 ! Expires: 2 days (update frequency)
-! Version: 75
-! Last modified: 03 July 2018
+! Version: 76
+! Last modified: 05 July 2018
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
 ! License: https://mit-license.org/
@@ -246,11 +246,7 @@
 ||tainiesonline.pw^
 ||pampopholf.com^
 ||filmoljupci.com^
-||ocean2.authcaptcha.com^
-||rock2.authcaptcha.com^
-||stone2.authcaptcha.com^
-||sass2.authcaptcha.com^
-||sea2.authcaptcha.com^
+||authcaptcha.com^
 
 ! General blocking -------------------------------------------------------------
 -coin-hive.js
@@ -378,7 +374,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=adfreetv.ch|ddmix.n
 @@||zencdn.net^$script,domain=kinokrad.co|kinokong.cc|skyback.ru|oload.info|oload.tv|openload.co|streamango.com|streamcherry.com|vidoza.net
 @@||szukajka.tv/jsverify.php?op=tag|$xmlhttprequest,~third-party
 @@||szukajka.tv/szukaj|$xmlhttprequest,~third-party
-thepiratebay.*##script:inject(abort-on-property-read.js, _wm)
 
 ! Specific blocking ------------------------------------------------------------
 ||dekoder.ws^*?proxy=
