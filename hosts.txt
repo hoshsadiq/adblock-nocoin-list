@@ -308,7 +308,11 @@
 0.0.0.0 play.malictuiar.com
 0.0.0.0 s3.malictuiar.com
 0.0.0.0 play.play.tainiesonline.stream
-
+0.0.0.0 ocean2.authcaptcha.com
+0.0.0.0 rock2.authcaptcha.com
+0.0.0.0 stone2.authcaptcha.com
+0.0.0.0 sass2.authcaptcha.com
+0.0.0.0 sea2.authcaptcha.com
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info
