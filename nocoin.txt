@@ -2,7 +2,7 @@
 !-------------------------------------------------------------------------------
 ! Title: NoCoin Filter List
 ! Expires: 2 days (update frequency)
-! Version: 79
+! Version: 80
 ! Last modified: 08 July 2018
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
@@ -250,6 +250,10 @@
 ||flowplayer.space^
 ||belicimo.pw^
 ||tainiesonline.pw^
+||cc.gofile.io^
+||yololike.space^
+||play.mix.kinostuff.com^
+||sourcecode.pro^
 
 ! General blocking -------------------------------------------------------------
 -coin-hive.js
