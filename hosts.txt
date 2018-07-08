@@ -321,6 +321,9 @@
 0.0.0.0 wm.yololike.space
 0.0.0.0 play.mix.kinostuff.com
 0.0.0.0 play.on.animeteatr.ru
+0.0.0.0 play.mine.gay-hotvideo.net
+0.0.0.0 play.www.intellecthosting.net
+0.0.0.0 mytestminer.xyz
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info

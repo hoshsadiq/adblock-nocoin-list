@@ -2,7 +2,7 @@
 !-------------------------------------------------------------------------------
 ! Title: NoCoin Filter List
 ! Expires: 2 days (update frequency)
-! Version: 81
+! Version: 82
 ! Last modified: 08 July 2018
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
@@ -229,6 +229,7 @@
 ||jqwww.download^$third-party
 ||lightminer.co^$third-party
 ||browsermine.com^$third-party
+||mytestminer.xyz^$third-party
 ||bmst.pw^
 ||bmnr.pw^
 ||bmcm.pw^
@@ -254,6 +255,8 @@
 ||yololike.space^
 ||play.mix.kinostuff.com^
 ||sourcecode.pro^
+||gay-hotvideo.net^
+||intellecthosting.net^
 
 ! General blocking -------------------------------------------------------------
 -coin-hive.js
