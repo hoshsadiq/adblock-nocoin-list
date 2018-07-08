@@ -320,6 +320,7 @@
 0.0.0.0 play.cc.gofile.io
 0.0.0.0 wm.yololike.space
 0.0.0.0 play.mix.kinostuff.com
+0.0.0.0 play.on.animeteatr.ru
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info
