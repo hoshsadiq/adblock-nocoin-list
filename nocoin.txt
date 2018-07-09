@@ -250,7 +250,6 @@
 ||authcaptcha.com^
 ||flowplayer.space^
 ||belicimo.pw^
-||tainiesonline.pw^
 ||cc.gofile.io^
 ||yololike.space^
 ||play.mix.kinostuff.com^
