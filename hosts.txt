@@ -6,7 +6,7 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 05 July 2018
+# Last modified: 08 July 2018
 #
 
 0.0.0.0 cnhv.co
@@ -313,6 +313,18 @@
 0.0.0.0 stone2.authcaptcha.com
 0.0.0.0 sass2.authcaptcha.com
 0.0.0.0 sea2.authcaptcha.com
+0.0.0.0 play.flowplayer.space
+0.0.0.0 play.pc.belicimo.pw
+0.0.0.0 play.power.tainiesonline.pw
+0.0.0.0 play.s01.vidtodo.pro
+0.0.0.0 play.cc.gofile.io
+0.0.0.0 wm.yololike.space
+0.0.0.0 play.mix.kinostuff.com
+0.0.0.0 play.on.animeteatr.ru
+0.0.0.0 play.mine.gay-hotvideo.net
+0.0.0.0 play.www.intellecthosting.net
+0.0.0.0 mytestminer.xyz
+0.0.0.0 play.vb.wearesaudis.net
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info
