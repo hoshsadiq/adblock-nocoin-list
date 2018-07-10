@@ -256,6 +256,9 @@
 ||sourcecode.pro^
 ||gay-hotvideo.net^
 ||intellecthosting.net^
+||flowplayer.space^
+||thersprens.com^
+||gramombird.com^
 
 ! General blocking -------------------------------------------------------------
 -coin-hive.js

@@ -325,6 +325,13 @@
 0.0.0.0 play.www.intellecthosting.net
 0.0.0.0 mytestminer.xyz
 0.0.0.0 play.vb.wearesaudis.net
+0.0.0.0 flowplayer.space
+0.0.0.0 s2.flowplayer.space
+0.0.0.0 s3.flowplayer.space
+0.0.0.0 thersprens.com
+0.0.0.0 s2.thersprens.com
+0.0.0.0 s3.thersprens.com
+0.0.0.0 gramombird.com
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info
