@@ -256,7 +256,8 @@
 ||sourcecode.pro^
 ||gay-hotvideo.net^
 ||intellecthosting.net^
-||flowplayer.space^
+# this needs to be important until https://github.com/AdguardTeam/AdguardFilters/issues/19503 is fixed
+||flowplayer.space^$important
 ||thersprens.com^
 ||gramombird.com^
 
