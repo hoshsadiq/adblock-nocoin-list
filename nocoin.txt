@@ -422,6 +422,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=adfreetv.ch|ddmix.n
 ||play.s01.vidtodo.pro^
 ||on.animeteatr.ru^
 ||play.vb.wearesaudis.net^
+||windscribe.com^
 
 ! https://git.io/vxeAt
 ! https://forums.lanik.us/viewtopic.php?f=64&t=40185
