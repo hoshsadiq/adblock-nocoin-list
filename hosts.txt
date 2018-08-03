@@ -6,7 +6,7 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 10 July 2018
+# Last modified: 03 August 2018
 #
 
 0.0.0.0 cnhv.co
@@ -155,6 +155,7 @@
 0.0.0.0 ad.g-content.bid
 0.0.0.0 cdn.static-cnt.bid
 0.0.0.0 cnt.statistic.date
+0.0.0.0 jquery-uim.download
 0.0.0.0 cdn.jquery-uim.download
 0.0.0.0 cdn-jquery.host
 0.0.0.0 p1.interestingz.pw
@@ -332,6 +333,86 @@
 0.0.0.0 s2.thersprens.com
 0.0.0.0 s3.thersprens.com
 0.0.0.0 gramombird.com
+0.0.0.0 ugmfvqsu.ru
+0.0.0.0 bsyauqwerd.party
+0.0.0.0 ccvwtdtwyu.trade
+0.0.0.0 baywttgdhe.download
+0.0.0.0 pdheuryopd.loan
+0.0.0.0 iaheyftbsn.review
+0.0.0.0 djfhwosjck.bid
+0.0.0.0 najsiejfnc.win
+0.0.0.0 zndaowjdnf.stream
+0.0.0.0 yqaywudifu.date
+0.0.0.0 malictuiar.com
+0.0.0.0 proofly.win
+0.0.0.0 zminer.zaloapp.com
+0.0.0.0 vkcdnservice.com
+0.0.0.0 dexim.space
+0.0.0.0 acbp0020171456.page.tl
+0.0.0.0 vuryua.ru
+0.0.0.0 minexmr.stream
+0.0.0.0 gitgrub.pro
+0.0.0.0 d8acddffe978b5dfcae6.date
+0.0.0.0 eth-pocket.com
+0.0.0.0 autologica.ga
+0.0.0.0 whysoserius.club
+0.0.0.0 aster18cdn.nl
+0.0.0.0 nerohut.com
+0.0.0.0 gnrdomimplementation.com
+0.0.0.0 pon.ewtuyytdf45.com
+0.0.0.0 hhb123.tk
+0.0.0.0 dzizsih.ru
+0.0.0.0 nddmcconmqsy.ru
+0.0.0.0 silimbompom.com
+0.0.0.0 unrummaged.com
+0.0.0.0 fruitice.realnetwrk.com
+0.0.0.0 synconnector.com
+0.0.0.0 toftofcal.com
+0.0.0.0 gasolina.ml
+0.0.0.0 8jd2lfsq.me
+0.0.0.0 afflow.18-plus.net
+0.0.0.0 afminer.com
+0.0.0.0 aservices.party
+0.0.0.0 becanium.com
+0.0.0.0 brominer.com
+0.0.0.0 cdn-analytics.pl
+0.0.0.0 cdn.static-cnt.bid
+0.0.0.0 cloudcdn.gdn
+0.0.0.0 coin-service.com
+0.0.0.0 coinpot.co
+0.0.0.0 coinrail.io
+0.0.0.0 etacontent.com
+0.0.0.0 exdynsrv.com
+0.0.0.0 formulawire.com
+0.0.0.0 go.bestmobiworld.com
+0.0.0.0 goldoffer.online
+0.0.0.0 hallaert.online
+0.0.0.0 hashing.win
+0.0.0.0 igrid.org
+0.0.0.0 laserveradedomaina.com
+0.0.0.0 machieved.com
+0.0.0.0 nametraff.com
+0.0.0.0 offerreality.com
+0.0.0.0 ogrid.org
+0.0.0.0 panelsave.com
+0.0.0.0 party-vqgdyvoycc.now.sh
+0.0.0.0 pertholin.com
+0.0.0.0 premiumstats.xyz
+0.0.0.0 serie-vostfr.com
+0.0.0.0 salamaleyum.com
+0.0.0.0 smartoffer.site
+0.0.0.0 stonecalcom.com
+0.0.0.0 thewhizmarketing.com
+0.0.0.0 thewhizproducts.com
+0.0.0.0 thewise.com
+0.0.0.0 traffic.tc-clicks.com
+0.0.0.0 vcfs6ip5h6.bid
+0.0.0.0 web.dle-news.pw
+0.0.0.0 webmining.co
+0.0.0.0 wp-monero-miner.de
+0.0.0.0 wtm.monitoringservice.co
+0.0.0.0 xy.nullrefexcep.com
+0.0.0.0 yrdrtzmsmt.com
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info
