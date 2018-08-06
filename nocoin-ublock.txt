@@ -3,7 +3,7 @@
 csgoconfigs.com##script:inject(abort-current-inline-script.js, m, CH.Anonymous)
 djs.sk,mladipodnikatelia.sk,tubettajat.net##script:inject(abort-on-property-read.js, miner)
 tasma.ru,vidzi.tv##script:inject(abort-on-property-write.js, decodeURIComponent)
-cloudtime.to,nowvideo.sx,sleeptimer.org,wholecloud.net##script:inject(abort-on-property-read.js, WebAssembly)
+cloudtime.to,nowvideo.sx,sleeptimer.org,tomadivx.tv,wholecloud.net##script:inject(abort-on-property-read.js, WebAssembly)
 123telugu.com,netiap.com,tomtop.com##script:inject(abort-on-property-read.js, _0x7bc7)
 thepiratebay.*##script:inject(abort-on-property-read.js, _wm)
 hqq.tv,hqq.watch##script:inject(abort-on-property-read.js,  mscript)
