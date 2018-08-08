@@ -6,7 +6,7 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 03 August 2018
+# Last modified: 08 August 2018
 #
 
 0.0.0.0 cnhv.co
@@ -333,6 +333,7 @@
 0.0.0.0 s2.thersprens.com
 0.0.0.0 s3.thersprens.com
 0.0.0.0 gramombird.com
+0.0.0.0 play.gramombird.com
 0.0.0.0 ugmfvqsu.ru
 0.0.0.0 bsyauqwerd.party
 0.0.0.0 ccvwtdtwyu.trade
@@ -413,6 +414,8 @@
 0.0.0.0 wtm.monitoringservice.co
 0.0.0.0 xy.nullrefexcep.com
 0.0.0.0 yrdrtzmsmt.com
+0.0.0.0 wss.rand.com.ru
+0.0.0.0 www.verifier.live
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info

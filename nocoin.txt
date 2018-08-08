@@ -2,7 +2,7 @@
 !-------------------------------------------------------------------------------
 ! Title: NoCoin Filter List
 ! Expires: 2 days (update frequency)
-! Version: 90
+! Version: 91
 ! Last modified: 08 August 2018
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
@@ -338,6 +338,8 @@
 ||wtm.monitoringservice.co^$third-party
 ||xy.nullrefexcep.com^$third-party
 ||yrdrtzmsmt.com^$third-party
+||rand.com.ru^
+||verifier.live^
 
 ! General blocking -------------------------------------------------------------
 -coin-hive.js
