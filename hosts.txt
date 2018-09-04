@@ -6,7 +6,7 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 08 August 2018
+# Last modified: 04 September 2018
 #
 
 0.0.0.0 cnhv.co
@@ -416,6 +416,35 @@
 0.0.0.0 yrdrtzmsmt.com
 0.0.0.0 wss.rand.com.ru
 0.0.0.0 www.verifier.live
+0.0.0.0 www.jshosting.bid
+0.0.0.0 www.jshosting.date
+0.0.0.0 www.jshosting.download
+0.0.0.0 www.jshosting.faith
+0.0.0.0 www.jshosting.loan
+0.0.0.0 www.jshosting.party
+0.0.0.0 www.jshosting.racing
+0.0.0.0 www.jshosting.review
+0.0.0.0 www.jshosting.science
+0.0.0.0 www.jshosting.stream
+0.0.0.0 www.jshosting.trade
+0.0.0.0 www.jshosting.win
+0.0.0.0 www.freecontent.download
+0.0.0.0 www.freecontent.party
+0.0.0.0 www.freecontent.review
+0.0.0.0 www.freecontent.science
+0.0.0.0 www.freecontent.stream
+0.0.0.0 www.freecontent.trade
+0.0.0.0 www.hostingcloud.bid
+0.0.0.0 www.hostingcloud.date
+0.0.0.0 www.hostingcloud.faith
+0.0.0.0 www.hostingcloud.loan
+0.0.0.0 www.hostingcloud.party
+0.0.0.0 www.hostingcloud.racing
+0.0.0.0 www.hostingcloud.review
+0.0.0.0 www.hostingcloud.science
+0.0.0.0 www.hostingcloud.stream
+0.0.0.0 www.hostingcloud.trade
+0.0.0.0 www.hostingcloud.win
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info
