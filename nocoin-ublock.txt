@@ -7,3 +7,4 @@ cloudtime.to,nowvideo.sx,sleeptimer.org,tomadivx.tv,wholecloud.net##script:injec
 123telugu.com,netiap.com,tomtop.com##script:inject(abort-on-property-read.js, _0x7bc7)
 thepiratebay.*##script:inject(abort-on-property-read.js, _wm)
 hqq.tv,hqq.watch##script:inject(abort-on-property-read.js,  mscript)
+descargas2020.com##script:inject(abort-current-inline-script.js, atob, _0x)
