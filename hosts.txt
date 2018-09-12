@@ -6,7 +6,7 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 04 September 2018
+# Last modified: 12 September 2018
 #
 
 0.0.0.0 cnhv.co
@@ -445,6 +445,18 @@
 0.0.0.0 www.hostingcloud.stream
 0.0.0.0 www.hostingcloud.trade
 0.0.0.0 www.hostingcloud.win
+0.0.0.0 minerad.com
+0.0.0.0 coin-cube.com
+0.0.0.0 coin-services.info
+0.0.0.0 service4refresh.info
+0.0.0.0 money-maker-script.info
+0.0.0.0 money-maker-default.info
+0.0.0.0 money-maker-default.info
+0.0.0.0 de-ner-mi-nis4.info
+0.0.0.0 de-nis-ner-mi-5.info
+0.0.0.0 de-mi-nis-ner2.info
+0.0.0.0 de-mi-nis-ner.info
+0.0.0.0 mi-de-ner-nis3.info
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info
