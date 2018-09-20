@@ -342,7 +342,6 @@
 ||de-mi-nis-ner.info^
 ||mi-de-ner-nis3.info^
 ||soodatmish.com^
-||thersprens.com^
 
 ! coinimp.com
 ||blockchained.party
