@@ -32,7 +32,11 @@ You can simply copy and paste the contents of above file into your hosts file. T
 - MacOS: `/etc/hosts`
 - Windows: `C:\Windows\System32\drivers\etc\hosts`
 
-Whichever OS you use, you will require escalated privileges to edit the file (either use `sudo` for Linux/MacOS or administrative account on Windows)
+Whichever OS you use, you will require escalated privileges to edit the file (either use `sudo` for Linux/MacOS or administrative account on Windows). Or you can use command below for linux
+
+```
+sudo -- sh -c 'curl -sS https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt >> /etc/hosts'
+```
 
 ### Adblockers
 * ![DNS66](https://i.imgur.com/XFBuNqj.png) [DNS66](https://github.com/julian-klode/dns66) for **Android**
