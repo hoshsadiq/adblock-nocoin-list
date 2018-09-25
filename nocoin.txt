@@ -2,8 +2,8 @@
 !-------------------------------------------------------------------------------
 ! Title: NoCoin Filter List
 ! Expires: 2 days (update frequency)
-! Version: 97
-! Last modified: 23 September 2018
+! Version: 98
+! Last modified: 25 September 2018
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
 ! License: https://mit-license.org/
@@ -16,6 +16,7 @@
 ||coinhive.com^$third-party
 ||authedmine.com^$third-party,domain=~coinhive.com
 ||jsecoin.com^$third-party
+||35.194.26.233^$third-party
 ||miner.pr0gramm.com^$third-party
 ||miner.pr0gramm.com^$websocket
 ||minemytraffic.com^$third-party
