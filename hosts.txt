@@ -466,6 +466,7 @@
 0.0.0.0 play.nexioniect.com
 0.0.0.0 s2.myregeneaf.com
 0.0.0.0 s3.myregeneaf.com
+0.0.0.0 reauthenticator.com
 0.0.0.0 rock.reauthenticator.com
 0.0.0.0 serv1swork.com
 0.0.0.0 str1kee.com
