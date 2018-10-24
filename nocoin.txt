@@ -25,7 +25,7 @@
 ||projectpoi.com^$third-party
 ||crypto-loot.com^$third-party
 ||cryptaloot.pro^$third-party
-||cryptoloot.pro^third-party
+||cryptoloot.pro^$third-party
 ||coinerra.com^$third-party
 ||coin-have.com^$third-party
 ||minero.pw^$third-party
@@ -68,14 +68,14 @@
 ||nfwebminer.com^$third-party
 ||webxmr.com^$third-party
 ||bjorksta.men^$third-party
-||crypto.csgocpu.com^third-party
-||noblock.pro^third-party
+||crypto.csgocpu.com^$third-party
+||noblock.pro^$third-party
 ||cryptobara.com^$third-party
 ||reservedoffers.club^$third-party
 ||adminer.com^$third-party
 ||ad-miner.com^$third-party
 ||77.162.125.199^$third-party
-||host.d-ns.ga^third-party
+||host.d-ns.ga^$third-party
 ||abc.pema.cl^$third-party
 ||webmine.cz^$third-party
 ||analytics.blue^$third-party
