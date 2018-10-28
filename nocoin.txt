@@ -394,7 +394,6 @@
 ||jshosting.trade
 ||jshosting.win
 ||wasm.stream
-||webchain.network
 
 ! General blocking -------------------------------------------------------------
 -coin-hive.js
