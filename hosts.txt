@@ -476,6 +476,7 @@
 0.0.0.0 cashbeet.com
 0.0.0.0 wmtech.website
 0.0.0.0 www.notmining.org
+0.0.0.0 coinminingonline.com
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info
