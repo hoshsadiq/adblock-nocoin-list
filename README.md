@@ -17,10 +17,12 @@ Make sure you have an adblocker installed in your desktop or mobile browsers tha
 Then click or import below link into your adblocker:
 - [https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt&title=NoCoin%20Filter%20List)
 
-### 1Blocker
+### 1Blocker (deprecated)
 You can also use the 1blocker package if you use <img src="https://1blocker.com/img/icon.png" width=16> [1Blocker](https://1blocker.com) on iOS or Mac.
 Simply open the file in 1Blocker on iOS or MacOS to import it.
 - https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.1blockpkg
+
+*Please note that the 1Blocker package has not been updated for a long time, and will soon be removed.*
 
 ## Hosts based blocking
 For the blocking based on the [HOSTS file](https://en.wikipedia.org/wiki/Hosts_(file)) use the below link:
