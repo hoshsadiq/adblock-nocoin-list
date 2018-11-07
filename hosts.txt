@@ -6,7 +6,7 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 28 October 2018
+# Last modified: 07 November 2018
 #
 
 0.0.0.0 cnhv.co
@@ -477,6 +477,35 @@
 0.0.0.0 wmtech.website
 0.0.0.0 www.notmining.org
 0.0.0.0 coinminingonline.com
+0.0.0.0 alflying.bid
+0.0.0.0 alflying.date
+0.0.0.0 alflying.win
+0.0.0.0 anybest.host
+0.0.0.0 anybest.pw
+0.0.0.0 anybest.site
+0.0.0.0 anybest.space
+0.0.0.0 dubester.pw
+0.0.0.0 dubester.site
+0.0.0.0 dubester.space
+0.0.0.0 flightsy.bid
+0.0.0.0 flightsy.date
+0.0.0.0 flightsy.win
+0.0.0.0 flighty.win
+0.0.0.0 flightzy.bid
+0.0.0.0 flightzy.date
+0.0.0.0 flightzy.win
+0.0.0.0 gettate.date
+0.0.0.0 gettate.faith
+0.0.0.0 gettate.racing
+0.0.0.0 mighbest.host
+0.0.0.0 mighbest.pw
+0.0.0.0 mighbest.site
+0.0.0.0 zymerget.bid
+0.0.0.0 zymerget.date
+0.0.0.0 zymerget.faith
+0.0.0.0 zymerget.party
+0.0.0.0 zymerget.stream
+0.0.0.0 zymerget.win
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info
