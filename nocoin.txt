@@ -16,6 +16,7 @@
 ||authedmine.com^$third-party,domain=~coinhive.com
 ||jsecoin.com^$third-party
 ||185.165.169.108^$third-party
+||netlify.com^$third-party
 ||35.194.26.233^$third-party
 ||35.239.57.233^$third-party
 ||miner.pr0gramm.com^$third-party
@@ -596,8 +597,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=adfreetv.ch|ddmix.n
 ||cinemafacil.com/js.php
 ||cdn1.pebx.pl^
 ||wallpoper.com^*/c.js
-||happy-davinci-53144f.netlify.com^
-||objective-wright-961fed.netlify.com^
 
 ! TPB
 $csp=child-src 'none'; frame-src *; worker-src 'none',domain=ahoypirate.click|alivbay.org|batpirate.info|bay.maik.rocks|baypirate.click|baypiratebay.be|baypirateproxy.org|baypirateproxy.pw|bayproxy.eu|bypassed.st|capjackproxy.net|cruzing.xyz|depiratenbaai.nl|duckingproxy.eu|hyperproxy.net|ikwildepiratebay.org|indiaproxy.in|pirat2.club|pirataibay.in|piratbaypirate.link|pirate.bet|pirate.blue|pirate.trade|pirateahoy.net|piratebaai.click|piratebaai.club|piratebay.click|piratebay.red|piratebay.website|piratebay247.net|piratebayblocked.com|piratebaymirror.eu|piratebayproxy.tf|piratebays.co|piratenbucht.eu|piratepirate.eu|pirateprox.club|pirateproxy.click|pirateproxy.ist|pirateproxy.mx|pirateproxy.tf|pirateproxy.wf|pirateproxy.yt|piratetoday.click|proxybayduck.fi|proxydl.cf|proxyfl.info|proxyme.site|proxyme.win|proxyoneahoy.net|proxypirate.in|proxypirate.website|proxyproxyproxy.nl|proxyship.click|proxytpb.org|proxytpb.pw|rowpirate.org|thehiddenbay.cc|themagnetbay.info|thepbay.ga|thepirate.click|thepiratebay-proxy.com|thepiratebay.bet|thepiratebay.blue|thepiratebay.cr|thepiratebay.futbol|thepiratebay.org|thepiratebay.pet|thepiratebay.pictures|thepiratebay.red|thepiratebay.rocks|thepiratebay.tel|thepiratebay.wtf|thepirateproxy.host|thepirateproxy.pro|thepirateproxy.win|thepirateproxy.ws|tpb.crushus.com|tpb.tw|tpbairproxy.in|tpbbay.eu|tpbduck.com|tpbmirror.us|tpbmonk.com|tpbonion.win|tpbpirate.info|tpbpirate.pw|tpbpirate.site|tpbportal.in|tpbproxy.club|tpbproxy.win|tpbproxyone.org|tpbrun.win|tpproxy.website|ukpirate.click|ukpirate.org|ukpirateproxy.xyz|unblockedhyperbay.info|unblocktpb.com|urbanproxy.eu|wearepirates.click|zombay.org
