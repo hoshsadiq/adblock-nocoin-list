@@ -16,7 +16,6 @@
 ||authedmine.com^$third-party,domain=~coinhive.com
 ||jsecoin.com^$third-party
 ||185.165.169.108^$third-party
-||netlify.com^$third-party
 ||35.194.26.233^$third-party
 ||35.239.57.233^$third-party
 ||miner.pr0gramm.com^$third-party
@@ -359,6 +358,8 @@
 ||cashbeet.com^
 ||wmtech.website^
 ||notmining.org^$third-party
+||happy-davinci-53144f.netlify.com^
+||objective-wright-961fed.netlify.com^
 
 ! coinimp.com
 ||blockchained.party
