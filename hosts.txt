@@ -6,7 +6,7 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 08 November 2018
+# Last modified: 09 November 2018
 #
 
 0.0.0.0 cnhv.co
@@ -506,8 +506,6 @@
 0.0.0.0 zymerget.party
 0.0.0.0 zymerget.stream
 0.0.0.0 zymerget.win
-0.0.0.0 happy-davinci-53144f.netlify.com
-0.0.0.0 objective-wright-961fed.netlify.com
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info
