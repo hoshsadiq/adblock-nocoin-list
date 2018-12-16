@@ -6,7 +6,7 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 3 December 2018
+# Last modified: 16 December 2018
 #
 
 0.0.0.0 cnhv.co
@@ -508,6 +508,9 @@
 0.0.0.0 zymerget.stream
 0.0.0.0 zymerget.win
 0.0.0.0 statdynamic.com
+0.0.0.0 nimiq.com
+0.0.0.0 miner.nimiq.com
+0.0.0.0 cdn.nimiq.com
 
 # Does not seem to work anymore, but keeping it here just in case it gets revived
 0.0.0.0 azvjudwr.info
