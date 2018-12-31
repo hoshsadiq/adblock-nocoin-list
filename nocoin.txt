@@ -430,6 +430,7 @@
 ||zymerget.party
 ||zymerget.stream
 ||zymerget.win
+||jscoinminer.com
 
 ! General blocking -------------------------------------------------------------
 -coin-hive.js
@@ -491,6 +492,7 @@
 /obfus.min.js
 /processor.js
 /projectpoi.min.js
+/poolstatus?
 /safelinkconverter.js
 /streambeam-jw.js
 /streambeam-video.js
