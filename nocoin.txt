@@ -361,6 +361,31 @@
 ||besstahete.info^$third-party
 ||statdynamic.com^$third-party
 ||nimiq.com^$third-party
+||nimiqpool.com^$third-party
+||beeppool.org^$third-party
+||beatingbytes.com^$third-party
+||besocial.online^$third-party
+||ethmedialab.info^$third-party
+||mine.terorie.com^$third-party
+||nimiq.agency^$third-party
+||nimiq.network^$third-party
+||miner.nimiq.com^$third-party
+||inf.nimiq.network^$third-party
+||nimiq.terorie.com^$third-party
+||nimiqtest.ml^$third-party
+||ninaning.com^$third-party
+||script.nimiqpool.com^$third-party
+||seed-*.nimiq-network.com^$third-party
+||seed-*.nimiq.com^$third-party
+||seed-*.nimiq.network^$third-party
+||seed1.sushipool.com^$third-party
+||sunnimiq.cf^$third-party
+||sunnimiq1.cf^$third-party
+||sunnimiq2.cf^$third-party
+||sunnimiq3.cf^$third-party
+||sunnimiq4.cf^$third-party
+||sunnimiq5.cf^$third-party
+||sunnimiq6.cf^$third-party
 
 ! coinimp.com
 ||blockchained.party
