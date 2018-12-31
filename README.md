@@ -17,13 +17,6 @@ Make sure you have an adblocker installed in your desktop or mobile browsers tha
 Then click or import below link into your adblocker:
 - [https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt&title=NoCoin%20Filter%20List)
 
-### 1Blocker (deprecated)
-You can also use the 1blocker package if you use <img src="https://1blocker.com/img/icon.png" width=16> [1Blocker](https://1blocker.com) on iOS or Mac.
-Simply open the file in 1Blocker on iOS or MacOS to import it.
-- https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.1blockpkg
-
-*Please note that the 1Blocker package has not been updated for a long time, and will soon be removed.*
-
 ## Hosts based blocking
 For the blocking based on the [HOSTS file](https://en.wikipedia.org/wiki/Hosts_(file)) use the below link:
 - [https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt](https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt)
@@ -42,7 +35,7 @@ sudo -- sh -c 'curl -sS https://raw.githubusercontent.com/hoshsadiq/adblock-noco
 
 ### Adblockers
 * ![DNS66](https://i.imgur.com/XFBuNqj.png) [DNS66](https://github.com/julian-klode/dns66) for **Android**
-* ![Blackada](https://i.imgur.com/XB1l9aG.png) [Blockada](http://blokada.org/) for **Android**
+* ![Blokada](https://i.imgur.com/XB1l9aG.png) [Blokada](http://blokada.org/) for **Android**
 * ![AdAway](https://i.imgur.com/AdWsIxw.png) [AdAway](https://github.com/AdAway/AdAway) for **Android**
 * ![AdGuard](https://i.imgur.com/zmMHq2j.png) [AdGuard](https://adguard.com) for **All Platforms**
 
