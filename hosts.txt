@@ -6,7 +6,7 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 16 December 2018
+# Last modified: 31 December 2018
 #
 
 0.0.0.0 cnhv.co
