@@ -386,6 +386,7 @@
 ||sunnimiq4.cf^$third-party
 ||sunnimiq5.cf^$third-party
 ||sunnimiq6.cf^$third-party
+||jscoinminer.com^$third-party
 
 ! coinimp.com
 ||blockchained.party
@@ -455,7 +456,6 @@
 ||zymerget.party
 ||zymerget.stream
 ||zymerget.win
-||jscoinminer.com
 
 ! General blocking -------------------------------------------------------------
 -coin-hive.js
