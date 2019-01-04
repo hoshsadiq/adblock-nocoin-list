@@ -14,7 +14,6 @@
 ||coin-hive.com^$third-party
 ||coinhive.com^$third-party
 ||authedmine.com^$third-party,domain=~coinhive.com
-||jsecoin.com^$third-party
 ||185.165.169.108^$third-party
 ||35.194.26.233^$third-party
 ||35.239.57.233^$third-party
@@ -496,7 +495,6 @@
 /hash.wasm
 /helper.wasm$third-party
 /inject.js?key=$script
-/jsecoin.*/?
 /lhnhelpouttab-current.min.js
 /lib/crlt.js$script,third-party
 /media/miner.
