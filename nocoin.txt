@@ -647,7 +647,8 @@ $script,websocket,domain=ahoypirate.click|alivbay.org|batpirate.info|bay.maik.ro
 ! Whitelists to fix broken sites -----------------------------------------------
 @@||ws.webcaster.pro^$websocket
 @@||broadcastt.xyz/apps/$websocket
-@@||viebel.github.io/klipse/repo/js/*.js$xmlhttprequest
+@@||viebel.github.io/klipse$xmlhttprequest
+@@||viebel.github.io/cljs-analysis-cache/$xmlhttprequest
 
 ! Obfuscated and whatnot.
 ||rapidvideo.com/J5xj_2.js
