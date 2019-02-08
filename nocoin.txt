@@ -647,6 +647,7 @@ $script,websocket,domain=ahoypirate.click|ahoypirate.in|ahoypiratebaai.eu|airpro
 @@||broadcastt.xyz/apps/$websocket
 @@||viebel.github.io/klipse$xmlhttprequest
 @@||viebel.github.io/cljs-analysis-cache/$xmlhttprequest
+@@||matt-kruse.github.io/socialfixerdata/filters.json$xmlhttprequest
 
 ! Obfuscated and whatnot.
 ||rapidvideo.com/J5xj_2.js
