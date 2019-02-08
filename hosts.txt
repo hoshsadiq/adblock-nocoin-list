@@ -673,9 +673,7 @@
 0.0.0.0 tokomaru.nimiqpool.com
 0.0.0.0 whanganui.nimiqpool.com
 0.0.0.0 www.besocial.online
-0.0.0.0 nimiq.com
 0.0.0.0 miner.nimiq.com
-0.0.0.0 cdn.nimiq.com
 0.0.0.0 jscoinminer.com
 0.0.0.0 www.jscoinminer.com
 0.0.0.0 play.tercabilis.info

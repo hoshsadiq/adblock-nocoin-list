@@ -364,7 +364,7 @@
 ||notmining.org^$third-party
 ||besstahete.info^$third-party
 ||statdynamic.com^$third-party
-||nimiq.com^$third-party
+||miner.nimiq.com^$third-party
 ||nimiqpool.com^$third-party
 ||beeppool.org^$third-party
 ||beatingbytes.com^$third-party
