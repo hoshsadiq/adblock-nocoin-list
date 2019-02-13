@@ -373,12 +373,9 @@
 ||mine.terorie.com^$third-party
 ||nimiq.agency^$third-party
 ||nimiq.network^$third-party
-||miner.nimiq.com^$third-party
-||inf.nimiq.network^$third-party
 ||nimiq.terorie.com^$third-party
 ||nimiqtest.ml^$third-party
 ||ninaning.com^$third-party
-||script.nimiqpool.com^$third-party
 ||seed-*.nimiq-network.com^$third-party
 ||seed-*.nimiq.com^$third-party
 ||seed-*.nimiq.network^$third-party
