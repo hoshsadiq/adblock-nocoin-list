@@ -6,7 +6,7 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 05 February 2019
+# Last modified: 13 February 2019
 #
 
 0.0.0.0 cnhv.co
@@ -678,22 +678,3 @@
 0.0.0.0 www.jscoinminer.com
 0.0.0.0 play.tercabilis.info
 0.0.0.0 play.istlandoll.com
-
-# Does not seem to work anymore, but keeping it here just in case it gets revived
-0.0.0.0 azvjudwr.info
-0.0.0.0 jroqvbvw.info
-0.0.0.0 jyhfuqoh.info
-0.0.0.0 kdowqlpt.info
-0.0.0.0 xbasfbno.info
-
-# These were Obfuscated
-0.0.0.0 1beb2a44.space
-0.0.0.0 300ca0d0.space
-0.0.0.0 310ca263.space
-0.0.0.0 320ca3f6.space
-0.0.0.0 330ca589.space
-0.0.0.0 340ca71c.space
-0.0.0.0 360caa42.space
-0.0.0.0 370cabd5.space
-0.0.0.0 3c0cb3b4.space
-0.0.0.0 3d0cb547.space
