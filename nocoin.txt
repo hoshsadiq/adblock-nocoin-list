@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: NoCoin Filter List
 ! Expires: 2 days (update frequency)
-! Version: 130
+! Version: 131
 ! Last modified: 07 March 2019
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
@@ -646,6 +646,7 @@ $script,websocket,domain=ahoypirate.click|ahoypirate.in|ahoypiratebaai.eu|airpro
 @@||viebel.github.io/cljs-analysis-cache/$xmlhttprequest
 @@||viebel.github.io/cljsjs-hosted/$xmlhttprequest
 @@||matt-kruse.github.io/socialfixerdata/filters.json$xmlhttprequest
+@@||luxdeepblue.github.io/vm-wasm/$xmlhttprequest
 
 ! Filters optimized for uBlock -------------------------------------------------
 !#include nocoin-ublock.txt
