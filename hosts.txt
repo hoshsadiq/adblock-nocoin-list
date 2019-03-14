@@ -6,7 +6,7 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 13 February 2019
+# Last modified: 14 February 2019
 #
 
 0.0.0.0 cnhv.co
@@ -18,8 +18,6 @@
 0.0.0.0 server.jsecoin.com
 0.0.0.0 miner.pr0gramm.com
 0.0.0.0 minemytraffic.com
-0.0.0.0 ppoi.org
-0.0.0.0 projectpoi.com
 0.0.0.0 crypto-loot.com
 0.0.0.0 cryptaloot.pro
 0.0.0.0 cryptoloot.pro
