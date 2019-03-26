@@ -638,6 +638,7 @@ $script,websocket,domain=ahoypirate.click|ahoypirate.in|ahoypiratebaai.eu|airpro
 ||minexmr.com^$third-party
 
 ! Whitelists to fix broken sites -----------------------------------------------
+@@||api.nyda.pro^$websocket
 @@||ws.webcaster.pro^$websocket
 @@||broadcastt.xyz/apps/$websocket
 @@||viebel.github.io/klipse$xmlhttprequest
