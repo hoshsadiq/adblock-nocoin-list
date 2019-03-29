@@ -644,7 +644,7 @@ $script,websocket,domain=ahoypirate.click|ahoypirate.in|ahoypiratebaai.eu|airpro
 @@||viebel.github.io/klipse$xmlhttprequest
 @@||viebel.github.io/cljs-analysis-cache/$xmlhttprequest
 @@||viebel.github.io/cljsjs-hosted/$xmlhttprequest
-@@||matt-kruse.github.io/socialfixerdata/filters.json$xmlhttprequest
+@@||matt-kruse.github.io/socialfixerdata/$xmlhttprequest
 
 ! Filters optimized for uBlock -------------------------------------------------
 !#include nocoin-ublock.txt
