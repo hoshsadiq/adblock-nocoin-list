@@ -6,7 +6,7 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 14 February 2019
+# Last modified: 10 April 2019
 #
 
 0.0.0.0 cnhv.co
@@ -676,3 +676,7 @@
 0.0.0.0 www.jscoinminer.com
 0.0.0.0 play.tercabilis.info
 0.0.0.0 play.istlandoll.com
+0.0.0.0 s01.hostcontent.live
+0.0.0.0 s11.hostcontent.live
+0.0.0.0 s12.hostcontent.live
+0.0.0.0 s09.hostcontent.live
