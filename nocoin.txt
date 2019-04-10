@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: NoCoin Filter List
 ! Expires: 1 days (update frequency)
-! Version: 143
+! Version: 144
 ! Last modified: 10 April 2019
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
@@ -629,8 +629,7 @@ $script,websocket,domain=ahoypirate.click|ahoypirate.in|ahoypiratebaai.eu|airpro
 ! https://forums.lanik.us/viewtopic.php?f=64&t=40185
 ! https://git.io/fp0eZ
 ! https://forums.lanik.us/viewtopic.php?f=91&t=42871
-||github.io^$third-party,websocket,domain=~docuss.org|~github.com|~github.io|~tumblr.com
-||github.io^$third-party,xmlhttprequest,domain=~facebook.com|~gametactic.org|~github.com|~github.io|~tumblr.com|~wottactic.com
+||github.io^$third-party,xmlhttprequest,websocket,domain=~docuss.org|~facebook.com|~gametactic.org|~github.com|~github.io|~tumblr.com|~wottactic.com
 
 ! Pools
 ||pool.supportxmr.com^
