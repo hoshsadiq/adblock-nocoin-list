@@ -6,7 +6,7 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 12 April 2019
+# Last modified: 22 May 2019
 #
 
 0.0.0.0 cnhv.co
@@ -438,9 +438,13 @@
 0.0.0.0 www.freecontent.science
 0.0.0.0 www.freecontent.stream
 0.0.0.0 www.freecontent.trade
+0.0.0.0 www.hostcontent.live
+0.0.0.0 www.hostingcloud.accountant
 0.0.0.0 www.hostingcloud.bid
 0.0.0.0 www.hostingcloud.date
+0.0.0.0 www.hostingcloud.download
 0.0.0.0 www.hostingcloud.faith
+0.0.0.0 www.hostingcloud.live
 0.0.0.0 www.hostingcloud.loan
 0.0.0.0 www.hostingcloud.party
 0.0.0.0 www.hostingcloud.racing
