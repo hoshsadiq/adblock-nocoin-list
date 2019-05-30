@@ -1,10 +1,10 @@
 # NoCoin filter list optimized for uBlock
 
-csgoconfigs.com##script:inject(abort-current-inline-script.js, m, CH.Anonymous)
-djs.sk,mladipodnikatelia.sk,tubettajat.net##script:inject(abort-on-property-read.js, miner)
-tasma.ru,vidzi.tv##script:inject(abort-on-property-write.js, decodeURIComponent)
-cloudtime.to,nowvideo.sx,sleeptimer.org,tomadivx.tv,wholecloud.net##script:inject(abort-on-property-read.js, WebAssembly)
-123telugu.com,netiap.com,tomtop.com##script:inject(abort-on-property-read.js, _0x7bc7)
-thepiratebay.*##script:inject(abort-on-property-read.js, _wm)
-hqq.tv,hqq.watch##script:inject(abort-on-property-read.js,  mscript)
-descargas2020.com##script:inject(abort-current-inline-script.js, atob, _0x)
+csgoconfigs.com##+js(abort-current-inline-script.js, m, CH.Anonymous)
+djs.sk,mladipodnikatelia.sk,tubettajat.net##+js(abort-on-property-read.js, miner)
+tasma.ru,vidzi.tv##+js(abort-on-property-write.js, decodeURIComponent)
+cloudtime.to,nowvideo.sx,sleeptimer.org,tomadivx.tv,wholecloud.net##+js(abort-on-property-read.js, WebAssembly)
+123telugu.com,netiap.com,tomtop.com##+js(abort-on-property-read.js, _0x7bc7)
+thepiratebay.*##+js(abort-on-property-read.js, _wm)
+hqq.tv,hqq.watch##+js(abort-on-property-read.js,  mscript)
+descargas2020.com##+js(abort-current-inline-script.js, atob, _0x)
