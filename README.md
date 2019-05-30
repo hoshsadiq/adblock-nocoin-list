@@ -1,6 +1,10 @@
 # NoCoin adblock list
 This is an adblock list to block "browser-based crypto mining". Currently there are a few websites added into the lists. If you see other websites supporting these deeds, then feel free to raise an **Issue** or **Pull request** for it to be taken care of.
 
+##
+
+<b>IMPORTANT NOTE FOR CHROMIUM-BROWSER USERS:</b> Our list does not, can not, and will never ever support Manifest v3, due to its laughably short rule limit and the removal of `csp` and `##+js`. Issue reports for Manifest v3-based extension versions will not be accepted, and if you do submit one, you would be asked to use an alternate web browser or web browser version instead.
+
 ## Installation
 
 ### AdBlock Filter
