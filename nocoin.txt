@@ -653,6 +653,7 @@ $script,websocket,domain=ahoypirate.click|ahoypirate.in|ahoypiratebaai.eu|airpro
 @@||viebel.github.io/cljs-analysis-cache/$xmlhttprequest
 @@||viebel.github.io/cljsjs-hosted/$xmlhttprequest
 @@||matt-kruse.github.io/socialfixerdata/$xmlhttprequest
+@@||balena-io.github.io/$xmlhttprequest
 
 ! Filters optimized for uBlock -------------------------------------------------
 !#include nocoin-ublock.txt
