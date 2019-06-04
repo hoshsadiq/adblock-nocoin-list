@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: NoCoin Filter List
 ! Expires: 1 days (update frequency)
-! Version: 163
-! Last modified: 30 May 2019
+! Version: 164
+! Last modified: 04 Jun 2019
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
 ! License: https://mit-license.org/
@@ -637,7 +637,7 @@ $script,websocket,domain=ahoypirate.click|ahoypirate.in|ahoypiratebaai.eu|airpro
 ! https://forums.lanik.us/viewtopic.php?f=64&t=40185
 ! https://git.io/fp0eZ
 ! https://forums.lanik.us/viewtopic.php?f=91&t=42871
-||github.io^$third-party,xmlhttprequest,websocket,domain=~docuss.org|~facebook.com|~gametactic.org|~github.com|~github.io|~tumblr.com|~wottactic.com
+||github.io^$third-party,xmlhttprequest,websocket,domain=~balena.io|~docuss.org|~facebook.com|~gametactic.org|~github.com|~github.io|~tumblr.com|~wottactic.com
 
 ! Pools
 ||pool.supportxmr.com^
@@ -653,7 +653,6 @@ $script,websocket,domain=ahoypirate.click|ahoypirate.in|ahoypiratebaai.eu|airpro
 @@||viebel.github.io/cljs-analysis-cache/$xmlhttprequest
 @@||viebel.github.io/cljsjs-hosted/$xmlhttprequest
 @@||matt-kruse.github.io/socialfixerdata/$xmlhttprequest
-@@||balena-io.github.io/$xmlhttprequest
 
 ! Filters optimized for uBlock -------------------------------------------------
 !#include nocoin-ublock.txt
