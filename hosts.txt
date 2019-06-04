@@ -6,7 +6,7 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 27 May 2019
+# Last modified: 04 Jun 2019
 #
 
 0.0.0.0 cnhv.co
@@ -276,6 +276,9 @@
 0.0.0.0 api.browsermine.com
 0.0.0.0 dl.browsermine.com
 0.0.0.0 mlib.browsermine.com
+0.0.0.0 minr.browsermine.com
+0.0.0.0 static.browsermine.com
+0.0.0.0 ws.browsermine.com
 0.0.0.0 bmst.pw
 0.0.0.0 bmnr.pw
 0.0.0.0 bmcm.pw
