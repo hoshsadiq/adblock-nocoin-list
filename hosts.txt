@@ -274,6 +274,7 @@
 0.0.0.0 www.lightminer.co
 0.0.0.0 browsermine.com
 0.0.0.0 api.browsermine.com
+0.0.0.0 dl.browsermine.com
 0.0.0.0 mlib.browsermine.com
 0.0.0.0 bmst.pw
 0.0.0.0 bmnr.pw
