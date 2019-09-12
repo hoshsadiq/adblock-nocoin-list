@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: NoCoin Filter List
 ! Expires: 1 days (update frequency)
-! Version: 174
-! Last modified: 27 Jul 2019
+! Version: 175
+! Last modified: 12 Sep 2019
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
 ! License: https://mit-license.org/
@@ -523,7 +523,6 @@
 /nano.wasm
 /noblock.js
 /obfus.min.js
-/processor.js
 /projectpoi.min.js
 /poolstatus?
 /safelinkconverter.js
