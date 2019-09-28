@@ -6,7 +6,7 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 04 Jun 2019
+# Last modified: 28 Sep 2019
 #
 
 0.0.0.0 cnhv.co
@@ -246,7 +246,6 @@
 0.0.0.0 nexttime.ovh
 0.0.0.0 never.ovh
 0.0.0.0 2giga.download
-0.0.0.0 support.2giga.link
 0.0.0.0 webminerpool.com
 0.0.0.0 minercry.pt
 0.0.0.0 adplusplus.fr
