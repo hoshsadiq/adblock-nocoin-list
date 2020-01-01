@@ -388,7 +388,6 @@
 ||istlandoll.com^
 ||bitcoin-pay.eu^$third-party
 ||binarybusiness.de^$third-party
-||bitcoin-pay.eu^$third-party
 ||cloud-miner.de^$third-party
 ||cloud-miner.eu^$third-party
 ||easyhash.de^$third-party
