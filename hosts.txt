@@ -6,7 +6,7 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 7 Nov 2019
+# Last modified: 1 Jan 2020
 #
 
 0.0.0.0 cnhv.co
@@ -696,4 +696,9 @@
 0.0.0.0 s11.hostcontent.live
 0.0.0.0 s12.hostcontent.live
 0.0.0.0 s13.hostcontent.live
+0.0.0.0 binarybusiness.de
 0.0.0.0 bitcoin-pay.eu
+0.0.0.0 cloud-miner.de
+0.0.0.0 cloud-miner.eu
+0.0.0.0 easyhash.de
+
