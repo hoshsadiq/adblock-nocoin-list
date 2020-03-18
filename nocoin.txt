@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: NoCoin Filter List
 ! Expires: 1 days (update frequency)
-! Version: 184
-! Last modified: 13 Mar 2020
+! Version: 185
+! Last modified: 18 Mar 2020
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
 ! License: https://mit-license.org/
@@ -391,6 +391,8 @@
 ||cloud-miner.de^$third-party
 ||cloud-miner.eu^$third-party
 ||easyhash.de^$third-party
+||srcip.com^$third-party
+||srcips.com^$third-party
 
 ! coinimp.com
 ||blockchained.party
