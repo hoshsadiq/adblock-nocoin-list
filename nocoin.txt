@@ -396,6 +396,9 @@
 ||dontbeevils.de^$third-party
 ||cloud-miner.de^$third-party
 ||cloud-miner.eu^$third-party
+||binarybusiness.de^$third-party
+||bitcoin-cashcard.com^$third-party
+||bitcoin-cashcard.de^$third-party
 
 ! coinimp.com
 ||blockchained.party
