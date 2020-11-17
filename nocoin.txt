@@ -393,6 +393,9 @@
 ||easyhash.de^$third-party
 ||srcip.com^$third-party
 ||srcips.com^$third-party
+||dontbeevils.de^$third-party
+||cloud-miner.de^$third-party
+||cloud-miner.eu^$third-party
 
 ! coinimp.com
 ||blockchained.party
