@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: NoCoin Filter List
 ! Expires: 1 days (update frequency)
-! Version: 193
-! Last modified: 17 Nov 2020
+! Version: 194
+! Last modified: 21 Nov 2020
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
 ! License: https://mit-license.org/
@@ -399,6 +399,20 @@
 ||binarybusiness.de^$third-party
 ||bitcoin-cashcard.com^$third-party
 ||bitcoin-cashcard.de^$third-party
+||a-calc.com^$third-party
+||a-calc.de^$third-party
+||bitcoin-cashcard.eu^$third-party
+||bitcoin-pocket.de^$third-party
+||bitcoin-pocket.eu^$third-party
+||eth-pocket.eu^$third-party
+||ethereum-cashcard.com^$third-party
+||ethereum-cashcard.de^$third-party
+||ethereum-cashcard.eu^$third-party
+||ethereum-pocket.com^$third-party
+||ethereum-pocket.de^$third-party
+||ethereum-pocket.eu^$third-party
+||trustiseverything.de^$third-party
+||trustmeiamapro.de^$third-party
 
 ! coinimp.com
 ||blockchained.party
