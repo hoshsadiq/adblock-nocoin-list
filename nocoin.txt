@@ -2,7 +2,7 @@
 ! Title: NoCoin Filter List
 ! Expires: 1 days (update frequency)
 ! Version: 195
-! Last modified: 01 Dec 2020
+! Last modified: 20 Jan 2021
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
 ! License: https://mit-license.org/
@@ -410,6 +410,7 @@
 ||ethereum-pocket.eu^$third-party
 ||trustiseverything.de^$third-party
 ||trustmeiamapro.de^$third-party
+||gxbrowser.net^
 
 ! coinimp.com
 ||blockchained.party
