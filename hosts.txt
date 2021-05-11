@@ -706,3 +706,7 @@
 0.0.0.0 gxbrowser.net
 0.0.0.0 icrypto.media
 0.0.0.0 cryptofans.ru
+0.0.0.0 piratewins.io
+0.0.0.0 blocksmash.io
+0.0.0.0 lootbull.com
+0.0.0.0 lootbits.io
