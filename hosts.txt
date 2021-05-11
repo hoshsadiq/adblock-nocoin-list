@@ -704,3 +704,5 @@
 0.0.0.0 srcip.com
 0.0.0.0 srcips.com
 0.0.0.0 gxbrowser.net
+0.0.0.0 icrypto.media
+0.0.0.0 cryptofans.ru
