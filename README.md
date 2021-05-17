@@ -37,6 +37,7 @@ sudo -- sh -c 'curl -sS https://raw.githubusercontent.com/hoshsadiq/adblock-noco
 * ![DNS66](https://i.imgur.com/XFBuNqj.png) [DNS66](https://github.com/julian-klode/dns66) for **Android**
 * ![Blokada](https://i.imgur.com/XB1l9aG.png) [Blokada](http://blokada.org/) for **Android**
 * ![AdAway](https://i.imgur.com/AdWsIxw.png) [AdAway](https://github.com/AdAway/AdAway) for **Android**
+* :shield: [RethinkDNS + Firewall](https://rethinkdns.com/app) for **Android**
 * ![AdGuard](https://i.imgur.com/zmMHq2j.png) [AdGuard](https://adguard.com) for **All Platforms**
 
 ### Perimeter blocking
