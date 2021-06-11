@@ -666,6 +666,7 @@ $script,websocket,domain=pirateproxy.buzz|pirateproxy.ist|pirateproxy.mx|thepira
 @@||ws.webcaster.pro^$websocket
 @@||broadcastt.xyz/apps/$websocket
 @@||lags.win/ctf$websocket
+@@||*.idkfa.online^$websocket
 
 ! Filters optimized for uBlock -------------------------------------------------
 !#include nocoin-ublock.txt
