@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: NoCoin Filter List
 ! Expires: 7 days (update frequency)
-! Version: 203
-! Last modified: 16 December 2021
+! Version: 204
+! Last modified: 25 December 2021
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
 ! License: https://mit-license.org/
@@ -652,7 +652,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=adfreetv.ch|ddmix.n
 ||shush.se/loader/load.js
 ||uptostream.com/assets/$subdocument
 ||contribute.to-support.me^
-||turtlecoin.herominers.com^
 
 ! TPB
 $csp=child-src 'none'; frame-src *; worker-src 'none',domain=pirateproxy.buzz|pirateproxy.ist|pirateproxy.mx|thepiratebay.by|thepiratebay.cr|thepiratebay.org|thepiratebay.rocks|thepiratebay.se.net|thepiratebay10.org|unblocktheship.org
