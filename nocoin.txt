@@ -226,7 +226,6 @@
 ||bmcm.pw^
 ||bmcm.ml^
 ||videoplayer2.xyz^
-||0x1f4b0.com^
 ||httpp.gdn^
 ||authedwebmine.cz^$third-party,domain=~webmine.cz
 ||skencituer.com^
