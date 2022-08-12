@@ -708,3 +708,7 @@
 0.0.0.0 ethereum-pocket.de
 0.0.0.0 ethereum-pocket.eu
 0.0.0.0 trusteverything.de
+0.0.0.0 bestsrv.de
+0.0.0.0 donttbeevils.de
+0.0.0.0 evilsbedont.de
+0.0.0.0 trustaproiam.de
