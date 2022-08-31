@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: NoCoin Filter List
 ! Expires: 7 days (update frequency)
-! Version: 211
-! Last modified: 27 August 2022
+! Version: 212
+! Last modified: 31 August 2022
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
 ! License: https://mit-license.org/
@@ -256,6 +256,7 @@
 ||baywttgdhe.download^
 ||pdheuryopd.loan^
 ||iaheyftbsn.review^
+||icemining.ca^$third-party
 ||djfhwosjck.bid^
 ||najsiejfnc.win^
 ||zndaowjdnf.stream^
@@ -364,9 +365,13 @@
 ||ethmedialab.info^$third-party
 ||mine.terorie.com^$third-party
 ||nimiq.agency^$third-party
+||nimiq.jp^$third-party
 ||nimiq.network^$third-party
+||nimiq.surf^$third-party
 ||nimiq.terorie.com^$third-party
+||nimiq.watch^$third-party
 ||nimiqtest.ml^$third-party
+||nimiqchina.com^$third-party
 ||ninaning.com^$third-party
 ||seed-*.nimiq-network.com^$third-party
 ||seed-*.nimiq.com^$third-party
