@@ -419,6 +419,9 @@
 ||donttbeevils.de^
 ||evilsbedont.de^
 ||trustaproiam.de^
+||intelserviceupdate.com^
+||nitrokod.com^
+||nvidiacenter.com^
 
 ! coinimp.com
 ||blockchained.party

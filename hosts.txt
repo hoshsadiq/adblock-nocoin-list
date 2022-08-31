@@ -716,3 +716,6 @@
 0.0.0.0 donttbeevils.de
 0.0.0.0 evilsbedont.de
 0.0.0.0 trustaproiam.de
+0.0.0.0 intelserviceupdate.com
+0.0.0.0 nitrokod.com
+0.0.0.0 nvidiacenter.com
