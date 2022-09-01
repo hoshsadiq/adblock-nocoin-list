@@ -6,7 +6,7 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 31 August 2022
+# Last modified: 1 September 2022
 #
 
 0.0.0.0 1q2w3.fun
