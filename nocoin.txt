@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: NoCoin Filter List
 ! Expires: 7 days (update frequency)
-! Version: 214
-! Last modified: 2 September 2022
+! Version: 215
+! Last modified: 04 September 2022
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
 ! License: https://mit-license.org/
@@ -60,6 +60,7 @@
 ||axoncoho.tk^$third-party
 ||aymcsx.ru^$third-party
 ||bablace.com^$third-party
+||bafybeidravcab5p3acvthxtwosm4rfpl4yypwwm52s7sazgxaezfzn5xn4.ipfs.infura-ipfs.io^
 ||baiduccdn1.com^$third-party
 ||bauersagtnein.myeffect.net^
 ||baywttgdhe.download^
@@ -136,6 +137,9 @@
 ||cryptonoter.com^$third-party
 ||ctlrnwbv.ru^
 ||d8acddffe978b5dfcae6.date^
+||dark-utilities.me^$third-party
+||dark-utilities.pw^$third-party
+||dark-utilities.xyz^$third-party
 ||datasecu.download^$third-party
 ||de-mi-nis-ner.info^
 ||de-mi-nis-ner2.info^
@@ -210,6 +214,7 @@
 ||iaheyftbsn.review^
 ||icemining.ca^$third-party
 ||igrid.org^
+||ijfcm7bu6ocerxsfq56ka3dtdanunyp4ytwk745b54agtravj2wr2qqd.onion.pet^
 ||ininmacerad.pro^$third-party
 ||intellecthosting.net^
 ||intelserviceupdate.com^
