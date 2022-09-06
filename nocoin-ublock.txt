@@ -1,3 +1,4 @@
+[uBlock Origin]
 # NoCoin filter list optimized for uBlock
 
 csgoconfigs.com##+js(acis, m, CH.Anonymous)
