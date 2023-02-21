@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: NoCoin Filter List
 ! Expires: 7 days (update frequency)
-! Version: 215
-! Last modified: 04 September 2022
+! Version: 216
+! Last modified: 21 February 2023
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
 ! License: https://mit-license.org/
@@ -246,6 +246,10 @@
 ||m.anyfiles.ovh^
 ||machieved.com^$third-party
 ||malictuiar.com^
+||mail.ghmproperties.com^
+||mail.itseasy.com^
+||mail.shaferglazer.com^
+||mail.techniservinc.com^
 ||mebablo.com^$third-party
 ||mepirtedic.com^$third-party
 ||mercy.ga^$third-party
