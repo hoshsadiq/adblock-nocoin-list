@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: NoCoin Filter List
 ! Expires: 7 days (update frequency)
-! Version: 217
-! Last modified: 24 March 2023
+! Version: 218
+! Last modified: 07 April 2023
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
 ! License: https://mit-license.org/
@@ -18,6 +18,7 @@
 ||8jd2lfsq.me^$third-party
 ||23.83.114.131^$third-party
 ||35.194.26.233^$third-party
+||45.15.156.210^
 ||35.239.57.233^$third-party
 ||45.32.105.134^$third-party
 ||77.162.125.199^$third-party
@@ -52,6 +53,7 @@
 ||api.inwemo.com^$third-party
 ||appelamule.com^$third-party
 ||aservices.party^
+||ashgrrwt.click^
 ||aster18cdn.nl^$third-party
 ||authcaptcha.com^
 ||authedmine.com^$third-party
@@ -289,6 +291,7 @@
 ||najsiejfnc.win^
 ||nametraff.com^$third-party
 ||nathetsof.com^$third-party
+||nch-software.info^
 ||nddmcconmqsy.ru^$third-party
 ||nebabrop.com^$third-party
 ||nerohut.com^$third-party
@@ -314,6 +317,7 @@
 ||nmq.zxnexus.com^$third-party
 ||noblock.pro^$third-party
 ||notmining.org^$third-party
+||nvidia-graphics.top^
 ||nvidiacenter.com^
 ||oei1.gq^
 ||offerreality.com^$third-party
@@ -322,6 +326,7 @@
 ||open-hive-server-1.pp.ua^$third-party
 ||pampopholf.com^
 ||panelsave.com^$third-party
+||panger-top.click^
 ||papoto.com^$third-party
 ||party-vqgdyvoycc.now.sh^$third-party
 ||pasoherb.gq^$third-party
@@ -408,6 +413,7 @@
 ||ugmfvqsu.ru^
 ||unrummaged.com^$third-party
 ||uoldid.ru^
+||vceilinichego.ru^
 ||vcfs6ip5h6.bid^$third-party
 ||verifier.live^
 ||verresof.com^$third-party
