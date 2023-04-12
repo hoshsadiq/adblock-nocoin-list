@@ -6,8 +6,9 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 11 April 2023
+# Last modified: 12 April 2023
 #
+
 0.0.0.0 1q2w3.fun
 0.0.0.0 abc.pema.cl
 0.0.0.0 acbp0020171456.page.tl
@@ -226,11 +227,9 @@
 0.0.0.0 play.pampopholf.com
 0.0.0.0 play.play.estream.to
 0.0.0.0 play.play.estream.xyz
-0.0.0.0 play.play1.videos.vidto.me
 0.0.0.0 play.tercabilis.info
 0.0.0.0 play.video2.stream.vidzi.tv
 0.0.0.0 play.vidzi.tv
-0.0.0.0 playe.vidto.se
 0.0.0.0 pool.hws.ru
 0.0.0.0 pr0gram.org
 0.0.0.0 premiumstats.xyz
@@ -372,7 +371,6 @@
 0.0.0.0 us.cfcdist.loan
 0.0.0.0 vceilinichego.ru
 0.0.0.0 video.streaming.estream.to
-0.0.0.0 video.videos.vidto.me
 0.0.0.0 videoplayer2.xyz
 0.0.0.0 vkcdnservice.com
 0.0.0.0 vmi503011.contaboserver.net
