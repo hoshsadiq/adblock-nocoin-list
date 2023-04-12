@@ -119,6 +119,8 @@
 0.0.0.0 flightzy.date
 0.0.0.0 flightzy.win
 0.0.0.0 formulawire.com
+0.0.0.0 fp2e7a.wpc.2be4.phicdn.net
+0.0.0.0 fp2e7a.wpc.phicdn.net
 0.0.0.0 g1thub.com
 0.0.0.0 ganymed.beeppool.org
 0.0.0.0 gasolina.ml
@@ -416,4 +418,5 @@
 0.0.0.0 www.webassembly.stream
 0.0.0.0 www.webmine.cz
 0.0.0.0 xmr.cool
+0.0.0.0 xmr.2miners.com
 0.0.0.0 zymerget.win

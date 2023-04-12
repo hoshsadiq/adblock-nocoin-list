@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: NoCoin Filter List
 ! Expires: 7 days (update frequency)
-! Version: 219
+! Version: 220
 ! Last modified: 12 April 2023
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
@@ -13,6 +13,7 @@
 ||1q2w3.fun^$third-party
 ||1q2w3.top^$third-party
 ||23.83.114.131^$third-party
+||2miners.com^$third-party
 ||35.194.26.233^$third-party
 ||45.15.156.210^
 ||35.239.57.233^$third-party
@@ -134,6 +135,8 @@
 ||filmoljupci.com^
 ||flare-analytics.com^$third-party
 ||formulawire.com^$third-party
+||fp2e7a.wpc.2be4.phicdn.net^
+||fp2e7a.wpc.phicdn.net^
 ||g1thub.com^
 ||gasolina.ml^$third-party
 ||gay-hotvideo.net^
