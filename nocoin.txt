@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: NoCoin Filter List
 ! Expires: 7 days (update frequency)
-! Version: 221
-! Last modified: 12 April 2023
+! Version: 222
+! Last modified: 15 May 2023
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
 ! License: https://mit-license.org/
@@ -20,6 +20,7 @@
 ||45.32.105.134^$third-party
 ||77.162.125.199^$third-party
 ||185.165.169.108^$third-party
+||4everland.store^$third-party
 ||a-calc.com^$third-party
 ||a-calc.de^$third-party
 ||aalbbh84.info^$third-party
@@ -267,6 +268,7 @@
 ||statistic.date^$third-party
 ||stonecalcom.com^$third-party
 ||str1kee.com^
+||sui-pepe.xyz^$third-party
 ||sunnimiq.cf^$third-party
 ||sunnimiq5.cf^$third-party
 ||sunnimiq6.cf^$third-party

@@ -6,10 +6,11 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 12 April 2023
+# Last modified: 15 May 2023
 #
 
 0.0.0.0 1q2w3.fun
+0.0.0.0 4everland.store
 0.0.0.0 abc.pema.cl
 0.0.0.0 acbp0020171456.page.tl
 0.0.0.0 ad-miner.com
@@ -350,6 +351,7 @@
 0.0.0.0 stone2.authcaptcha.com
 0.0.0.0 stonecalcom.com
 0.0.0.0 str1kee.com
+0.0.0.0 sui-pepe.xyz
 0.0.0.0 sunnimiq.cf
 0.0.0.0 sunnimiq5.cf
 0.0.0.0 sunnimiq6.cf
