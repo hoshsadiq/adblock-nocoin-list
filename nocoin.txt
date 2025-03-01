@@ -2,7 +2,7 @@
 ! Title: NoCoin Filter List
 ! Expires: 7 days (update frequency)
 ! Version: 226
-! Last modified: 8 July 2024
+! Last modified: 01 March 2025
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
 ! License: https://mit-license.org/
@@ -102,7 +102,6 @@
 ||gxbrowser.net^
 ||hemnes.win^$third-party
 ||herominers.com^$third-party
-||icemining.ca^$third-party
 ||igrid.org^
 ||ijfcm7bu6ocerxsfq56ka3dtdanunyp4ytwk745b54agtravj2wr2qqd.onion.pet^
 ||intelserviceupdate.com^
@@ -123,7 +122,6 @@
 ||mine.blank.drawpad.org^$third-party
 ||mine.terorie.com^$third-party
 ||minemytraffic.com^$third-party
-||miner.nimiq.com^$third-party
 ||minerad.com^
 ||minero-proxy-*.now.sh^$third-party
 ||mining.best^$third-party
@@ -136,14 +134,8 @@
 ||netflare.info^$third-party
 ||nfwebminer.com^$third-party
 ||nim.sh^$third-party
-||nimiq.agency^$third-party
-||nimiq.jp^$third-party
-||nimiq.network^$third-party
 ||nimiq.surf^$third-party
-||nimiq.terorie.com^$third-party
-||nimiq.watch^$third-party
 ||nimiqchina.com^$third-party
-||nimiqpool.com^$third-party
 ||nitrokod.com^
 ||notmining.org^$third-party
 ||offerreality.com^$third-party
@@ -159,9 +151,6 @@
 ||roastedvolt.net^$third-party
 ||rocks.io^$third-party
 ||scaleway.ovh^
-||seed-*.nimiq-network.com^$third-party
-||seed-*.nimiq.com^$third-party
-||seed-*.nimiq.network^$third-party
 ||serie-vostfr.com^$third-party
 ||serv1swork.com^
 ||silimbompom.com^$third-party
