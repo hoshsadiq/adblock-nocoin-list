@@ -6,7 +6,7 @@
 # Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 01 March 2025
+# Last modified: 05 March 2025
 #
 
 0.0.0.0 1q2w3.fun
@@ -187,7 +187,6 @@
 0.0.0.0 new.minr.pw
 0.0.0.0 nfwebminer.com
 0.0.0.0 niematego.tk
-0.0.0.0 nim.sh
 0.0.0.0 nimiq.icemining.ca
 0.0.0.0 nimwss-us-shark.lolopool.com
 0.0.0.0 ninaning.com
