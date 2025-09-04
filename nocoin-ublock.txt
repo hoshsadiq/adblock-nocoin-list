@@ -1,6 +1,10 @@
 [uBlock Origin]
-# NoCoin filter list optimized for uBlock
-
+! Title: NoCoin Filter List (uBO Extra)
+! Description: Extra NoCoin filter list rules optimized for uBlock
+! Expires: 7 days (update frequency)
+! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
+! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
+! License: https://mit-license.org/
 csgoconfigs.com##+js(acis, m, CH.Anonymous)
 djs.sk,mladipodnikatelia.sk,tubettajat.net##+js(aopr, miner)
 tasma.ru,vidzi.tv##+js(aopw, decodeURIComponent)
