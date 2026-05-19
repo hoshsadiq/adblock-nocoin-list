@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: NoCoin Filter List
 ! Expires: 7 days (update frequency)
-! Version: 227
-! Last modified: 10 November 2025
+! Version: 228
+! Last modified: 20 May 2026
 ! Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
 ! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
 ! License: https://mit-license.org/
@@ -95,7 +95,6 @@
 ||g1thub.com^
 ||gay-hotvideo.net^
 ||go.bestmobiworld.com^$third-party
-||go.fastspot.io^$third-party
 ||go.megabanners.cf^$third-party
 ||go.megabanners.cf^$websocket
 ||gridiogrid.com^$third-party
