@@ -123,7 +123,6 @@
 0.0.0.0 ganymed.beeppool.org
 0.0.0.0 gasolina.ml
 0.0.0.0 go.bestmobiworld.com
-0.0.0.0 go.fastspot.io
 0.0.0.0 go.megabanners.cf
 0.0.0.0 goldoffer.online
 0.0.0.0 gramombird.com
